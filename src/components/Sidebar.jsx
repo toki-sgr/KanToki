@@ -274,7 +274,7 @@ const Sidebar = ({ ships, userState, onImport, onExport }) => {
 
                 {/* Type Stats Card */}
                 <div className="glass-panel card-content">
-                    <h3 className="text-md font-bold text-pri mb-2">By Class</h3>
+                    <h3 className="text-md font-bold text-pri mb-2">By Type</h3>
                     <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
                         {sortedTypes.map(type => {
                             const stats = typeStats[type];

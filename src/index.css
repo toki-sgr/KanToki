@@ -208,13 +208,72 @@ button {
 /* =========================================
    5. Component: Header
 ========================================= */
-.sticky-header {
-  z-index: 50;
-  background: rgba(15, 16, 20, 0.85);
-  /* Matches bg-deep but transparent */
+/* Navigation Tabs in Banner */
+.nav-tab {
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  background: transparent;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.nav-tab:hover {
+  color: var(--text-primary);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.nav-tab.active {
+  color: var(--accent-primary);
+  background: var(--accent-primary-dim);
+  border-color: rgba(56, 189, 248, 0.2);
+}
+
+.glass-panel-no-border {
+  /* Like glass-panel but custom border logic */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* =========================================
+   5. Component: Header & Banner
+========================================= */
+.banner {
+  z-index: 100;
+  position: sticky;
+  top: 0;
+  height: 80px;
+  background: rgba(15, 16, 20, 0.95);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
-  padding: var(--space-3) 0;
+  border-bottom: 1px solid var(--glass-border);
+  display: flex;
+  align-items: center;
+  gap: var(--space-6);
+  flex-shrink: 0;
+
+  /* Full bleed logic */
+  margin-left: calc(var(--space-4) * -1);
+  margin-right: calc(var(--space-4) * -1);
+  padding: 4px var(--space-4);
+}
+
+/* =========================================
+   5. Component: Header (Filter Bar)
+========================================= */
+.sticky-header {
+  z-index: 90;
+  /* Below Banner (100) */
+  position: sticky;
+  top: 79px;
+  /* Overlap 1px with Banner border */
+  /* Banner height */
+  background: rgba(15, 16, 20, 0.85);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  padding: 4px 0;
   border-bottom: 1px solid var(--glass-border);
   display: flex;
   flex-direction: column;

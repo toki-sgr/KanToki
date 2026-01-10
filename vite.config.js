@@ -8,7 +8,7 @@ const shipDataServer = () => ({
   name: 'ship-data-server',
   configureServer(server) {
     server.middlewares.use('/api/ships', (req, res, next) => {
-      const shipsPath = path.resolve(__dirname, 'data/ships.json');
+      const shipsPath = path.resolve(__dirname, 'src/data/ships.json');
 
       if (req.method === 'GET') {
         try {

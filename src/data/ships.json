@@ -39,7 +39,7 @@
     "hiragana": "コロラド",
     "type": "戦艦",
     "class": "Colorado級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Colorado/::ref/colorado_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Colorado/::ref/401.jpg.webp?rev=caa38018e98157f0e467c0708be77bd8&t=20190525173042",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Colorado",
     "stages": [
       {
@@ -49,36 +49,44 @@
         "class": "Colorado級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kororado"
   },
   {
     "name": "Conte di Cavour",
-    "hiragana": "コンテ・ディ・カブール",
+    "hiragana": "カブール",
     "type": "戦艦",
     "class": "Conte di Cavour級 1番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Conte%20di%20Cavour%20nuovo/::ref/479.png.webp?rev=fe0ade1ee5a024dac3c8ade568b3de04&t=20210825075425",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Conte di Cavour",
     "stages": [
       {
         "level": 48,
         "name": "Conte di Cavour改",
         "type": "戦艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 30
+        }
       },
       {
         "level": 74,
         "name": "Conte di Cavour nuovo",
         "type": "戦艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 20,
+          "開発資材": 50
+        }
       }
-    ]
+    ],
+    "romaji": "kabuuru"
   },
   {
     "name": "Iowa",
     "hiragana": "アイオワ",
     "type": "戦艦",
     "class": "Iowa級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Iowa/::ref/iowa_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Iowa%E6%94%B9/::ref/240b_2nd.jpg.webp?rev=9208a4ac8949ddf1ed37a56cceb7d3d0&t=20181003101000",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Iowa",
     "stages": [
       {
@@ -88,7 +96,8 @@
         "class": "Iowa級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "aiowa"
   },
   {
     "name": "Jean Bart",
@@ -130,7 +139,7 @@
     "hiragana": "メリーランド",
     "type": "戦艦",
     "class": "Colorado級 2番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Maryland%E6%94%B9/::ref/518.png.webp?rev=ed7b4fad8b7e3717e3e571a7d51f552d&t=20220618202058",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Maryland",
     "stages": [
       {
@@ -139,7 +148,8 @@
         "type": "戦艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "meriirando"
   },
   {
     "name": "Massachusetts",
@@ -162,7 +172,7 @@
     "hiragana": "ネルソン",
     "type": "戦艦",
     "class": "Nelson級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Nelson/::ref/nelson_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Nelson%E6%94%B9/::ref/376.jpg.webp?rev=3f66ad418859bb0bc260f980ca4e2e8f&t=20180915003030",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Nelson",
     "stages": [
       {
@@ -172,14 +182,15 @@
         "class": "Nelson級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "neruson"
   },
   {
     "name": "Nevada",
-    "hiragana": "ネバダ",
+    "hiragana": "ネヴァダ",
     "type": "戦艦",
     "class": "Nevada級 1番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Nevada%E6%94%B9%20Mod.2/::ref/536.png.webp?rev=17731a379964a5a14743a4cb352535b4&t=20230903221320",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Nevada",
     "stages": [
       {
@@ -194,14 +205,15 @@
         "type": "戦艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "nevada"
   },
   {
     "name": "Richelieu",
     "hiragana": "リシュリュー",
     "type": "戦艦",
     "class": "Richelieu級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Richelieu/::ref/richelieu_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Richelieu%20Deux/::ref/569.png.webp?rev=96ee85d79cfe7921ead0e359426b80e3&t=20240727195721",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Richelieu",
     "stages": [
       {
@@ -221,14 +233,15 @@
           "開発資材": 30
         }
       }
-    ]
+    ],
+    "romaji": "rishuryuu"
   },
   {
     "name": "Rodney",
     "hiragana": "ロドニー",
     "type": "戦艦",
     "class": "Nelson級 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Rodney/::ref/rodney_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Rodney%E6%94%B9/::ref/377.png.webp?rev=c4b3241fd40434edbe47ee5d401c06f9&t=20230831052314",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Rodney",
     "stages": [
       {
@@ -238,7 +251,8 @@
         "class": "Nelson級 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "rodonii"
   },
   {
     "name": "Roma",
@@ -279,7 +293,7 @@
     "hiragana": "ヴァリアント",
     "type": "戦艦",
     "class": "Queen Elizabeth級 3番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Valiant%E6%94%B9/::ref/527b.png.webp?rev=28bf18534f2900760861a7c2b569c5a0&t=20240728225824",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Valiant",
     "stages": [
       {
@@ -288,14 +302,15 @@
         "type": "戦艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "vuarianto"
   },
   {
     "name": "Warspite",
     "hiragana": "ウォースパイト",
     "type": "戦艦",
     "class": "Queen Elizabeth級 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Warspite/::ref/warspite_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Warspite%E6%94%B9/::ref/239b_2nd.jpg.webp?rev=fcdef0b1e0859fef333ece83a14eda74&t=20181003100705",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Warspite",
     "stages": [
       {
@@ -305,14 +320,15 @@
         "class": "Queen Elizabeth級 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "uoosupaito"
   },
   {
     "name": "Washington",
     "hiragana": "ワシントン",
     "type": "戦艦",
     "class": "North Carolina級 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Washington/::ref/washington_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Washington%E6%94%B9/::ref/459.png.webp?rev=130cc45af2e8c3cbe4a5d626ae85381f&t=20201129065327",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Washington",
     "stages": [
       {
@@ -322,31 +338,33 @@
         "class": "North Carolina級 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "washinton"
   },
   {
     "name": "Гангут",
     "hiragana": "ガングート",
     "type": "戦艦",
-    "class": "Gangut級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Гангут/::ref/гангут_card.jpg",
+    "class": "Гангут級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%D0%93%D0%B0%D0%BD%D0%B3%D1%83%D1%82%20%D0%B4%D0%B2%D0%B0/::ref/316_2nd.jpg.webp?rev=d536b8b67699b943317b6f38175b283f&t=20180917075905",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%D0%93%D0%B0%D0%BD%D0%B3%D1%83%D1%82",
     "stages": [
       {
         "level": 30,
         "name": "Октябрьская революция",
         "type": "戦艦",
-        "class": "Gangut級 1番艦",
+        "class": "Гангут級 1番艦",
         "resources": {}
       },
       {
         "level": 75,
         "name": "Гангут два",
         "type": "戦艦",
-        "class": "Gangut級 1番艦",
+        "class": "Гангут級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ganguuto"
   },
   {
     "name": "伊勢",
