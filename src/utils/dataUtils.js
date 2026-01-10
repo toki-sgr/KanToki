@@ -1,10 +1,17 @@
-// src/utils/dataUtils.js
-import rawShipsData from '../../data/ships.json';
+import rawShipsData from '../data/ships.json';
+import { toRomaji } from 'wanakana';
 
 
+
+
+// Pre-calculate Romaji for performance
+const shipsWithRomaji = rawShipsData.map(ship => ({
+    ...ship,
+    romaji: ship.hiragana ? toRomaji(ship.hiragana) : ''
+}));
 
 export const getAllShips = () => {
-    return rawShipsData;
+    return shipsWithRomaji;
 };
 
 export const getAllShipTypes = () => {
@@ -74,9 +81,10 @@ export const matchesSearch = (ship, query) => {
     if (!query) return true;
     const q = query.toLowerCase();
 
-    // Name, Hiragana, Class, Type
+    // Name, Hiragana, Romaji, Class, Type
     if (ship.name.toLowerCase().includes(q)) return true;
     if (ship.hiragana?.includes(q)) return true;
+    if (ship.romaji?.includes(q)) return true; // Romaji check
     if (ship.class.toLowerCase().includes(q)) return true;
     if (ship.type.toLowerCase().includes(q)) return true;
 

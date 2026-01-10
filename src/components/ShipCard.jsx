@@ -1,8 +1,10 @@
-import React from 'react';
 import { getShipStatus } from '../utils/dataUtils';
+import { getResourceName } from '../data/resourceMappings';
+import { shipTypeAliases } from '../data/shipTypeMappings';
 
 const ShipCard = ({ ship, userState, onUpdate, onEdit }) => {
     const currentStatus = getShipStatus(ship, userState);
+
 
     // Handlers
     const toggleAcquired = () => {
@@ -157,8 +159,8 @@ const ShipCard = ({ ship, userState, onUpdate, onEdit }) => {
                                 {/* Resources */}
                                 <div className="flex-row" style={{ marginLeft: 'auto', flexWrap: 'wrap' }}>
                                     {stage.resources && Object.entries(stage.resources).map(([resName, count]) => (
-                                        <span key={resName} className="badge badge-gold">
-                                            {resName} x{count}
+                                        <span key={resName} className="badge badge-gold" title={resName}>
+                                            {getResourceName(resName)} x{count}
                                         </span>
                                     ))}
                                 </div>
