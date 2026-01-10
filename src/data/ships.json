@@ -32,7 +32,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "bisumaruku"
   },
   {
     "name": "Colorado",
@@ -104,7 +105,7 @@
     "hiragana": "ジャン・バール",
     "type": "戦艦",
     "class": "Richelieu級 2番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Jean%20Bart%E6%94%B9/::ref/535b.png.webp?rev=e0c0c1deaeeb766fa170776a6e5bc359&t=20220914073633",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Jean Bart",
     "stages": [
       {
@@ -113,7 +114,8 @@
         "type": "戦艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "jan/baaru"
   },
   {
     "name": "Littorio",
@@ -132,7 +134,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "rittorio"
   },
   {
     "name": "Maryland",
@@ -165,7 +168,8 @@
         "type": "戦艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "masachuusettsu"
   },
   {
     "name": "Nelson",
@@ -206,7 +210,7 @@
         "resources": {}
       }
     ],
-    "romaji": "nevada"
+    "romaji": "nevuada"
   },
   {
     "name": "Richelieu",
@@ -269,7 +273,8 @@
         "class": "Vittorio Veneto級 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "rooma"
   },
   {
     "name": "South Dakota",
@@ -286,7 +291,8 @@
         "class": "South Dakota級 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "sausudakota"
   },
   {
     "name": "Valiant",
@@ -393,7 +399,8 @@
           "開発資材": 80
         }
       }
-    ]
+    ],
+    "romaji": "ise"
   },
   {
     "name": "大和",
@@ -432,7 +439,8 @@
           "開発資材": 50
         }
       }
-    ]
+    ],
+    "romaji": "yamato"
   },
   {
     "name": "山城",
@@ -458,7 +466,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "yamashiro"
   },
   {
     "name": "扶桑",
@@ -484,7 +493,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "fusou"
   },
   {
     "name": "日向",
@@ -514,7 +524,8 @@
           "開発資材": 181
         }
       }
-    ]
+    ],
+    "romaji": "hyuuga"
   },
   {
     "name": "榛名",
@@ -560,7 +571,8 @@
           "開発資材": 15
         }
       }
-    ]
+    ],
+    "romaji": "haruna"
   },
   {
     "name": "武蔵",
@@ -588,7 +600,8 @@
           "戦闘詳報": 1
         }
       }
-    ]
+    ],
+    "romaji": "musashi"
   },
   {
     "name": "比叡",
@@ -624,7 +637,8 @@
           "開発資材": 330
         }
       }
-    ]
+    ],
+    "romaji": "hiei"
   },
   {
     "name": "金剛",
@@ -660,7 +674,8 @@
           "開発資材": 300
         }
       }
-    ]
+    ],
+    "romaji": "kongou"
   },
   {
     "name": "長門",
@@ -686,7 +701,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "nagato"
   },
   {
     "name": "陸奥",
@@ -712,7 +728,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "mutsu"
   },
   {
     "name": "霧島",
@@ -748,7 +765,8 @@
           "開発資材": 400
         }
       }
-    ]
+    ],
+    "romaji": "kirishima"
   },
   {
     "name": "Glorious",
@@ -776,7 +794,8 @@
         "type": "巡洋戦艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "guroriasu"
   },
   {
     "name": "Aquila",
@@ -793,7 +812,8 @@
         "class": "Aquila級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "akyira"
   },
   {
     "name": "Ark Royal",
@@ -810,7 +830,8 @@
         "class": "Ark Royal級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "aaku/roiyaru"
   },
   {
     "name": "Graf Zeppelin",
@@ -827,7 +848,8 @@
         "class": "Graf Zeppelin級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "guraafu/tsuepperin"
   },
   {
     "name": "Hornet",
@@ -844,7 +866,8 @@
         "class": "Yorktown級 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hoonetto"
   },
   {
     "name": "Intrepid",
@@ -861,7 +884,8 @@
         "class": "Essex級 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "intorepiddo"
   },
   {
     "name": "Lexington",
@@ -877,7 +901,8 @@
         "type": "正規空母",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "rekishinton"
   },
   {
     "name": "Ranger",
@@ -893,7 +918,8 @@
         "type": "正規空母",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "renjaa"
   },
   {
     "name": "Saratoga",
@@ -929,7 +955,8 @@
           "試製甲板カタパルト": 1
         }
       }
-    ]
+    ],
+    "romaji": "saratoga"
   },
   {
     "name": "Wasp",
@@ -945,7 +972,8 @@
         "type": "正規空母",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "wasupu"
   },
   {
     "name": "加賀",
@@ -995,7 +1023,8 @@
           "開発資材": 84
         }
       }
-    ]
+    ],
+    "romaji": "kaga"
   },
   {
     "name": "大鳳",
@@ -1012,7 +1041,8 @@
         "class": "大鳳型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "taihou"
   },
   {
     "name": "天城",
@@ -1031,7 +1061,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "amagi"
   },
   {
     "name": "葛城",
@@ -1050,7 +1081,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "katsuragi"
   },
   {
     "name": "蒼龍",
@@ -1076,7 +1108,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "souryuu"
   },
   {
     "name": "赤城",
@@ -1116,7 +1149,8 @@
           "開発資材": 80
         }
       }
-    ]
+    ],
+    "romaji": "akagi"
   },
   {
     "name": "雲龍",
@@ -1135,7 +1169,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "unryuu"
   },
   {
     "name": "飛龍",
@@ -1161,7 +1196,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "hiryuu"
   },
   {
     "name": "Victorious",
@@ -1177,7 +1213,8 @@
         "type": "装甲空母",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "vyikutoriasu"
   },
   {
     "name": "Gambier Bay",
@@ -1204,7 +1241,8 @@
           "試製甲板カタパルト": 1
         }
       }
-    ]
+    ],
+    "romaji": "ganbia/bei"
   },
   {
     "name": "Langley",
@@ -1220,7 +1258,8 @@
         "type": "軽空母",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ranguree"
   },
   {
     "name": "春日丸",
@@ -1254,7 +1293,8 @@
           "試製甲板カタパルト": 1
         }
       }
-    ]
+    ],
+    "romaji": "kasugamaru"
   },
   {
     "name": "瑞鳳",
@@ -1290,7 +1330,8 @@
           "開発資材": 5
         }
       }
-    ]
+    ],
+    "romaji": "zuihou"
   },
   {
     "name": "神鷹",
@@ -1317,7 +1358,8 @@
           "試製甲板カタパルト": 1
         }
       }
-    ]
+    ],
+    "romaji": "shin'you"
   },
   {
     "name": "祥鳳",
@@ -1334,7 +1376,8 @@
         "class": "祥鳳型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "shouhou"
   },
   {
     "name": "隼鷹",
@@ -1360,7 +1403,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "jun'you"
   },
   {
     "name": "飛鷹",
@@ -1377,7 +1421,8 @@
         "class": "飛鷹型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hiyou"
   },
   {
     "name": "鳳翔",
@@ -1415,7 +1460,8 @@
           "開発資材": 20
         }
       }
-    ]
+    ],
+    "romaji": "houshou"
   },
   {
     "name": "龍驤",
@@ -1439,7 +1485,8 @@
         "class": "龍驤型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ryuujou"
   },
   {
     "name": "しまね丸",
@@ -1455,7 +1502,8 @@
         "type": "特設護衛空母",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "shimanemaru"
   },
   {
     "name": "山汐丸",
@@ -1471,7 +1519,8 @@
         "type": "特設護衛空母",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "yamashiomaru"
   },
   {
     "name": "Houston",
@@ -1488,7 +1537,8 @@
         "class": "Northampton級 5番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hyuusuton"
   },
   {
     "name": "Minneapolis",
@@ -1504,7 +1554,8 @@
         "type": "重巡洋艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "mineaporisu"
   },
   {
     "name": "Northampton",
@@ -1521,7 +1572,8 @@
         "class": "Northampton級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "noozanputon"
   },
   {
     "name": "Pola",
@@ -1538,7 +1590,8 @@
         "class": "Zara級 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "poora"
   },
   {
     "name": "Prinz Eugen",
@@ -1555,7 +1608,8 @@
         "class": "Admiral Hipper級 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "purintsu/oigen"
   },
   {
     "name": "Tuscaloosa",
@@ -1571,7 +1625,8 @@
         "type": "重巡洋艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "tasukaruusa"
   },
   {
     "name": "Zara",
@@ -1597,7 +1652,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "zara"
   },
   {
     "name": "Киров",
@@ -1613,7 +1669,8 @@
         "type": "重巡洋艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kiirofu"
   },
   {
     "name": "三隈",
@@ -1653,7 +1710,8 @@
           "開発資材": 35
         }
       }
-    ]
+    ],
+    "romaji": "mikuma"
   },
   {
     "name": "利根",
@@ -1679,7 +1737,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "tone"
   },
   {
     "name": "加古",
@@ -1705,7 +1764,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "kako"
   },
   {
     "name": "古鷹",
@@ -1731,7 +1791,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "furutaka"
   },
   {
     "name": "妙高",
@@ -1757,7 +1818,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "myoukou"
   },
   {
     "name": "愛宕",
@@ -1774,7 +1836,8 @@
         "class": "高雄型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "atago"
   },
   {
     "name": "摩耶",
@@ -1798,7 +1861,8 @@
         "class": "高雄型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "maya"
   },
   {
     "name": "最上",
@@ -1837,7 +1901,8 @@
           "開発資材": 60
         }
       }
-    ]
+    ],
+    "romaji": "mogami"
   },
   {
     "name": "熊野",
@@ -1874,7 +1939,8 @@
           "開発資材": 10
         }
       }
-    ]
+    ],
+    "romaji": "kumano"
   },
   {
     "name": "筑摩",
@@ -1900,7 +1966,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "chikuma"
   },
   {
     "name": "羽黒",
@@ -1926,7 +1993,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "haguro"
   },
   {
     "name": "衣笠",
@@ -1952,7 +2020,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "kinugasa"
   },
   {
     "name": "足柄",
@@ -1974,7 +2043,8 @@
         "type": "重巡洋艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ashigara"
   },
   {
     "name": "那智",
@@ -2000,7 +2070,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "nachi"
   },
   {
     "name": "鈴谷",
@@ -2037,7 +2108,8 @@
           "開発資材": 10
         }
       }
-    ]
+    ],
+    "romaji": "suzuya"
   },
   {
     "name": "青葉",
@@ -2054,7 +2126,8 @@
         "class": "青葉型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "aoba"
   },
   {
     "name": "高雄",
@@ -2071,7 +2144,8 @@
         "class": "高雄型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "takao"
   },
   {
     "name": "鳥海",
@@ -2097,7 +2171,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "choukai"
   },
   {
     "name": "Gotland",
@@ -2121,7 +2196,8 @@
         "class": "Gotland級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "gotorando"
   },
   {
     "name": "Atlanta",
@@ -2138,7 +2214,8 @@
         "class": "Atlanta級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "atoranta"
   },
   {
     "name": "Brooklyn",
@@ -2154,7 +2231,8 @@
         "type": "軽巡洋艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "burukkurin"
   },
   {
     "name": "De Ruyter",
@@ -2171,7 +2249,8 @@
         "class": "De Ruyter級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "de/roiteru"
   },
   {
     "name": "G.Garibaldi",
@@ -2188,7 +2267,8 @@
         "class": "Condottieri級 5型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "juzeppe/garibarudei"
   },
   {
     "name": "Gloire",
@@ -2204,7 +2284,8 @@
         "type": "軽巡洋艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "gurowaaru"
   },
   {
     "name": "Helena",
@@ -2221,7 +2302,8 @@
         "class": "St. Louis級 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "herena"
   },
   {
     "name": "Honolulu",
@@ -2238,7 +2320,8 @@
         "class": "Brooklyn級 7番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "honoruru"
   },
   {
     "name": "L.d.S.D.d.Abruzzi",
@@ -2255,7 +2338,8 @@
         "class": "Condottieri級 5型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ruiiji/dei/savuoia/douuka/derri/aburuttsui"
   },
   {
     "name": "Perth",
@@ -2272,7 +2356,8 @@
         "class": "Perth級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "paasu"
   },
   {
     "name": "Phoenix",
@@ -2296,7 +2381,8 @@
           "新型兵装資材": 1
         }
       }
-    ]
+    ],
+    "romaji": "fyenikkusu"
   },
   {
     "name": "Sheffield",
@@ -2313,7 +2399,8 @@
         "class": "Town級 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "shefyiirudo"
   },
   {
     "name": "五十鈴",
@@ -2337,7 +2424,8 @@
         "class": "長良型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "isuzu"
   },
   {
     "name": "北上",
@@ -2361,7 +2449,8 @@
         "class": "球磨型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kitakami"
   },
   {
     "name": "名取",
@@ -2378,7 +2467,8 @@
         "class": "長良型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "natori"
   },
   {
     "name": "多摩",
@@ -2404,7 +2494,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "tama"
   },
   {
     "name": "大井",
@@ -2428,7 +2519,8 @@
         "class": "球磨型 4番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ooi"
   },
   {
     "name": "大淀",
@@ -2445,7 +2537,8 @@
         "class": "大淀型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ooyodo"
   },
   {
     "name": "天龍",
@@ -2471,7 +2564,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "tenryuu"
   },
   {
     "name": "川内",
@@ -2495,7 +2589,8 @@
         "class": "川内型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "sendai"
   },
   {
     "name": "木曾",
@@ -2521,7 +2616,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "kiso"
   },
   {
     "name": "球磨",
@@ -2557,7 +2653,8 @@
           "開発資材": 30
         }
       }
-    ]
+    ],
+    "romaji": "kuma"
   },
   {
     "name": "由良",
@@ -2583,7 +2680,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "yura"
   },
   {
     "name": "矢矧",
@@ -2622,7 +2720,8 @@
           "開発資材": 45
         }
       }
-    ]
+    ],
+    "romaji": "yahagi"
   },
   {
     "name": "神通",
@@ -2646,7 +2745,8 @@
         "class": "川内型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "jintsuu"
   },
   {
     "name": "能代",
@@ -2677,7 +2777,8 @@
           "開発資材": 80
         }
       }
-    ]
+    ],
+    "romaji": "noshiro"
   },
   {
     "name": "那珂",
@@ -2701,7 +2802,8 @@
         "class": "川内型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "naka"
   },
   {
     "name": "酒匂",
@@ -2718,7 +2820,8 @@
         "class": "阿賀野型 4番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "sakawa"
   },
   {
     "name": "長良",
@@ -2735,7 +2838,8 @@
         "class": "長良型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "nagara"
   },
   {
     "name": "阿賀野",
@@ -2752,7 +2856,8 @@
         "class": "阿賀野型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "agano"
   },
   {
     "name": "龍田",
@@ -2778,7 +2883,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "tatsuta"
   },
   {
     "name": "香取",
@@ -2795,7 +2901,8 @@
         "class": "香取型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "katori"
   },
   {
     "name": "鹿島",
@@ -2812,7 +2919,8 @@
         "class": "香取型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kashima"
   },
   {
     "name": "朝日",
@@ -2828,7 +2936,8 @@
         "type": "工作艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "asahi"
   },
   {
     "name": "Fletcher",
@@ -2859,7 +2968,8 @@
         "class": "Fletcher級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "furetchaa"
   },
   {
     "name": "Grecale",
@@ -2876,7 +2986,8 @@
         "class": "Maestrale級 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "gurekaare"
   },
   {
     "name": "Heywood L.E.",
@@ -2892,7 +3003,8 @@
         "type": "駆逐艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "heiuddo/L/edowaazu"
   },
   {
     "name": "Janus",
@@ -2909,7 +3021,8 @@
         "class": "J級 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "jeenasu"
   },
   {
     "name": "Javelin",
@@ -2925,7 +3038,8 @@
         "type": "駆逐艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "jaberin"
   },
   {
     "name": "Jervis",
@@ -2942,7 +3056,8 @@
         "class": "J級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "jaavyisu"
   },
   {
     "name": "Johnston",
@@ -2959,7 +3074,8 @@
         "class": "Fletcher級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "jonsuton"
   },
   {
     "name": "Libeccio",
@@ -2976,7 +3092,8 @@
         "class": "Maestrale級 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ribetchio"
   },
   {
     "name": "Maestrale",
@@ -2993,7 +3110,8 @@
         "class": "Maestrale級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "maesutoraare"
   },
   {
     "name": "Mogador",
@@ -3009,7 +3127,8 @@
         "type": "駆逐艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "mogadooru"
   },
   {
     "name": "Richard P.Leary",
@@ -3025,7 +3144,8 @@
         "type": "駆逐艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "richaado/P/riarii"
   },
   {
     "name": "Samuel B.Roberts",
@@ -3052,7 +3172,8 @@
           "戦闘詳報": 1
         }
       }
-    ]
+    ],
+    "romaji": "samyueru/B/robaatsu"
   },
   {
     "name": "Scirocco",
@@ -3069,7 +3190,8 @@
         "class": "Maestrale級 4番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "shirokko"
   },
   {
     "name": "Z1",
@@ -3093,7 +3215,8 @@
         "class": "1934年型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "reeberehito/maasu"
   },
   {
     "name": "Z3",
@@ -3117,7 +3240,8 @@
         "class": "1934年型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "makkusu/shurutsu"
   },
   {
     "name": "Ташкент",
@@ -3133,7 +3257,8 @@
         "type": "駆逐艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "tashukento"
   },
   {
     "name": "三日月",
@@ -3150,7 +3275,8 @@
         "class": "睦月型 10番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "mikazuki"
   },
   {
     "name": "不知火",
@@ -3176,7 +3302,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "shiranui"
   },
   {
     "name": "五月雨",
@@ -3193,7 +3320,8 @@
         "class": "白露型 6番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "samidare"
   },
   {
     "name": "冬月",
@@ -3210,7 +3338,8 @@
         "class": "秋月型 8番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "fuyutsuki"
   },
   {
     "name": "初春",
@@ -3236,7 +3365,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "hatsuharu"
   },
   {
     "name": "初月",
@@ -3260,7 +3390,8 @@
         "class": "秋月型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hatsuzuki"
   },
   {
     "name": "初雪",
@@ -3288,7 +3419,8 @@
           "開発資材": 28
         }
       }
-    ]
+    ],
+    "romaji": "hatsuyuki"
   },
   {
     "name": "初霜",
@@ -3312,7 +3444,8 @@
         "class": "初春型 4番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hatsushimo"
   },
   {
     "name": "初風",
@@ -3329,7 +3462,8 @@
         "class": "陽炎型 7番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hatsukaze"
   },
   {
     "name": "卯月",
@@ -3346,7 +3480,8 @@
         "class": "睦月型 4番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "uzuki"
   },
   {
     "name": "叢雲",
@@ -3372,7 +3507,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "murakumo"
   },
   {
     "name": "吹雪",
@@ -3398,7 +3534,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "fubuki"
   },
   {
     "name": "夏雲",
@@ -3415,7 +3552,8 @@
         "class": "朝潮型 7番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "natsugumo"
   },
   {
     "name": "夕暮",
@@ -3432,7 +3570,8 @@
         "class": "初春型 6番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "yuugure"
   },
   {
     "name": "夕立",
@@ -3458,7 +3597,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "yuudachi"
   },
   {
     "name": "夕雲",
@@ -3484,7 +3624,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "yuugumo"
   },
   {
     "name": "大潮",
@@ -3510,7 +3651,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "ooshio"
   },
   {
     "name": "天津風",
@@ -3539,7 +3681,8 @@
           "開発資材": 65
         }
       }
-    ]
+    ],
+    "romaji": "amatsukaze"
   },
   {
     "name": "天霧",
@@ -3575,7 +3718,8 @@
           "開発資材": 20
         }
       }
-    ]
+    ],
+    "romaji": "amagiri"
   },
   {
     "name": "如月",
@@ -3601,7 +3745,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "kisaragi"
   },
   {
     "name": "子日",
@@ -3618,7 +3763,8 @@
         "class": "初春型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "nenohi"
   },
   {
     "name": "山雲",
@@ -3635,7 +3781,8 @@
         "class": "朝潮型 6番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "yamagumo"
   },
   {
     "name": "山風",
@@ -3672,7 +3819,8 @@
           "開発資材": 10
         }
       }
-    ]
+    ],
+    "romaji": "yamakaze"
   },
   {
     "name": "岸波",
@@ -3689,7 +3837,8 @@
         "class": "夕雲型 15番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kishinami"
   },
   {
     "name": "峯雲",
@@ -3706,7 +3855,8 @@
         "class": "朝潮型 8番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "minegumo"
   },
   {
     "name": "島風",
@@ -3723,7 +3873,8 @@
         "class": "島風型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "shimakaze"
   },
   {
     "name": "嵐",
@@ -3740,7 +3891,8 @@
         "class": "陽炎型 16番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "arashi"
   },
   {
     "name": "巻波",
@@ -3756,7 +3908,8 @@
         "type": "駆逐艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "makinami"
   },
   {
     "name": "巻雲",
@@ -3782,7 +3935,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "makigumo"
   },
   {
     "name": "弥生",
@@ -3799,7 +3953,8 @@
         "class": "睦月型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "yayoi"
   },
   {
     "name": "敷波",
@@ -3825,7 +3980,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "shikinami"
   },
   {
     "name": "文月",
@@ -3851,7 +4007,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "fumizuki"
   },
   {
     "name": "旗風",
@@ -3868,7 +4025,8 @@
         "class": "神風型 5番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hatakaze"
   },
   {
     "name": "早波",
@@ -3885,7 +4043,8 @@
         "class": "夕雲型 12番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hayanami"
   },
   {
     "name": "早潮",
@@ -3910,7 +4069,8 @@
           "開発資材": 20
         }
       }
-    ]
+    ],
+    "romaji": "hayashio"
   },
   {
     "name": "早霜",
@@ -3938,7 +4098,8 @@
           "開発資材": 30
         }
       }
-    ]
+    ],
+    "romaji": "hayashimo"
   },
   {
     "name": "春雨",
@@ -3964,7 +4125,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "harusame"
   },
   {
     "name": "春風",
@@ -3981,7 +4143,8 @@
         "class": "神風型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "harukaze"
   },
   {
     "name": "時津風",
@@ -3998,7 +4161,8 @@
         "class": "陽炎型 10番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "tokitsukaze"
   },
   {
     "name": "時雨",
@@ -4036,7 +4200,8 @@
           "開発資材": 77
         }
       }
-    ]
+    ],
+    "romaji": "shigure"
   },
   {
     "name": "暁",
@@ -4062,7 +4227,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "akatsuki"
   },
   {
     "name": "曙",
@@ -4088,7 +4254,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "akebono"
   },
   {
     "name": "有明",
@@ -4105,7 +4272,8 @@
         "class": "初春型 5番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ariake"
   },
   {
     "name": "望月",
@@ -4122,7 +4290,8 @@
         "class": "睦月型 11番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "mochizuki"
   },
   {
     "name": "朝潮",
@@ -4155,7 +4324,8 @@
         "class": "朝潮型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "asashio"
   },
   {
     "name": "朝雲",
@@ -4172,7 +4342,8 @@
         "class": "朝潮型 5番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "asagumo"
   },
   {
     "name": "朝霜",
@@ -4200,7 +4371,8 @@
           "開発資材": 30
         }
       }
-    ]
+    ],
+    "romaji": "asashimo"
   },
   {
     "name": "朝風",
@@ -4217,7 +4389,8 @@
         "class": "神風型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "asakaze"
   },
   {
     "name": "朧",
@@ -4234,7 +4407,8 @@
         "class": "吹雪型 17番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "oboro"
   },
   {
     "name": "杉",
@@ -4250,7 +4424,8 @@
         "type": "駆逐艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "sugi"
   },
   {
     "name": "村雨",
@@ -4276,7 +4451,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "murasame"
   },
   {
     "name": "松",
@@ -4293,7 +4469,8 @@
         "class": "松型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "matsu"
   },
   {
     "name": "松風",
@@ -4310,7 +4487,8 @@
         "class": "神風型 4番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "matsukaze"
   },
   {
     "name": "桃",
@@ -4327,7 +4505,8 @@
         "class": "松型 4番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "momo"
   },
   {
     "name": "梅",
@@ -4344,7 +4523,8 @@
         "class": "松型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ume"
   },
   {
     "name": "榧",
@@ -4360,7 +4540,8 @@
         "type": "駆逐艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kaya"
   },
   {
     "name": "樫",
@@ -4376,7 +4557,8 @@
         "type": "駆逐艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kashi"
   },
   {
     "name": "水無月",
@@ -4393,7 +4575,8 @@
         "class": "睦月型 6番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "minazuki"
   },
   {
     "name": "江風",
@@ -4419,7 +4602,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "kawakaze"
   },
   {
     "name": "沖波",
@@ -4447,7 +4631,8 @@
           "開発資材": 80
         }
       }
-    ]
+    ],
+    "romaji": "okinami"
   },
   {
     "name": "浜波",
@@ -4475,7 +4660,8 @@
           "開発資材": 60
         }
       }
-    ]
+    ],
+    "romaji": "hamanami"
   },
   {
     "name": "浜風",
@@ -4499,7 +4685,8 @@
         "class": "陽炎型 13番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hamakaze"
   },
   {
     "name": "浦波",
@@ -4526,7 +4713,8 @@
           "開発資材": 20
         }
       }
-    ]
+    ],
+    "romaji": "uranami"
   },
   {
     "name": "浦風",
@@ -4550,7 +4738,8 @@
         "class": "陽炎型 11番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "urakaze"
   },
   {
     "name": "海風",
@@ -4577,7 +4766,8 @@
           "戦闘詳報": 1
         }
       }
-    ]
+    ],
+    "romaji": "umikaze"
   },
   {
     "name": "涼月",
@@ -4594,7 +4784,8 @@
         "class": "秋月型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "suzutsuki"
   },
   {
     "name": "涼波",
@@ -4610,7 +4801,8 @@
         "type": "駆逐艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "suzunami"
   },
   {
     "name": "涼風",
@@ -4627,7 +4819,8 @@
         "class": "白露型 10番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "suzukaze"
   },
   {
     "name": "深雪",
@@ -4654,7 +4847,8 @@
           "開発資材": 10
         }
       }
-    ]
+    ],
+    "romaji": "miyuki"
   },
   {
     "name": "清霜",
@@ -4692,7 +4886,8 @@
           "開発資材": 10
         }
       }
-    ]
+    ],
+    "romaji": "kiyoshimo"
   },
   {
     "name": "満潮",
@@ -4718,7 +4913,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "michishio"
   },
   {
     "name": "漣",
@@ -4735,7 +4931,8 @@
         "class": "吹雪型 19番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "sazanami"
   },
   {
     "name": "潮",
@@ -4761,7 +4958,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "ushio"
   },
   {
     "name": "照月",
@@ -4778,7 +4976,8 @@
         "class": "秋月型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "teruzuki"
   },
   {
     "name": "狭霧",
@@ -4795,7 +4994,8 @@
         "class": "綾波型 14番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "sagiri"
   },
   {
     "name": "玉波",
@@ -4811,7 +5011,8 @@
         "type": "駆逐艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "tamanami"
   },
   {
     "name": "白雪",
@@ -4839,7 +5040,8 @@
           "開発資材": 20
         }
       }
-    ]
+    ],
+    "romaji": "shirayuki"
   },
   {
     "name": "白雲",
@@ -4855,7 +5057,8 @@
         "type": "駆逐艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "shirakumo"
   },
   {
     "name": "白露",
@@ -4879,7 +5082,8 @@
         "class": "白露型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "shiratsuyu"
   },
   {
     "name": "皐月",
@@ -4905,7 +5109,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "satsuki"
   },
   {
     "name": "睦月",
@@ -4931,7 +5136,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "mutsuki"
   },
   {
     "name": "磯波",
@@ -4959,7 +5165,8 @@
           "新型砲熕兵装資材": 1
         }
       }
-    ]
+    ],
+    "romaji": "isonami"
   },
   {
     "name": "磯風",
@@ -4983,7 +5190,8 @@
         "class": "陽炎型 12番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "isokaze"
   },
   {
     "name": "神風",
@@ -5000,7 +5208,8 @@
         "class": "神風型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kamikaze"
   },
   {
     "name": "秋月",
@@ -5024,7 +5233,8 @@
         "class": "秋月型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "akizuki"
   },
   {
     "name": "秋雲",
@@ -5052,7 +5262,8 @@
           "開発資材": 20
         }
       }
-    ]
+    ],
+    "romaji": "akigumo"
   },
   {
     "name": "秋霜",
@@ -5069,7 +5280,8 @@
         "class": "夕雲型 18番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "akishimo"
   },
   {
     "name": "竹",
@@ -5086,7 +5298,8 @@
         "class": "松型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "take"
   },
   {
     "name": "綾波",
@@ -5112,7 +5325,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "ayanami"
   },
   {
     "name": "舞風",
@@ -5129,7 +5343,8 @@
         "class": "陽炎型 18番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "maikaze"
   },
   {
     "name": "若葉",
@@ -5146,7 +5361,8 @@
         "class": "初春型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "wakaba"
   },
   {
     "name": "荒潮",
@@ -5172,7 +5388,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "arashio"
   },
   {
     "name": "菊月",
@@ -5189,7 +5406,8 @@
         "class": "睦月型 9番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kikuzuki"
   },
   {
     "name": "萩風",
@@ -5206,7 +5424,8 @@
         "class": "陽炎型 17番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hagikaze"
   },
   {
     "name": "薄雲",
@@ -5223,7 +5442,8 @@
         "class": "吹雪型 7番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "usugumo"
   },
   {
     "name": "藤波",
@@ -5250,7 +5470,8 @@
           "開発資材": 65
         }
       }
-    ]
+    ],
+    "romaji": "fujinami"
   },
   {
     "name": "親潮",
@@ -5277,7 +5498,8 @@
           "開発資材": 20
         }
       }
-    ]
+    ],
+    "romaji": "oyashio"
   },
   {
     "name": "谷風",
@@ -5301,7 +5523,8 @@
         "class": "陽炎型 14番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "tanikaze"
   },
   {
     "name": "野分",
@@ -5318,7 +5541,8 @@
         "class": "陽炎型 15番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "nowaki"
   },
   {
     "name": "長月",
@@ -5335,7 +5559,8 @@
         "class": "睦月型 8番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "nagatsuki"
   },
   {
     "name": "長波",
@@ -5362,7 +5587,8 @@
           "戦闘詳報": 1
         }
       }
-    ]
+    ],
+    "romaji": "naganami"
   },
   {
     "name": "陽炎",
@@ -5388,7 +5614,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "kagerou"
   },
   {
     "name": "雪風",
@@ -5426,7 +5653,8 @@
           "開発資材": 60
         }
       }
-    ]
+    ],
+    "romaji": "yukikaze"
   },
   {
     "name": "雷",
@@ -5443,7 +5671,8 @@
         "class": "暁型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ikazuchi"
   },
   {
     "name": "電",
@@ -5460,7 +5689,8 @@
         "class": "暁型 4番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "inazuma"
   },
   {
     "name": "霞",
@@ -5493,7 +5723,8 @@
         "class": "朝潮型 10番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kasumi"
   },
   {
     "name": "霰",
@@ -5519,7 +5750,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "arare"
   },
   {
     "name": "響",
@@ -5543,7 +5775,8 @@
         "class": "暁型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hibiki"
   },
   {
     "name": "風雲",
@@ -5570,7 +5803,8 @@
           "戦闘詳報": 1
         }
       }
-    ]
+    ],
+    "romaji": "kazagumo"
   },
   {
     "name": "高波",
@@ -5598,7 +5832,8 @@
           "開発資材": 20
         }
       }
-    ]
+    ],
+    "romaji": "takanami"
   },
   {
     "name": "黒潮",
@@ -5625,7 +5860,8 @@
           "開発資材": 20
         }
       }
-    ]
+    ],
+    "romaji": "kuroshio"
   },
   {
     "name": "佐渡",
@@ -5642,7 +5878,8 @@
         "class": "択捉型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "sado"
   },
   {
     "name": "倉橋",
@@ -5658,7 +5895,8 @@
         "type": "海防艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kurahashi"
   },
   {
     "name": "八丈",
@@ -5675,7 +5913,8 @@
         "class": "占守型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hachijou"
   },
   {
     "name": "占守",
@@ -5692,7 +5931,8 @@
         "class": "占守型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "shimushu"
   },
   {
     "name": "国後",
@@ -5709,7 +5949,8 @@
         "class": "占守型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kunashiri"
   },
   {
     "name": "大東",
@@ -5726,7 +5967,8 @@
         "class": "日振型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "daitou"
   },
   {
     "name": "対馬",
@@ -5743,7 +5985,8 @@
         "class": "択捉型 4番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "tsushima"
   },
   {
     "name": "屋代",
@@ -5760,7 +6003,8 @@
         "class": "御蔵型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "yashiro"
   },
   {
     "name": "平戸",
@@ -5777,7 +6021,8 @@
         "class": "択捉型 13番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hirado"
   },
   {
     "name": "御蔵",
@@ -5794,7 +6039,8 @@
         "class": "御蔵型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "mikura"
   },
   {
     "name": "択捉",
@@ -5811,7 +6057,8 @@
         "class": "択捉型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "etorofu"
   },
   {
     "name": "日振",
@@ -5828,7 +6075,8 @@
         "class": "日振型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hiburi"
   },
   {
     "name": "昭南",
@@ -5844,7 +6092,8 @@
         "type": "海防艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "shounan"
   },
   {
     "name": "松輪",
@@ -5861,7 +6110,8 @@
         "class": "択捉型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "matsuwa"
   },
   {
     "name": "石垣",
@@ -5878,7 +6128,8 @@
         "class": "占守型 4番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ishigaki"
   },
   {
     "name": "福江",
@@ -5895,7 +6146,8 @@
         "class": "択捉型 10番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "fukae"
   },
   {
     "name": "稲木",
@@ -5921,7 +6173,8 @@
           "開発資材": 13
         }
       }
-    ]
+    ],
+    "romaji": "inagi"
   },
   {
     "name": "第三〇号海防艦",
@@ -5938,7 +6191,8 @@
         "class": "丁型海防艦 15番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "daisanjuugoukaiboukan"
   },
   {
     "name": "第四号海防艦",
@@ -5955,7 +6209,8 @@
         "class": "丁型海防艦 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "daiyongoukaiboukan"
   },
   {
     "name": "能美",
@@ -5971,7 +6226,8 @@
         "type": "海防艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "noumi"
   },
   {
     "name": "鵜来",
@@ -5987,7 +6243,8 @@
         "type": "海防艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ukuru"
   },
   {
     "name": "Eidsvold",
@@ -6003,7 +6260,8 @@
         "type": "海防戦艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "aitsuvuoru"
   },
   {
     "name": "Norge",
@@ -6019,7 +6277,8 @@
         "type": "海防戦艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "noruge"
   },
   {
     "name": "Thonburi",
@@ -6035,7 +6294,8 @@
         "type": "海防戦艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "tonburi"
   },
   {
     "name": "C.Cappellini",
@@ -6063,7 +6323,8 @@
         "type": "潜水艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "komandante/kapperiini"
   },
   {
     "name": "Dace",
@@ -6085,7 +6346,8 @@
         "type": "潜水艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "deisu"
   },
   {
     "name": "Drum",
@@ -6101,7 +6363,8 @@
         "type": "潜水艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "doramu"
   },
   {
     "name": "Luigi Torelli",
@@ -6129,7 +6392,8 @@
         "type": "潜水艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "ruiiji/torerri"
   },
   {
     "name": "Salmon",
@@ -6145,7 +6409,8 @@
         "type": "潜水艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "saamon"
   },
   {
     "name": "Scamp",
@@ -6161,7 +6426,8 @@
         "type": "潜水艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "sukyanpu"
   },
   {
     "name": "U-511",
@@ -6183,7 +6449,8 @@
         "type": "潜水艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "yuu511"
   },
   {
     "name": "Wahoo",
@@ -6199,7 +6466,8 @@
         "type": "潜水艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "wafuu"
   },
   {
     "name": "まるゆ",
@@ -6216,7 +6484,8 @@
         "class": "三式潜航輸送艇",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "maruyu"
   },
   {
     "name": "伊168",
@@ -6233,7 +6502,8 @@
         "class": "海大VI型a 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i168"
   },
   {
     "name": "伊19",
@@ -6250,7 +6520,8 @@
         "class": "巡潜乙型 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i19"
   },
   {
     "name": "伊201",
@@ -6266,7 +6537,8 @@
         "type": "潜水艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i201"
   },
   {
     "name": "伊203",
@@ -6282,7 +6554,8 @@
         "type": "潜水艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i203"
   },
   {
     "name": "伊26",
@@ -6299,7 +6572,8 @@
         "class": "巡潜乙型改二 3番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i26"
   },
   {
     "name": "伊36",
@@ -6315,7 +6589,8 @@
         "type": "潜水艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i36"
   },
   {
     "name": "伊41",
@@ -6331,7 +6606,8 @@
         "type": "潜水空母",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i41"
   },
   {
     "name": "伊47",
@@ -6348,7 +6624,8 @@
         "class": "巡潜丙型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i47"
   },
   {
     "name": "伊58",
@@ -6365,7 +6642,8 @@
         "class": "巡潜乙型改二 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i58"
   },
   {
     "name": "伊8",
@@ -6382,7 +6660,8 @@
         "class": "巡潜3型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i8"
   },
   {
     "name": "伊13",
@@ -6399,7 +6678,8 @@
         "class": "伊13型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i13"
   },
   {
     "name": "伊14",
@@ -6416,7 +6696,8 @@
         "class": "伊13型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i14"
   },
   {
     "name": "伊400",
@@ -6433,7 +6714,8 @@
         "class": "伊400型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i400"
   },
   {
     "name": "伊401",
@@ -6450,7 +6732,8 @@
         "class": "伊400型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "i401"
   },
   {
     "name": "大鯨",
@@ -6489,7 +6772,8 @@
         "type": "軽空母",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "taigei"
   },
   {
     "name": "平安丸",
@@ -6505,7 +6789,8 @@
         "type": "潜水母艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "heianmaru"
   },
   {
     "name": "迅鯨",
@@ -6522,7 +6807,8 @@
         "class": "迅鯨型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "jingei"
   },
   {
     "name": "長鯨",
@@ -6539,7 +6825,8 @@
         "class": "迅鯨型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "chougei"
   },
   {
     "name": "Commandant Teste",
@@ -6556,7 +6843,8 @@
         "class": "Commandant Teste級 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "komandan/tesuto"
   },
   {
     "name": "千代田",
@@ -6601,7 +6889,8 @@
         "class": "千代田型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "chiyoda"
   },
   {
     "name": "千歳",
@@ -6646,7 +6935,8 @@
         "class": "千歳型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "chitose"
   },
   {
     "name": "日進",
@@ -6668,7 +6958,8 @@
         "type": "水上機母艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "nisshin"
   },
   {
     "name": "瑞穂",
@@ -6685,7 +6976,8 @@
         "class": "瑞穂型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "mizuho"
   },
   {
     "name": "秋津洲",
@@ -6702,7 +6994,8 @@
         "class": "秋津洲型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "akitsushima"
   },
   {
     "name": "あきつ丸",
@@ -6719,7 +7012,8 @@
         "class": "あきつ丸型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "akitsumaru"
   },
   {
     "name": "熊野丸",
@@ -6735,7 +7029,8 @@
         "type": "揚陸艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kumanomaru"
   },
   {
     "name": "神州丸",
@@ -6752,7 +7047,8 @@
         "class": "神州丸型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "shinshuumaru"
   },
   {
     "name": "第百一号輸送艦",
@@ -6768,7 +7064,8 @@
         "type": "戦車揚陸艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "daihyakuichigouyusoukan"
   },
   {
     "name": "速吸",
@@ -6785,7 +7082,8 @@
         "class": "風早型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "hayasui"
   },
   {
     "name": "明石",
@@ -6802,7 +7100,8 @@
         "class": "明石型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "akashi"
   },
   {
     "name": "大泊",
@@ -6818,7 +7117,8 @@
         "type": "砕氷艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "oodomari"
   },
   {
     "name": "南海",
@@ -6840,7 +7140,8 @@
         "type": "給糧艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "nankai"
   },
   {
     "name": "八幡丸",
@@ -6877,7 +7178,8 @@
           "開発資材": 64
         }
       }
-    ]
+    ],
+    "romaji": "yawatamaru"
   },
   {
     "name": "夕張",
@@ -6926,7 +7228,8 @@
           "開発資材": 30
         }
       }
-    ]
+    ],
+    "romaji": "yuubari"
   },
   {
     "name": "宗谷",
@@ -6950,7 +7253,8 @@
         "class": "宗谷型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "souya"
   },
   {
     "name": "瑞鶴",
@@ -6984,7 +7288,8 @@
         "class": "翔鶴型 2番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "zuikaku"
   },
   {
     "name": "神威",
@@ -7008,7 +7313,8 @@
         "class": "神威型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "kamoi"
   },
   {
     "name": "翔鶴",
@@ -7042,7 +7348,8 @@
         "class": "翔鶴型 1番艦",
         "resources": {}
       }
-    ]
+    ],
+    "romaji": "shoukaku"
   },
   {
     "name": "阿武隈",
@@ -7068,7 +7375,8 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "abukuma"
   },
   {
     "name": "鬼怒",
@@ -7094,6 +7402,7 @@
           "改装設計図": 1
         }
       }
-    ]
+    ],
+    "romaji": "kinu"
   }
 ]
