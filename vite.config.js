@@ -53,6 +53,7 @@ const shipDataServer = () => ({
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/KanToki/',
   plugins: [react(), shipDataServer()],
 })
 
