@@ -1,0 +1,491 @@
+/* =========================================
+   1. Design Tokens & Variables
+========================================= */
+:root {
+  /* --- Palette: Dark Naval Theme --- */
+  --hue-bg: 240;
+  /* Deep Blue/Black base */
+  --hue-acc: 200;
+  /* Cyan/Blue accent */
+
+  /* Backgrounds */
+  --bg-deep: #0f1014;
+  --bg-subtle: #13141a;
+  --bg-surface: #1a1b23;
+
+  --bg-gradient: linear-gradient(135deg, var(--bg-deep) 0%, #1a1a2e 100%);
+
+  /* Glassmorphism System */
+  --glass-surface: rgba(255, 255, 255, 0.03);
+  --glass-surface-hover: rgba(255, 255, 255, 0.06);
+  --glass-surface-active: rgba(255, 255, 255, 0.09);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --glass-border-light: rgba(255, 255, 255, 0.15);
+  --glass-blur: 16px;
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+
+  /* Typography Colors */
+  --text-primary: #f1f5f9;
+  /* Slate 50 */
+  --text-secondary: #94a3b8;
+  /* Slate 400 */
+  --text-tertiary: #64748b;
+  /* Slate 500 */
+  --text-inverted: #0f172a;
+
+  /* Semantic Accents */
+  --accent-primary: #38bdf8;
+  /* Sky 400 */
+  --accent-primary-dim: rgba(56, 189, 248, 0.15);
+
+  --accent-gold: #fbbf24;
+  /* Amber 400 */
+  --accent-gold-dim: rgba(251, 191, 36, 0.15);
+
+  --accent-red: #f87171;
+  /* Red 400 */
+  --accent-red-dim: rgba(248, 113, 113, 0.15);
+
+  --accent-green: #4ade80;
+  /* Green 400 */
+  --accent-green-dim: rgba(74, 222, 128, 0.15);
+
+  /* Status Indicators (Subtle backgrounds) */
+  --status-unacquired: rgba(255, 255, 255, 0.02);
+  --status-remodeling: rgba(56, 189, 248, 0.04);
+  --status-complete: rgba(74, 222, 128, 0.04);
+
+  /* Spacing Scale */
+  --space-2: 0.5rem;
+  /* 8px */
+  --space-3: 0.75rem;
+  /* 12px */
+  --space-4: 1rem;
+  /* 16px */
+  --space-6: 1.5rem;
+  /* 24px */
+  --space-8: 2rem;
+  /* 32px */
+
+  /* Transitions */
+  --ease-elastic: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-smooth: cubic-bezier(0.4, 0, 0.2, 1);
+  --duration-fast: 200ms;
+}
+
+/* =========================================
+   2. Reset & Base
+========================================= */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: var(--bg-gradient);
+  background-attachment: fixed;
+  color: var(--text-primary);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+  /* App handles scroll */
+}
+
+a {
+  color: var(--accent-primary);
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+a:hover {
+  text-decoration: none;
+  filter: brightness(1.2);
+}
+
+button {
+  font-family: inherit;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* =========================================
+   3. Layout Structure
+========================================= */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 0 var(--space-4);
+}
+
+.main-layout {
+  display: flex;
+  flex: 1;
+  gap: var(--space-6);
+  overflow: hidden;
+  /* Lock body */
+  padding-top: var(--space-4);
+  position: relative;
+}
+
+.sidebar-area {
+  width: 280px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  padding-bottom: var(--space-4);
+  overflow-y: auto;
+}
+
+.content-area {
+  flex: 1;
+  overflow-y: auto;
+  padding-right: var(--space-2);
+  padding-bottom: var(--space-8);
+}
+
+.grid-ships {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  /* Slightly wider cards */
+  gap: var(--space-4);
+  padding-bottom: 4rem;
+}
+
+/* =========================================
+   4. Component: Glass Panel
+========================================= */
+.glass-panel {
+  background: var(--glass-surface);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border: 1px solid var(--glass-border);
+  border-radius: 16px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  transition: transform var(--duration-fast) var(--ease-smooth),
+    box-shadow var(--duration-fast) var(--ease-smooth),
+    border-color var(--duration-fast) var(--ease-smooth);
+}
+
+.glass-panel:hover {
+  border-color: var(--glass-border-light);
+}
+
+/* =========================================
+   5. Component: Header
+========================================= */
+.sticky-header {
+  z-index: 50;
+  background: rgba(15, 16, 20, 0.85);
+  /* Matches bg-deep but transparent */
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  padding: var(--space-3) 0;
+  border-bottom: 1px solid var(--glass-border);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  margin-left: calc(var(--space-4) * -1);
+  margin-right: calc(var(--space-4) * -1);
+  padding-left: var(--space-4);
+  padding-right: var(--space-4);
+}
+
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.app-brand {
+  font-size: 1.25rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  background: linear-gradient(to right, #fff, #94a3b8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Search Input */
+.input-glass {
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid var(--glass-border);
+  border-radius: 8px;
+  padding: 8px 16px;
+  color: var(--text-primary);
+  font-size: 0.9rem;
+  width: 320px;
+  transition: all 0.2s;
+}
+
+.input-glass:focus {
+  outline: none;
+  border-color: var(--accent-primary);
+  background: rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 0 2px var(--accent-primary-dim);
+}
+
+/* =========================================
+   6. Component: Ship Card
+========================================= */
+.ship-card {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.ship-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px -8px rgba(0, 0, 0, 0.4);
+  z-index: 2;
+}
+
+.card-bg-image {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: top center;
+  opacity: 0.12;
+  transition: opacity 0.3s;
+  mask-image: linear-gradient(to bottom, black 0%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, black 30%, transparent 95%);
+}
+
+.ship-card:hover .card-bg-image {
+  opacity: 0.2;
+}
+
+/* Status Variants */
+.status-unacquired {
+  border-left: 3px solid transparent;
+}
+
+.status-remodeling {
+  border-left: 3px solid var(--accent-primary);
+  background: linear-gradient(120deg, var(--status-remodeling), transparent);
+}
+
+.status-complete {
+  border-left: 3px solid var(--accent-green);
+  background: linear-gradient(120deg, var(--status-complete), transparent);
+}
+
+/* Card Content internals */
+.card-actions {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  display: flex;
+  gap: 6px;
+  z-index: 10;
+}
+
+.card-content {
+  position: relative;
+  z-index: 2;
+  padding: var(--space-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+/* =========================================
+   7. UI Elements: Buttons & Badges
+========================================= */
+.btn-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  /* Squircle */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid transparent;
+  color: var(--text-secondary);
+  transition: all 0.2s;
+}
+
+.btn-icon:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-primary);
+  transform: scale(1.05);
+}
+
+.btn-icon.active-gold {
+  background: var(--accent-gold-dim);
+  color: var(--accent-gold);
+  border-color: rgba(251, 191, 36, 0.3);
+}
+
+.btn-icon.active-blue {
+  background: var(--accent-primary-dim);
+  color: var(--accent-primary);
+  border-color: rgba(56, 189, 248, 0.3);
+}
+
+.btn-icon.active-red {
+  background: var(--accent-red-dim);
+  color: var(--accent-red);
+  border-color: rgba(248, 113, 113, 0.3);
+}
+
+.btn-icon.active-green {
+  background: var(--accent-green-dim);
+  color: var(--accent-green);
+  border-color: rgba(74, 222, 128, 0.3);
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.badge-blue {
+  background: var(--accent-primary-dim);
+  color: var(--accent-primary);
+  border-color: rgba(56, 189, 248, 0.2);
+}
+
+.badge-gold {
+  background: var(--accent-gold-dim);
+  color: var(--accent-gold);
+  border-color: rgba(251, 191, 36, 0.2);
+}
+
+/* Filter Buttons (Header) */
+.filter-btn {
+  padding: 6px 12px;
+  border-radius: 99px;
+  font-size: 0.8rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid transparent;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.filter-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.filter-btn.active {
+  background: var(--accent-primary-dim);
+  color: var(--accent-primary);
+  border-color: var(--accent-primary);
+}
+
+/* =========================================
+   8. Utilities
+========================================= */
+.text-xs {
+  font-size: 0.75rem;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+}
+
+.text-md {
+  font-size: 1rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.text-sec {
+  color: var(--text-secondary);
+}
+
+.text-pri {
+  color: var(--text-primary);
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.font-medium {
+  font-weight: 500;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-row {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.w-full {
+  width: 100%;
+}
+
+.h-full {
+  height: 100%;
+}
+
+/* Animation Utility */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s var(--ease-smooth) forwards;
+}

@@ -1,0 +1,7081 @@
+[
+  {
+    "name": "Bismarck",
+    "hiragana": "ビスマルク",
+    "type": "戦艦",
+    "class": "Bismarck級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Bismarck%20drei/::ref/178_2nd.jpg.webp?rev=31e7d4a32142dc9bf7e013d4074dd45d&t=20180910050129",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Bismarck",
+    "stages": [
+      {
+        "level": 30,
+        "name": "Bismarck改",
+        "type": "戦艦",
+        "class": "Bismarck級 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 50,
+        "name": "Bismarck zwei",
+        "type": "戦艦",
+        "class": "Bismarck級 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 75,
+        "name": "Bismarck drei",
+        "type": "戦艦",
+        "class": "Bismarck級 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Colorado",
+    "hiragana": "コロラド",
+    "type": "戦艦",
+    "class": "Colorado級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Colorado/::ref/colorado_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Colorado",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Colorado改",
+        "type": "戦艦",
+        "class": "Colorado級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Conte di Cavour",
+    "hiragana": "コンテ・ディ・カブール",
+    "type": "戦艦",
+    "class": "Conte di Cavour級 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Conte di Cavour",
+    "stages": [
+      {
+        "level": 48,
+        "name": "Conte di Cavour改",
+        "type": "戦艦",
+        "resources": {}
+      },
+      {
+        "level": 74,
+        "name": "Conte di Cavour nuovo",
+        "type": "戦艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Iowa",
+    "hiragana": "アイオワ",
+    "type": "戦艦",
+    "class": "Iowa級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Iowa/::ref/iowa_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Iowa",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Iowa改",
+        "type": "戦艦",
+        "class": "Iowa級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Jean Bart",
+    "hiragana": "ジャン・バール",
+    "type": "戦艦",
+    "class": "Richelieu級 2番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Jean Bart",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Jean Bart改",
+        "type": "戦艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Littorio",
+    "hiragana": "リットリオ",
+    "type": "戦艦",
+    "class": "Vittorio Veneto級 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Littorio/::ref/littorio_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Littorio",
+    "stages": [
+      {
+        "level": 35,
+        "name": "Italia",
+        "type": "戦艦",
+        "class": "Vittorio Veneto級 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Maryland",
+    "hiragana": "メリーランド",
+    "type": "戦艦",
+    "class": "Colorado級 2番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Maryland",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Maryland改",
+        "type": "戦艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Massachusetts",
+    "hiragana": "マサチューセッツ",
+    "type": "戦艦",
+    "class": "South Dakota級 2番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Massachusetts",
+    "stages": [
+      {
+        "level": 48,
+        "name": "Massachusetts改",
+        "type": "戦艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Nelson",
+    "hiragana": "ネルソン",
+    "type": "戦艦",
+    "class": "Nelson級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Nelson/::ref/nelson_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Nelson",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Nelson改",
+        "type": "戦艦",
+        "class": "Nelson級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Nevada",
+    "hiragana": "ネバダ",
+    "type": "戦艦",
+    "class": "Nevada級 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Nevada",
+    "stages": [
+      {
+        "level": 40,
+        "name": "Nevada改",
+        "type": "戦艦",
+        "resources": {}
+      },
+      {
+        "level": 60,
+        "name": "Nevada改 Mod.2",
+        "type": "戦艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Richelieu",
+    "hiragana": "リシュリュー",
+    "type": "戦艦",
+    "class": "Richelieu級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Richelieu/::ref/richelieu_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Richelieu",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Richelieu改",
+        "type": "戦艦",
+        "resources": {}
+      },
+      {
+        "level": 80,
+        "name": "Richelieu Deux",
+        "type": "戦艦",
+        "resources": {
+          "改装設計図": 1,
+          "海外艦最新技術": 2,
+          "高速建造材": 120,
+          "開発資材": 30
+        }
+      }
+    ]
+  },
+  {
+    "name": "Rodney",
+    "hiragana": "ロドニー",
+    "type": "戦艦",
+    "class": "Nelson級 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Rodney/::ref/rodney_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Rodney",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Rodney改",
+        "type": "戦艦",
+        "class": "Nelson級 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Roma",
+    "hiragana": "ローマ",
+    "type": "戦艦",
+    "class": "Vittorio Veneto級 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Roma/::ref/roma_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Roma",
+    "stages": [
+      {
+        "level": 35,
+        "name": "Roma改",
+        "type": "戦艦",
+        "class": "Vittorio Veneto級 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "South Dakota",
+    "hiragana": "サウスダコタ",
+    "type": "戦艦",
+    "class": "South Dakota級 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/South%20Dakota/::ref/south dakota_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/South%20Dakota",
+    "stages": [
+      {
+        "level": 45,
+        "name": "South Dakota改",
+        "type": "戦艦",
+        "class": "South Dakota級 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Valiant",
+    "hiragana": "ヴァリアント",
+    "type": "戦艦",
+    "class": "Queen Elizabeth級 3番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Valiant",
+    "stages": [
+      {
+        "level": 73,
+        "name": "Valiant改",
+        "type": "戦艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Warspite",
+    "hiragana": "ウォースパイト",
+    "type": "戦艦",
+    "class": "Queen Elizabeth級 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Warspite/::ref/warspite_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Warspite",
+    "stages": [
+      {
+        "level": 75,
+        "name": "Warspite改",
+        "type": "戦艦",
+        "class": "Queen Elizabeth級 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Washington",
+    "hiragana": "ワシントン",
+    "type": "戦艦",
+    "class": "North Carolina級 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Washington/::ref/washington_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Washington",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Washington改",
+        "type": "戦艦",
+        "class": "North Carolina級 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Гангут",
+    "hiragana": "ガングート",
+    "type": "戦艦",
+    "class": "Gangut級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Гангут/::ref/гангут_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%D0%93%D0%B0%D0%BD%D0%B3%D1%83%D1%82",
+    "stages": [
+      {
+        "level": 30,
+        "name": "Октябрьская революция",
+        "type": "戦艦",
+        "class": "Gangut級 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "Гангут два",
+        "type": "戦艦",
+        "class": "Gangut級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊勢",
+    "hiragana": "いせ",
+    "type": "戦艦",
+    "class": "伊勢型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊勢/::ref/伊勢_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A%E5%8B%A2",
+    "stages": [
+      {
+        "level": 10,
+        "name": "伊勢改",
+        "type": "航空戦艦",
+        "class": "伊勢型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 88,
+        "name": "伊勢改二",
+        "type": "改装航空戦艦",
+        "class": "伊勢型 1番艦",
+        "resources": {
+          "改装設計図": 2,
+          "試製甲板カタパルト": 1,
+          "戦闘詳報": 1,
+          "開発資材": 80
+        }
+      }
+    ]
+  },
+  {
+    "name": "大和",
+    "hiragana": "やまと",
+    "type": "戦艦",
+    "class": "大和型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大和/::ref/大和_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E5%92%8C",
+    "stages": [
+      {
+        "level": 60,
+        "name": "大和改",
+        "type": "戦艦",
+        "class": "大和型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 93,
+        "name": "大和改二",
+        "type": "戦艦",
+        "class": "大和型 1番艦",
+        "resources": {
+          "改装設計図": 3,
+          "新型砲熕兵装資材": 3,
+          "戦闘詳報": 1,
+          "新型高温高圧缶": 2
+        }
+      },
+      {
+        "level": 93,
+        "name": "大和改二重",
+        "type": "航空戦艦",
+        "class": "大和型 1番艦",
+        "resources": {
+          "高速建造材": 50,
+          "開発資材": 50
+        }
+      }
+    ]
+  },
+  {
+    "name": "山城",
+    "hiragana": "やましろ",
+    "type": "戦艦",
+    "class": "扶桑型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/山城/::ref/山城_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B1%B1%E5%9F%8E",
+    "stages": [
+      {
+        "level": 20,
+        "name": "山城改",
+        "type": "航空戦艦",
+        "class": "扶桑型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 80,
+        "name": "山城改二",
+        "type": "戦艦",
+        "class": "扶桑型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "扶桑",
+    "hiragana": "ふそう",
+    "type": "戦艦",
+    "class": "扶桑型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/扶桑/::ref/扶桑_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%89%B6%E6%A1%91",
+    "stages": [
+      {
+        "level": 20,
+        "name": "扶桑改",
+        "type": "航空戦艦",
+        "class": "扶桑型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 80,
+        "name": "扶桑改二",
+        "type": "戦艦",
+        "class": "扶桑型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "日向",
+    "hiragana": "ひゅうが",
+    "type": "戦艦",
+    "class": "伊勢型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/日向/::ref/日向_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%97%A5%E5%90%91",
+    "stages": [
+      {
+        "level": 10,
+        "name": "日向改",
+        "type": "航空戦艦",
+        "class": "伊勢型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 90,
+        "name": "日向改二",
+        "type": "改装航空戦艦",
+        "class": "伊勢型 2番艦",
+        "resources": {
+          "改装設計図": 2,
+          "試製甲板カタパルト": 1,
+          "戦闘詳報": 1,
+          "新型航空兵装資材": 1,
+          "開発資材": 181
+        }
+      }
+    ]
+  },
+  {
+    "name": "榛名",
+    "hiragana": "はるな",
+    "type": "戦艦",
+    "class": "金剛型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/榛名/::ref/榛名_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%A6%9B%E5%90%8D",
+    "stages": [
+      {
+        "level": 50,
+        "name": "榛名改",
+        "type": "戦艦",
+        "class": "金剛型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 88,
+        "name": "榛名改二",
+        "type": "戦艦",
+        "class": "金剛型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 90,
+        "name": "榛名改二乙",
+        "type": "高速戦艦",
+        "class": "金剛型 3番艦",
+        "resources": {
+          "改装設計図": 2,
+          "新型兵装資材": 2,
+          "戦闘詳報": 1,
+          "開発資材": 390
+        }
+      },
+      {
+        "level": 90,
+        "name": "榛名改二丙",
+        "type": "戦艦",
+        "class": "金剛型 3番艦",
+        "resources": {
+          "高速建造材": 35,
+          "開発資材": 15
+        }
+      }
+    ]
+  },
+  {
+    "name": "武蔵",
+    "hiragana": "むさし",
+    "type": "戦艦",
+    "class": "大和型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/武蔵/::ref/武蔵_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%AD%A6%E8%94%B5",
+    "stages": [
+      {
+        "level": 60,
+        "name": "武蔵改",
+        "type": "戦艦",
+        "class": "大和型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 89,
+        "name": "武蔵改二",
+        "type": "航空戦艦",
+        "class": "大和型 2番艦",
+        "resources": {
+          "改装設計図": 3,
+          "新型砲熕兵装資材": 3,
+          "戦闘詳報": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "比叡",
+    "hiragana": "ひえい",
+    "type": "戦艦",
+    "class": "金剛型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/比叡/::ref/比叡_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%AF%94%E5%8F%A1",
+    "stages": [
+      {
+        "level": 25,
+        "name": "比叡改",
+        "type": "戦艦",
+        "class": "金剛型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "比叡改二",
+        "type": "戦艦",
+        "class": "金剛型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 92,
+        "name": "比叡改二丙",
+        "type": "高速戦艦",
+        "class": "金剛型 2番艦",
+        "resources": {
+          "改装設計図": 2,
+          "新型砲熕兵装資材": 2,
+          "戦闘詳報": 1,
+          "開発資材": 330
+        }
+      }
+    ]
+  },
+  {
+    "name": "金剛",
+    "hiragana": "こんごう",
+    "type": "戦艦",
+    "class": "金剛型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/金剛/::ref/金剛_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%87%91%E5%89%9B",
+    "stages": [
+      {
+        "level": 25,
+        "name": "金剛改",
+        "type": "戦艦",
+        "class": "金剛型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "金剛改二",
+        "type": "戦艦",
+        "class": "金剛型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 92,
+        "name": "金剛改二丙",
+        "type": "高速戦艦",
+        "class": "金剛型 1番艦",
+        "resources": {
+          "改装設計図": 2,
+          "新型砲熕兵装資材": 2,
+          "戦闘詳報": 1,
+          "開発資材": 300
+        }
+      }
+    ]
+  },
+  {
+    "name": "長門",
+    "hiragana": "ながと",
+    "type": "戦艦",
+    "class": "長門型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/長門/::ref/長門_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%95%B7%E9%96%80",
+    "stages": [
+      {
+        "level": 30,
+        "name": "長門改",
+        "type": "戦艦",
+        "class": "長門型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 88,
+        "name": "長門改二",
+        "type": "航空戦艦",
+        "class": "長門型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "陸奥",
+    "hiragana": "むつ",
+    "type": "戦艦",
+    "class": "長門型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/陸奥/::ref/陸奥_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%99%B8%E5%A5%A5",
+    "stages": [
+      {
+        "level": 30,
+        "name": "陸奥改",
+        "type": "戦艦",
+        "class": "長門型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 89,
+        "name": "陸奥改二",
+        "type": "戦艦",
+        "class": "長門型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "霧島",
+    "hiragana": "きりしま",
+    "type": "戦艦",
+    "class": "金剛型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/霧島/::ref/霧島_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9C%A7%E5%B3%B6",
+    "stages": [
+      {
+        "level": 25,
+        "name": "霧島改",
+        "type": "戦艦",
+        "class": "金剛型 4番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "霧島改二",
+        "type": "戦艦",
+        "class": "金剛型 4番艦",
+        "resources": {}
+      },
+      {
+        "level": 92,
+        "name": "霧島改二丙",
+        "type": "高速戦艦",
+        "class": "金剛型 4番艦",
+        "resources": {
+          "改装設計図": 2,
+          "新型砲熕兵装資材": 2,
+          "戦闘詳報": 1,
+          "開発資材": 400
+        }
+      }
+    ]
+  },
+  {
+    "name": "Glorious",
+    "hiragana": "グロリアス",
+    "type": "巡洋戦艦",
+    "class": "Courageous級 3番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Glorious",
+    "stages": [
+      {
+        "level": 10,
+        "name": "Glorious(正規空母)",
+        "type": "正規空母",
+        "resources": {}
+      },
+      {
+        "level": 50,
+        "name": "Glorious改(正規空母)",
+        "type": "正規空母",
+        "resources": {}
+      },
+      {
+        "level": 65,
+        "name": "Glorious改(巡洋戦艦)",
+        "type": "巡洋戦艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Aquila",
+    "hiragana": "アクィラ",
+    "type": "正規空母",
+    "class": "Aquila級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Aquila/::ref/aquila_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Aquila",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Aquila改",
+        "type": "正規空母",
+        "class": "Aquila級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Ark Royal",
+    "hiragana": "アーク・ロイヤル",
+    "type": "正規空母",
+    "class": "Ark Royal級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Ark%20Royal/::ref/ark royal_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Ark%20Royal",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Ark Royal改",
+        "type": "正規空母",
+        "class": "Ark Royal級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Graf Zeppelin",
+    "hiragana": "グラーフ・ツェッペリン",
+    "type": "正規空母",
+    "class": "Graf Zeppelin級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Graf%20Zeppelin/::ref/graf zeppelin_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Graf%20Zeppelin",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Graf Zeppelin改",
+        "type": "正規空母",
+        "class": "Graf Zeppelin級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Hornet",
+    "hiragana": "ホーネット",
+    "type": "正規空母",
+    "class": "Yorktown級 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Hornet/::ref/hornet_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Hornet",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Hornet改",
+        "type": "正規空母",
+        "class": "Yorktown級 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Intrepid",
+    "hiragana": "イントレピッド",
+    "type": "正規空母",
+    "class": "Essex級 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Intrepid/::ref/intrepid_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Intrepid",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Intrepid改",
+        "type": "正規空母",
+        "class": "Essex級 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Lexington",
+    "hiragana": "レキシントン",
+    "type": "正規空母",
+    "class": "Lexington級 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Lexington",
+    "stages": [
+      {
+        "level": 40,
+        "name": "Lexington改",
+        "type": "正規空母",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Ranger",
+    "hiragana": "レンジャー",
+    "type": "正規空母",
+    "class": "Ranger級 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Ranger",
+    "stages": [
+      {
+        "level": 55,
+        "name": "Ranger改",
+        "type": "正規空母",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Saratoga",
+    "hiragana": "サラトガ",
+    "type": "正規空母",
+    "class": "Lexington級 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Saratoga/::ref/saratoga_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Saratoga",
+    "stages": [
+      {
+        "level": 40,
+        "name": "Saratoga改",
+        "type": "正規空母",
+        "class": "Lexington級 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 85,
+        "name": "Saratoga Mk.II",
+        "type": "正規空母",
+        "class": "Lexington級 2番艦",
+        "resources": {
+          "試製甲板カタパルト": 1
+        }
+      },
+      {
+        "level": 90,
+        "name": "Saratoga Mk.II Mod.2",
+        "type": "装甲空母",
+        "class": "Lexington級 2番艦",
+        "resources": {
+          "改装設計図": 1,
+          "試製甲板カタパルト": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Wasp",
+    "hiragana": "ワスプ",
+    "type": "正規空母",
+    "class": "Wasp級 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Wasp",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Wasp改",
+        "type": "正規空母",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "加賀",
+    "hiragana": "かが",
+    "type": "正規空母",
+    "class": "加賀型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/加賀/::ref/加賀_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8A%A0%E8%B3%80",
+    "stages": [
+      {
+        "level": 30,
+        "name": "加賀改",
+        "type": "正規空母",
+        "class": "加賀型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 82,
+        "name": "加賀改二",
+        "type": "航空母艦",
+        "class": "加賀型 1番艦",
+        "resources": {
+          "改装設計図": 2,
+          "試製甲板カタパルト": 1,
+          "戦闘詳報": 1,
+          "新型航空兵装資材": 2,
+          "開発資材": 120
+        }
+      },
+      {
+        "level": 84,
+        "name": "加賀改二戊",
+        "type": "夜間作戦航空母艦",
+        "class": "加賀型 1番艦",
+        "resources": {
+          "高速建造材": 30,
+          "開発資材": 88
+        }
+      },
+      {
+        "level": 84,
+        "name": "加賀改二護",
+        "type": "近代化航空母艦",
+        "class": "加賀型 1番艦",
+        "resources": {
+          "高速建造材": 84,
+          "開発資材": 84
+        }
+      }
+    ]
+  },
+  {
+    "name": "大鳳",
+    "hiragana": "たいほう",
+    "type": "正規空母",
+    "class": "大鳳型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大鳳/::ref/大鳳_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E9%B3%B3",
+    "stages": [
+      {
+        "level": 40,
+        "name": "大鳳改",
+        "type": "正規空母",
+        "class": "大鳳型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "天城",
+    "hiragana": "あまぎ",
+    "type": "正規空母",
+    "class": "雲龍型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/天城/::ref/天城_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%9F%8E",
+    "stages": [
+      {
+        "level": 50,
+        "name": "天城改",
+        "type": "正規空母",
+        "class": "雲龍型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "葛城",
+    "hiragana": "かつらぎ",
+    "type": "正規空母",
+    "class": "雲龍型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/葛城/::ref/葛城_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%91%9B%E5%9F%8E",
+    "stages": [
+      {
+        "level": 50,
+        "name": "葛城改",
+        "type": "正規空母",
+        "class": "雲龍型 3番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "蒼龍",
+    "hiragana": "そうりゅう",
+    "type": "正規空母",
+    "class": "蒼龍型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/蒼龍/::ref/蒼龍_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%92%BC%E9%BE%8D",
+    "stages": [
+      {
+        "level": 30,
+        "name": "蒼龍改",
+        "type": "正規空母",
+        "class": "蒼龍型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 78,
+        "name": "蒼龍改二",
+        "type": "正規空母",
+        "class": "蒼龍型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "赤城",
+    "hiragana": "あかぎ",
+    "type": "正規空母",
+    "class": "赤城型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/赤城/::ref/赤城_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%B5%A4%E5%9F%8E",
+    "stages": [
+      {
+        "level": 50,
+        "name": "赤城改",
+        "type": "正規空母",
+        "class": "赤城型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 92,
+        "name": "赤城改二",
+        "type": "航空母艦",
+        "class": "赤城型 1番艦",
+        "resources": {
+          "改装設計図": 2,
+          "試製甲板カタパルト": 1,
+          "戦闘詳報": 1,
+          "新型航空兵装資材": 2,
+          "開発資材": 100
+        }
+      },
+      {
+        "level": 92,
+        "name": "赤城改二戊",
+        "type": "夜間作戦航空母艦",
+        "class": "赤城型 1番艦",
+        "resources": {
+          "高速建造材": 30,
+          "開発資材": 80
+        }
+      }
+    ]
+  },
+  {
+    "name": "雲龍",
+    "hiragana": "うんりゅう",
+    "type": "正規空母",
+    "class": "雲龍型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/雲龍/::ref/雲龍_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9B%B2%E9%BE%8D",
+    "stages": [
+      {
+        "level": 50,
+        "name": "雲龍改",
+        "type": "正規空母",
+        "class": "雲龍型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "飛龍",
+    "hiragana": "ひりゅう",
+    "type": "正規空母",
+    "class": "飛龍型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/飛龍/::ref/飛龍_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%A3%9B%E9%BE%8D",
+    "stages": [
+      {
+        "level": 30,
+        "name": "飛龍改",
+        "type": "正規空母",
+        "class": "飛龍型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 77,
+        "name": "飛龍改二",
+        "type": "正規空母",
+        "class": "飛龍型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Victorious",
+    "hiragana": "ヴィクトリアス",
+    "type": "装甲空母",
+    "class": "Illustrious級 2番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Victorious",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Victorious改",
+        "type": "装甲空母",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Gambier Bay",
+    "hiragana": "ガンビア・ベイ",
+    "type": "軽空母",
+    "class": "Casablanca級 19番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Gambier%20Bay/::ref/gambier bay_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Gambier%20Bay",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Gambier Bay改",
+        "type": "軽空母",
+        "class": "Casablanca級 19番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "Gambier Bay Mk.II",
+        "type": "軽空母",
+        "class": "Casablanca級 19番艦",
+        "resources": {
+          "改装設計図": 1,
+          "試製甲板カタパルト": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Langley",
+    "hiragana": "ラングレー",
+    "type": "軽空母",
+    "class": "Langley級 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Langley",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Langley改",
+        "type": "軽空母",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "春日丸",
+    "hiragana": "かすがまる",
+    "type": "軽空母",
+    "class": "大鷹型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/春日丸/::ref/春日丸_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%98%A5%E6%97%A5%E4%B8%B8",
+    "stages": [
+      {
+        "level": 30,
+        "name": "大鷹",
+        "type": "軽空母",
+        "class": "大鷹型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 60,
+        "name": "大鷹改",
+        "type": "軽空母",
+        "class": "大鷹型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 85,
+        "name": "大鷹改二",
+        "type": "軽空母",
+        "class": "大鷹型 1番艦",
+        "resources": {
+          "改装設計図": 1,
+          "試製甲板カタパルト": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "瑞鳳",
+    "hiragana": "ずいほう",
+    "type": "軽空母",
+    "class": "祥鳳型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/瑞鳳/::ref/瑞鳳_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%B3%B3",
+    "stages": [
+      {
+        "level": 50,
+        "name": "瑞鳳改",
+        "type": "軽空母",
+        "class": "祥鳳型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 80,
+        "name": "瑞鳳改二",
+        "type": "軽空母",
+        "class": "祥鳳型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 80,
+        "name": "瑞鳳改二乙",
+        "type": "軽空母",
+        "class": "祥鳳型 2番艦",
+        "resources": {
+          "高速建造材": 20,
+          "開発資材": 5
+        }
+      }
+    ]
+  },
+  {
+    "name": "神鷹",
+    "hiragana": "しんよう",
+    "type": "軽空母",
+    "class": "神鷹型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/神鷹/::ref/神鷹_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A5%9E%E9%B7%B9",
+    "stages": [
+      {
+        "level": 60,
+        "name": "神鷹改",
+        "type": "軽空母",
+        "class": "神鷹型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 85,
+        "name": "神鷹改二",
+        "type": "軽空母",
+        "class": "神鷹型 1番艦",
+        "resources": {
+          "改装設計図": 1,
+          "試製甲板カタパルト": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "祥鳳",
+    "hiragana": "しょうほう",
+    "type": "軽空母",
+    "class": "祥鳳型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/祥鳳/::ref/祥鳳_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A5%A5%E9%B3%B3",
+    "stages": [
+      {
+        "level": 25,
+        "name": "祥鳳改",
+        "type": "軽空母",
+        "class": "祥鳳型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "隼鷹",
+    "hiragana": "じゅんよう",
+    "type": "軽空母",
+    "class": "飛鷹型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/隼鷹/::ref/隼鷹_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9A%BC%E9%B7%B9",
+    "stages": [
+      {
+        "level": 25,
+        "name": "隼鷹改",
+        "type": "軽空母",
+        "class": "飛鷹型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 80,
+        "name": "隼鷹改二",
+        "type": "軽空母",
+        "class": "飛鷹型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "飛鷹",
+    "hiragana": "ひよう",
+    "type": "軽空母",
+    "class": "飛鷹型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/飛鷹/::ref/飛鷹_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%A3%9B%E9%B7%B9",
+    "stages": [
+      {
+        "level": 25,
+        "name": "飛鷹改",
+        "type": "軽空母",
+        "class": "飛鷹型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "鳳翔",
+    "hiragana": "ほうしょう",
+    "type": "軽空母",
+    "class": "鳳翔型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/鳳翔/::ref/鳳翔_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%B3%B3%E7%BF%94",
+    "stages": [
+      {
+        "level": 50,
+        "name": "鳳翔改",
+        "type": "軽空母",
+        "class": "鳳翔型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 92,
+        "name": "鳳翔改二",
+        "type": "軽空母",
+        "class": "鳳翔型 1番艦",
+        "resources": {
+          "改装設計図": 1,
+          "試製甲板カタパルト": 1,
+          "高速建造材": 20
+        }
+      },
+      {
+        "level": 92,
+        "name": "鳳翔改二戦",
+        "type": "戦力投射母艦",
+        "class": "鳳翔型 1番艦",
+        "resources": {
+          "高速建造材": 20,
+          "開発資材": 20
+        }
+      }
+    ]
+  },
+  {
+    "name": "龍驤",
+    "hiragana": "りゅうじょう",
+    "type": "軽空母",
+    "class": "龍驤型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/龍驤/::ref/龍驤_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%BE%8D%E9%A9%A4",
+    "stages": [
+      {
+        "level": 25,
+        "name": "龍驤改",
+        "type": "軽空母",
+        "class": "龍驤型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "龍驤改二",
+        "type": "軽空母",
+        "class": "龍驤型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "しまね丸",
+    "hiragana": "しまねまる",
+    "type": "特設護衛空母",
+    "class": "しまね丸型",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/しまね丸",
+    "stages": [
+      {
+        "level": 60,
+        "name": "しまね丸改",
+        "type": "特設護衛空母",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "山汐丸",
+    "hiragana": "やましおまる",
+    "type": "特設護衛空母",
+    "class": "山汐丸型",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/山汐丸",
+    "stages": [
+      {
+        "level": 48,
+        "name": "山汐丸改",
+        "type": "特設護衛空母",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Houston",
+    "hiragana": "ヒューストン",
+    "type": "重巡洋艦",
+    "class": "Northampton級 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Houston/::ref/houston_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Houston",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Houston改",
+        "type": "重巡洋艦",
+        "class": "Northampton級 5番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Minneapolis",
+    "hiragana": "ミネアポリス",
+    "type": "重巡洋艦",
+    "class": "New Orleans級",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Minneapolis",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Minneapolis改",
+        "type": "重巡洋艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Northampton",
+    "hiragana": "ノーザンプトン",
+    "type": "重巡洋艦",
+    "class": "Northampton級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Northampton/::ref/northampton_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Northampton",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Northampton改",
+        "type": "重巡洋艦",
+        "class": "Northampton級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Pola",
+    "hiragana": "ポーラ",
+    "type": "重巡洋艦",
+    "class": "Zara級 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Pola/::ref/pola_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Pola",
+    "stages": [
+      {
+        "level": 40,
+        "name": "Pola改",
+        "type": "重巡洋艦",
+        "class": "Zara級 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Prinz Eugen",
+    "hiragana": "プリンツ・オイゲン",
+    "type": "重巡洋艦",
+    "class": "Admiral Hipper級 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Prinz%20Eugen/::ref/prinz eugen_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Prinz%20Eugen",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Prinz Eugen改",
+        "type": "重巡洋艦",
+        "class": "Admiral Hipper級 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Tuscaloosa",
+    "hiragana": "タスカルーサ",
+    "type": "重巡洋艦",
+    "class": "New Orleans級",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Tuscaloosa",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Tuscaloosa改",
+        "type": "重巡洋艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Zara",
+    "hiragana": "ザラ",
+    "type": "重巡洋艦",
+    "class": "Zara級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Zara/::ref/zara_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Zara",
+    "stages": [
+      {
+        "level": 40,
+        "name": "Zara改",
+        "type": "重巡洋艦",
+        "class": "Zara級 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 88,
+        "name": "Zara due",
+        "type": "重巡洋艦",
+        "class": "Zara級 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Киров",
+    "hiragana": "キーロフ",
+    "type": "重巡洋艦",
+    "class": "Kirov級 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Киров",
+    "stages": [
+      {
+        "level": 55,
+        "name": "Киров改",
+        "type": "重巡洋艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "三隈",
+    "hiragana": "みくま",
+    "type": "重巡洋艦",
+    "class": "最上型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/三隈/::ref/三隈_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%B8%89%E9%9A%88",
+    "stages": [
+      {
+        "level": 30,
+        "name": "三隈改",
+        "type": "航空巡洋艦",
+        "class": "最上型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 89,
+        "name": "三隈改二",
+        "type": "改装航空巡洋艦",
+        "class": "最上型 2番艦",
+        "resources": {
+          "改装設計図": 1,
+          "新型航空兵装資材": 2,
+          "戦闘詳報": 1,
+          "開発資材": 60
+        }
+      },
+      {
+        "level": 89,
+        "name": "三隈改二特",
+        "type": "特設戦闘水上機母艦",
+        "class": "最上型 2番艦",
+        "resources": {
+          "新型兵装資材": 1,
+          "高速建造材": 40,
+          "開発資材": 35
+        }
+      }
+    ]
+  },
+  {
+    "name": "利根",
+    "hiragana": "とね",
+    "type": "重巡洋艦",
+    "class": "利根型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/利根/::ref/利根_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%88%A9%E6%A0%B9",
+    "stages": [
+      {
+        "level": 25,
+        "name": "利根改",
+        "type": "重巡洋艦",
+        "class": "利根型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "利根改二",
+        "type": "航空巡洋艦",
+        "class": "利根型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "加古",
+    "hiragana": "かこ",
+    "type": "重巡洋艦",
+    "class": "古鷹型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/加古/::ref/加古_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8A%A0%E5%8F%A4",
+    "stages": [
+      {
+        "level": 25,
+        "name": "加古改",
+        "type": "重巡洋艦",
+        "class": "古鷹型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 65,
+        "name": "加古改二",
+        "type": "重巡洋艦",
+        "class": "古鷹型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "古鷹",
+    "hiragana": "ふるたか",
+    "type": "重巡洋艦",
+    "class": "古鷹型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/古鷹/::ref/古鷹_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8F%A4%E9%B7%B9",
+    "stages": [
+      {
+        "level": 25,
+        "name": "古鷹改",
+        "type": "重巡洋艦",
+        "class": "古鷹型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 65,
+        "name": "古鷹改二",
+        "type": "重巡洋艦",
+        "class": "古鷹型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "妙高",
+    "hiragana": "みょうこう",
+    "type": "重巡洋艦",
+    "class": "妙高型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/妙高/::ref/妙高_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A6%99%E9%AB%98",
+    "stages": [
+      {
+        "level": 25,
+        "name": "妙高改",
+        "type": "重巡洋艦",
+        "class": "妙高型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "妙高改二",
+        "type": "重巡洋艦",
+        "class": "妙高型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "愛宕",
+    "hiragana": "あたご",
+    "type": "重巡洋艦",
+    "class": "高雄型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/愛宕/::ref/愛宕_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%84%9B%E5%AE%95",
+    "stages": [
+      {
+        "level": 25,
+        "name": "愛宕改",
+        "type": "重巡洋艦",
+        "class": "高雄型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "摩耶",
+    "hiragana": "まや",
+    "type": "重巡洋艦",
+    "class": "高雄型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/摩耶/::ref/摩耶_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%91%A9%E8%80%B6",
+    "stages": [
+      {
+        "level": 18,
+        "name": "摩耶改",
+        "type": "重巡洋艦",
+        "class": "高雄型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "摩耶改二",
+        "type": "重巡洋艦",
+        "class": "高雄型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "最上",
+    "hiragana": "もがみ",
+    "type": "重巡洋艦",
+    "class": "最上型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/最上/::ref/最上_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%80%E4%B8%8A",
+    "stages": [
+      {
+        "level": 10,
+        "name": "最上改",
+        "type": "航空巡洋艦",
+        "class": "最上型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 90,
+        "name": "最上改二",
+        "type": "改装航空巡洋艦",
+        "class": "最上型 1番艦",
+        "resources": {
+          "改装設計図": 1,
+          "新型航空兵装資材": 2,
+          "戦闘詳報": 1,
+          "開発資材": 60
+        }
+      },
+      {
+        "level": 90,
+        "name": "最上改二特",
+        "type": "特殊改装航空巡洋艦",
+        "class": "最上型 1番艦",
+        "resources": {
+          "高速建造材": 45,
+          "開発資材": 60
+        }
+      }
+    ]
+  },
+  {
+    "name": "熊野",
+    "hiragana": "くまの",
+    "type": "重巡洋艦",
+    "class": "最上型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/熊野/::ref/熊野_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%86%8A%E9%87%8E",
+    "stages": [
+      {
+        "level": 35,
+        "name": "熊野改",
+        "type": "航空巡洋艦",
+        "class": "最上型 4番艦",
+        "resources": {}
+      },
+      {
+        "level": 88,
+        "name": "熊野改二",
+        "type": "航空巡洋艦",
+        "class": "最上型 4番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 88,
+        "name": "熊野航改二",
+        "type": "軽空母",
+        "class": "最上型 4番艦",
+        "resources": {
+          "改装設計図": 1,
+          "高速建造材": 20,
+          "開発資材": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "筑摩",
+    "hiragana": "ちくま",
+    "type": "重巡洋艦",
+    "class": "利根型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/筑摩/::ref/筑摩_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%AD%91%E6%91%A9",
+    "stages": [
+      {
+        "level": 25,
+        "name": "筑摩改",
+        "type": "重巡洋艦",
+        "class": "利根型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "筑摩改二",
+        "type": "航空巡洋艦",
+        "class": "利根型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "羽黒",
+    "hiragana": "はぐろ",
+    "type": "重巡洋艦",
+    "class": "妙高型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/羽黒/::ref/羽黒_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%BE%BD%E9%BB%92",
+    "stages": [
+      {
+        "level": 25,
+        "name": "羽黒改",
+        "type": "重巡洋艦",
+        "class": "妙高型 4番艦",
+        "resources": {}
+      },
+      {
+        "level": 65,
+        "name": "羽黒改二",
+        "type": "重巡洋艦",
+        "class": "妙高型 4番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "衣笠",
+    "hiragana": "きぬがさ",
+    "type": "重巡洋艦",
+    "class": "青葉型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/衣笠/::ref/衣笠_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%A1%A3%E7%AC%A0",
+    "stages": [
+      {
+        "level": 25,
+        "name": "衣笠改",
+        "type": "重巡洋艦",
+        "class": "青葉型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 55,
+        "name": "衣笠改二",
+        "type": "重巡洋艦",
+        "class": "青葉型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "足柄",
+    "hiragana": "あしがら",
+    "type": "重巡洋艦",
+    "class": "妙高型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/足柄/::ref/足柄_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%B6%B3%E6%9F%84",
+    "stages": [
+      {
+        "level": 25,
+        "name": "足柄改",
+        "type": "重巡洋艦",
+        "resources": {}
+      },
+      {
+        "level": 65,
+        "name": "足柄改二",
+        "type": "重巡洋艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "那智",
+    "hiragana": "なち",
+    "type": "重巡洋艦",
+    "class": "妙高型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/那智/::ref/那智_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%82%A3%E6%99%BA",
+    "stages": [
+      {
+        "level": 25,
+        "name": "那智改",
+        "type": "重巡洋艦",
+        "class": "妙高型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 65,
+        "name": "那智改二",
+        "type": "重巡洋艦",
+        "class": "妙高型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "鈴谷",
+    "hiragana": "すずや",
+    "type": "重巡洋艦",
+    "class": "最上型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/鈴谷/::ref/鈴谷_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%88%B4%E8%B0%B7",
+    "stages": [
+      {
+        "level": 35,
+        "name": "鈴谷改",
+        "type": "航空巡洋艦",
+        "class": "最上型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 88,
+        "name": "鈴谷改二",
+        "type": "航空巡洋艦",
+        "class": "最上型 3番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 88,
+        "name": "鈴谷航改二",
+        "type": "軽空母",
+        "class": "最上型 3番艦",
+        "resources": {
+          "改装設計図": 1,
+          "高速建造材": 20,
+          "開発資材": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "青葉",
+    "hiragana": "あおば",
+    "type": "重巡洋艦",
+    "class": "青葉型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/青葉/::ref/青葉_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9D%92%E8%91%89",
+    "stages": [
+      {
+        "level": 25,
+        "name": "青葉改",
+        "type": "重巡洋艦",
+        "class": "青葉型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "高雄",
+    "hiragana": "たかお",
+    "type": "重巡洋艦",
+    "class": "高雄型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/高雄/::ref/高雄_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%AB%98%E9%9B%84",
+    "stages": [
+      {
+        "level": 25,
+        "name": "高雄改",
+        "type": "重巡洋艦",
+        "class": "高雄型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "鳥海",
+    "hiragana": "ちょうかい",
+    "type": "重巡洋艦",
+    "class": "高雄型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/鳥海/::ref/鳥海_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%B3%A5%E6%B5%B7",
+    "stages": [
+      {
+        "level": 25,
+        "name": "鳥海改",
+        "type": "重巡洋艦",
+        "class": "高雄型 4番艦",
+        "resources": {}
+      },
+      {
+        "level": 65,
+        "name": "鳥海改二",
+        "type": "重巡洋艦",
+        "class": "高雄型 4番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Gotland",
+    "hiragana": "ゴトランド",
+    "type": "航空巡洋艦",
+    "class": "Gotland級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Gotland/::ref/gotland_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Gotland",
+    "stages": [
+      {
+        "level": 35,
+        "name": "Gotland改",
+        "type": "軽巡洋艦",
+        "class": "Gotland級 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 55,
+        "name": "Gotland andra",
+        "type": "軽(航空)巡洋艦",
+        "class": "Gotland級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Atlanta",
+    "hiragana": "アトランタ",
+    "type": "軽巡洋艦",
+    "class": "Atlanta級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Atlanta/::ref/atlanta_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Atlanta",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Atlanta改",
+        "type": "軽巡洋艦",
+        "class": "Atlanta級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Brooklyn",
+    "hiragana": "ブルックリン",
+    "type": "軽巡洋艦",
+    "class": "Brooklyn級 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Brooklyn",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Brooklyn改",
+        "type": "軽巡洋艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "De Ruyter",
+    "hiragana": "デ・ロイテル",
+    "type": "軽巡洋艦",
+    "class": "De Ruyter級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/De%20Ruyter/::ref/de ruyter_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/De%20Ruyter",
+    "stages": [
+      {
+        "level": 45,
+        "name": "De Ruyter改",
+        "type": "軽巡洋艦",
+        "class": "De Ruyter級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "G.Garibaldi",
+    "hiragana": "ジュゼッペ・ガリバルディ",
+    "type": "軽巡洋艦",
+    "class": "Condottieri級 5型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/G.Garibaldi/::ref/g.garibaldi_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/G.Garibaldi",
+    "stages": [
+      {
+        "level": 45,
+        "name": "G.Garibaldi改",
+        "type": "軽巡洋艦",
+        "class": "Condottieri級 5型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Gloire",
+    "hiragana": "グロワール",
+    "type": "軽巡洋艦",
+    "class": "La Galissonnière級",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Gloire",
+    "stages": [
+      {
+        "level": 52,
+        "name": "Gloire改",
+        "type": "軽巡洋艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Helena",
+    "hiragana": "ヘレナ",
+    "type": "軽巡洋艦",
+    "class": "St. Louis級 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Helena/::ref/helena_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Helena",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Helena改",
+        "type": "軽巡洋艦",
+        "class": "St. Louis級 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Honolulu",
+    "hiragana": "ホノルル",
+    "type": "軽巡洋艦",
+    "class": "Brooklyn級 7番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Honolulu/::ref/honolulu_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Honolulu",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Honolulu改",
+        "type": "軽巡洋艦",
+        "class": "Brooklyn級 7番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "L.d.S.D.d.Abruzzi",
+    "hiragana": "ルイージ・ディ・サヴォイア・ドゥーカ・デッリ・アブルッツィ",
+    "type": "軽巡洋艦",
+    "class": "Condottieri級 5型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/L.d.S.D.d.Abruzzi/::ref/l.d.s.d.d.abruzzi_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/L.d.S.D.d.Abruzzi",
+    "stages": [
+      {
+        "level": 45,
+        "name": "L.d.S.D.d.Abruzzi改",
+        "type": "軽巡洋艦",
+        "class": "Condottieri級 5型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Perth",
+    "hiragana": "パース",
+    "type": "軽巡洋艦",
+    "class": "Perth級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Perth/::ref/perth_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Perth",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Perth改",
+        "type": "軽巡洋艦",
+        "class": "Perth級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Phoenix",
+    "hiragana": "フェニックス",
+    "type": "軽巡洋艦",
+    "class": "Brooklyn級 3番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Phoenix",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Phoenix改",
+        "type": "軽巡洋艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "General Belgrano",
+        "type": "軽巡洋艦",
+        "resources": {
+          "新型兵装資材": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Sheffield",
+    "hiragana": "シェフィールド",
+    "type": "軽巡洋艦",
+    "class": "Town級 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Sheffield/::ref/sheffield_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Sheffield",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Sheffield改",
+        "type": "軽巡洋艦",
+        "class": "Town級 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "五十鈴",
+    "hiragana": "いすず",
+    "type": "軽巡洋艦",
+    "class": "長良型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/五十鈴/::ref/五十鈴_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BA%94%E5%8D%81%E9%88%B4",
+    "stages": [
+      {
+        "level": 12,
+        "name": "五十鈴改",
+        "type": "軽巡洋艦",
+        "class": "長良型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 50,
+        "name": "五十鈴改二",
+        "type": "軽巡洋艦",
+        "class": "長良型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "北上",
+    "hiragana": "きたかみ",
+    "type": "軽巡洋艦",
+    "class": "球磨型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/北上/::ref/北上_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8C%97%E4%B8%8A",
+    "stages": [
+      {
+        "level": 10,
+        "name": "北上改",
+        "type": "重雷装巡洋艦",
+        "class": "球磨型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 50,
+        "name": "北上改二",
+        "type": "軽巡洋艦",
+        "class": "球磨型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "名取",
+    "hiragana": "なとり",
+    "type": "軽巡洋艦",
+    "class": "長良型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/名取/::ref/名取_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%90%8D%E5%8F%96",
+    "stages": [
+      {
+        "level": 20,
+        "name": "名取改",
+        "type": "軽巡洋艦",
+        "class": "長良型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "多摩",
+    "hiragana": "たま",
+    "type": "軽巡洋艦",
+    "class": "球磨型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/多摩/::ref/多摩_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%9A%E6%91%A9",
+    "stages": [
+      {
+        "level": 20,
+        "name": "多摩改",
+        "type": "軽巡洋艦",
+        "class": "球磨型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "多摩改二",
+        "type": "軽巡洋艦",
+        "class": "球磨型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "大井",
+    "hiragana": "おおい",
+    "type": "軽巡洋艦",
+    "class": "球磨型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大井/::ref/大井_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E4%BA%95",
+    "stages": [
+      {
+        "level": 10,
+        "name": "大井改",
+        "type": "重雷装巡洋艦",
+        "class": "球磨型 4番艦",
+        "resources": {}
+      },
+      {
+        "level": 50,
+        "name": "大井改二",
+        "type": "軽巡洋艦",
+        "class": "球磨型 4番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "大淀",
+    "hiragana": "おおよど",
+    "type": "軽巡洋艦",
+    "class": "大淀型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大淀/::ref/大淀_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E6%B7%80",
+    "stages": [
+      {
+        "level": 35,
+        "name": "大淀改",
+        "type": "軽巡洋艦",
+        "class": "大淀型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "天龍",
+    "hiragana": "てんりゅう",
+    "type": "軽巡洋艦",
+    "class": "天龍型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/天龍/::ref/天龍_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E9%BE%8D",
+    "stages": [
+      {
+        "level": 20,
+        "name": "天龍改",
+        "type": "軽巡洋艦",
+        "class": "天龍型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 84,
+        "name": "天龍改二",
+        "type": "軽巡洋艦",
+        "class": "天龍型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "川内",
+    "hiragana": "せんだい",
+    "type": "軽巡洋艦",
+    "class": "川内型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/川内/::ref/川内_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B7%9D%E5%86%85",
+    "stages": [
+      {
+        "level": 20,
+        "name": "川内改",
+        "type": "軽巡洋艦",
+        "class": "川内型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 60,
+        "name": "川内改二",
+        "type": "軽巡洋艦",
+        "class": "川内型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "木曾",
+    "hiragana": "きそ",
+    "type": "軽巡洋艦",
+    "class": "球磨型 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/木曾/::ref/木曾_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%A8%E6%9B%BE",
+    "stages": [
+      {
+        "level": 20,
+        "name": "木曾改",
+        "type": "軽巡洋艦",
+        "class": "球磨型 5番艦",
+        "resources": {}
+      },
+      {
+        "level": 65,
+        "name": "木曾改二",
+        "type": "重雷装巡洋艦",
+        "class": "球磨型 5番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "球磨",
+    "hiragana": "くま",
+    "type": "軽巡洋艦",
+    "class": "球磨型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/球磨/::ref/球磨_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%90%83%E7%A3%A8",
+    "stages": [
+      {
+        "level": 20,
+        "name": "球磨改",
+        "type": "軽巡洋艦",
+        "class": "球磨型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 88,
+        "name": "球磨改二",
+        "type": "軽巡洋艦",
+        "class": "球磨型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 88,
+        "name": "球磨改二丁",
+        "type": "軽巡洋艦",
+        "class": "球磨型 1番艦",
+        "resources": {
+          "高速建造材": 15,
+          "開発資材": 30
+        }
+      }
+    ]
+  },
+  {
+    "name": "由良",
+    "hiragana": "ゆら",
+    "type": "軽巡洋艦",
+    "class": "長良型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/由良/::ref/由良_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%94%B1%E8%89%AF",
+    "stages": [
+      {
+        "level": 20,
+        "name": "由良改",
+        "type": "軽巡洋艦",
+        "class": "長良型 4番艦",
+        "resources": {}
+      },
+      {
+        "level": 77,
+        "name": "由良改二",
+        "type": "軽巡洋艦",
+        "class": "長良型 4番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "矢矧",
+    "hiragana": "やはぎ",
+    "type": "軽巡洋艦",
+    "class": "阿賀野型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/矢矧/::ref/矢矧_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%9F%A2%E7%9F%A7",
+    "stages": [
+      {
+        "level": 50,
+        "name": "矢矧改",
+        "type": "軽巡洋艦",
+        "class": "阿賀野型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 90,
+        "name": "矢矧改二",
+        "type": "軽巡洋艦",
+        "class": "阿賀野型 3番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1,
+          "高速建造材": 88,
+          "開発資材": 88
+        }
+      },
+      {
+        "level": 90,
+        "name": "矢矧改二乙",
+        "type": "重改装軽巡洋艦",
+        "class": "阿賀野型 3番艦",
+        "resources": {
+          "高速建造材": 30,
+          "開発資材": 45
+        }
+      }
+    ]
+  },
+  {
+    "name": "神通",
+    "hiragana": "じんつう",
+    "type": "軽巡洋艦",
+    "class": "川内型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/神通/::ref/神通_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A5%9E%E9%80%9A",
+    "stages": [
+      {
+        "level": 20,
+        "name": "神通改",
+        "type": "軽巡洋艦",
+        "class": "川内型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 60,
+        "name": "神通改二",
+        "type": "軽巡洋艦",
+        "class": "川内型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "能代",
+    "hiragana": "のしろ",
+    "type": "軽巡洋艦",
+    "class": "阿賀野型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/能代/::ref/能代_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%83%BD%E4%BB%A3",
+    "stages": [
+      {
+        "level": 35,
+        "name": "能代改",
+        "type": "軽巡洋艦",
+        "class": "阿賀野型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 80,
+        "name": "能代改二",
+        "type": "軽巡洋艦",
+        "class": "阿賀野型 2番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1,
+          "高速建造材": 77,
+          "開発資材": 80
+        }
+      }
+    ]
+  },
+  {
+    "name": "那珂",
+    "hiragana": "なか",
+    "type": "軽巡洋艦",
+    "class": "川内型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/那珂/::ref/那珂_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%82%A3%E7%8F%82",
+    "stages": [
+      {
+        "level": 20,
+        "name": "那珂改",
+        "type": "軽巡洋艦",
+        "class": "川内型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 48,
+        "name": "那珂改二",
+        "type": "軽巡洋艦",
+        "class": "川内型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "酒匂",
+    "hiragana": "さかわ",
+    "type": "軽巡洋艦",
+    "class": "阿賀野型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/酒匂/::ref/酒匂_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%85%92%E5%8C%82",
+    "stages": [
+      {
+        "level": 35,
+        "name": "酒匂改",
+        "type": "軽巡洋艦",
+        "class": "阿賀野型 4番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "長良",
+    "hiragana": "ながら",
+    "type": "軽巡洋艦",
+    "class": "長良型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/長良/::ref/長良_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%95%B7%E8%89%AF",
+    "stages": [
+      {
+        "level": 20,
+        "name": "長良改",
+        "type": "軽巡洋艦",
+        "class": "長良型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "阿賀野",
+    "hiragana": "あがの",
+    "type": "軽巡洋艦",
+    "class": "阿賀野型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/阿賀野/::ref/阿賀野_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%98%BF%E8%B3%80%E9%87%8E",
+    "stages": [
+      {
+        "level": 35,
+        "name": "阿賀野改",
+        "type": "軽巡洋艦",
+        "class": "阿賀野型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "龍田",
+    "hiragana": "たつた",
+    "type": "軽巡洋艦",
+    "class": "天龍型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/龍田/::ref/龍田_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%BE%8D%E7%94%B0",
+    "stages": [
+      {
+        "level": 20,
+        "name": "龍田改",
+        "type": "軽巡洋艦",
+        "class": "天龍型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 80,
+        "name": "龍田改二",
+        "type": "軽巡洋艦",
+        "class": "天龍型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "香取",
+    "hiragana": "かとり",
+    "type": "練習巡洋艦",
+    "class": "香取型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/香取/::ref/香取_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%A6%99%E5%8F%96",
+    "stages": [
+      {
+        "level": 35,
+        "name": "香取改",
+        "type": "練習巡洋艦",
+        "class": "香取型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "鹿島",
+    "hiragana": "かしま",
+    "type": "練習巡洋艦",
+    "class": "香取型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/鹿島/::ref/鹿島_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%B9%BF%E5%B3%B6",
+    "stages": [
+      {
+        "level": 35,
+        "name": "鹿島改",
+        "type": "練習巡洋艦",
+        "class": "香取型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "朝日",
+    "hiragana": "あさひ",
+    "type": "練習特務艦",
+    "class": "朝日型",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/朝日",
+    "stages": [
+      {
+        "level": 30,
+        "name": "朝日改",
+        "type": "工作艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Fletcher",
+    "hiragana": "フレッチャー",
+    "type": "駆逐艦",
+    "class": "Fletcher級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Fletcher/::ref/fletcher_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Fletcher",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Fletcher改",
+        "type": "駆逐艦",
+        "class": "Fletcher級 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 55,
+        "name": "Fletcher改 Mod.2",
+        "type": "駆逐艦",
+        "class": "Fletcher級 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 88,
+        "name": "Fletcher Mk.II",
+        "type": "駆逐艦",
+        "class": "Fletcher級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Grecale",
+    "hiragana": "グレカーレ",
+    "type": "駆逐艦",
+    "class": "Maestrale級 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Grecale/::ref/grecale_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Grecale",
+    "stages": [
+      {
+        "level": 30,
+        "name": "Grecale改",
+        "type": "駆逐艦",
+        "class": "Maestrale級 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Heywood L.E.",
+    "hiragana": "ヘイウッド・L・エドワーズ",
+    "type": "駆逐艦",
+    "class": "Fletcher級",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Heywood L.E.",
+    "stages": [
+      {
+        "level": 55,
+        "name": "Heywood L.E.改",
+        "type": "駆逐艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Janus",
+    "hiragana": "ジェーナス",
+    "type": "駆逐艦",
+    "class": "J級 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Janus/::ref/janus_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Janus",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Janus改",
+        "type": "駆逐艦",
+        "class": "J級 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Javelin",
+    "hiragana": "ジャベリン",
+    "type": "駆逐艦",
+    "class": "J級 3番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Javelin",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Javelin改",
+        "type": "駆逐艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Jervis",
+    "hiragana": "ジャーヴィス",
+    "type": "駆逐艦",
+    "class": "J級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Jervis/::ref/jervis_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Jervis",
+    "stages": [
+      {
+        "level": 45,
+        "name": "Jervis改",
+        "type": "駆逐艦",
+        "class": "J級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Johnston",
+    "hiragana": "ジョンストン",
+    "type": "駆逐艦",
+    "class": "Fletcher級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Johnston/::ref/johnston_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Johnston",
+    "stages": [
+      {
+        "level": 55,
+        "name": "Johnston改",
+        "type": "駆逐艦",
+        "class": "Fletcher級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Libeccio",
+    "hiragana": "リベッチオ",
+    "type": "駆逐艦",
+    "class": "Maestrale級 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Libeccio/::ref/libeccio_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Libeccio",
+    "stages": [
+      {
+        "level": 30,
+        "name": "Libeccio改",
+        "type": "駆逐艦",
+        "class": "Maestrale級 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Maestrale",
+    "hiragana": "マエストラーレ",
+    "type": "駆逐艦",
+    "class": "Maestrale級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Maestrale/::ref/maestrale_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Maestrale",
+    "stages": [
+      {
+        "level": 30,
+        "name": "Maestrale改",
+        "type": "駆逐艦",
+        "class": "Maestrale級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Mogador",
+    "hiragana": "モガドール",
+    "type": "駆逐艦",
+    "class": "Mogador級 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Mogador",
+    "stages": [
+      {
+        "level": 42,
+        "name": "Mogador改",
+        "type": "駆逐艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Richard P.Leary",
+    "hiragana": "リチャード・P・リアリー",
+    "type": "駆逐艦",
+    "class": "Fletcher級",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Richard P.Leary",
+    "stages": [
+      {
+        "level": 55,
+        "name": "Richard P.Leary改",
+        "type": "駆逐艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Samuel B.Roberts",
+    "hiragana": "サミュエル・B・ロバーツ",
+    "type": "駆逐艦",
+    "class": "John C. Butler級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Samuel%20B.Roberts/::ref/samuel b.roberts_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Samuel%20B.Roberts",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Samuel B.Roberts改",
+        "type": "駆逐艦",
+        "class": "John C. Butler級 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 80,
+        "name": "Samuel B.Roberts Mk.II",
+        "type": "駆逐艦",
+        "class": "John C. Butler級 1番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "Scirocco",
+    "hiragana": "シロッコ",
+    "type": "駆逐艦",
+    "class": "Maestrale級 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Scirocco/::ref/scirocco_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Scirocco",
+    "stages": [
+      {
+        "level": 30,
+        "name": "Scirocco改",
+        "type": "駆逐艦",
+        "class": "Maestrale級 4番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Z1",
+    "hiragana": "レーベレヒト・マース",
+    "type": "駆逐艦",
+    "class": "1934年型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Z1/::ref/z1_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Z1",
+    "stages": [
+      {
+        "level": 30,
+        "name": "Z1改",
+        "type": "駆逐艦",
+        "class": "1934年型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "Z1 zwei",
+        "type": "駆逐艦",
+        "class": "1934年型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Z3",
+    "hiragana": "マックス・シュルツ",
+    "type": "駆逐艦",
+    "class": "1934年型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Z3/::ref/z3_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Z3",
+    "stages": [
+      {
+        "level": 30,
+        "name": "Z3改",
+        "type": "駆逐艦",
+        "class": "1934年型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "Z3 zwei",
+        "type": "駆逐艦",
+        "class": "1934年型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Ташкент",
+    "hiragana": "タシュケント",
+    "type": "駆逐艦",
+    "class": "Tashkent級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Ташкент/::ref/ташкент_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%D0%A2%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Ташкент改",
+        "type": "駆逐艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "三日月",
+    "hiragana": "みかづき",
+    "type": "駆逐艦",
+    "class": "睦月型 10番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/三日月/::ref/三日月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%B8%89%E6%97%A5%E6%9C%88",
+    "stages": [
+      {
+        "level": 20,
+        "name": "三日月改",
+        "type": "駆逐艦",
+        "class": "睦月型 10番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "不知火",
+    "hiragana": "しらぬい",
+    "type": "駆逐艦",
+    "class": "陽炎型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/不知火/::ref/不知火_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%B8%8D%E7%9F%A5%E7%81%AB",
+    "stages": [
+      {
+        "level": 20,
+        "name": "不知火改",
+        "type": "駆逐艦",
+        "class": "陽炎型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 72,
+        "name": "不知火改二",
+        "type": "駆逐艦",
+        "class": "陽炎型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "五月雨",
+    "hiragana": "さみだれ",
+    "type": "駆逐艦",
+    "class": "白露型 6番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/五月雨/::ref/五月雨_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BA%94%E6%9C%88%E9%9B%A8",
+    "stages": [
+      {
+        "level": 20,
+        "name": "五月雨改",
+        "type": "駆逐艦",
+        "class": "白露型 6番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "冬月",
+    "hiragana": "ふゆつき",
+    "type": "駆逐艦",
+    "class": "秋月型 8番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/冬月/::ref/冬月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%86%AC%E6%9C%88",
+    "stages": [
+      {
+        "level": 55,
+        "name": "冬月改",
+        "type": "駆逐艦",
+        "class": "秋月型 8番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "初春",
+    "hiragana": "はつはる",
+    "type": "駆逐艦",
+    "class": "初春型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/初春/::ref/初春_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%88%9D%E6%98%A5",
+    "stages": [
+      {
+        "level": 20,
+        "name": "初春改",
+        "type": "駆逐艦",
+        "class": "初春型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 65,
+        "name": "初春改二",
+        "type": "駆逐艦",
+        "class": "初春型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "初月",
+    "hiragana": "はつづき",
+    "type": "駆逐艦",
+    "class": "秋月型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/初月/::ref/初月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%88%9D%E6%9C%88",
+    "stages": [
+      {
+        "level": 40,
+        "name": "初月改",
+        "type": "駆逐艦",
+        "class": "秋月型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 88,
+        "name": "初月改二",
+        "type": "駆逐艦",
+        "class": "秋月型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "初雪",
+    "hiragana": "はつゆき",
+    "type": "駆逐艦",
+    "class": "吹雪型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/初雪/::ref/初雪_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%88%9D%E9%9B%AA",
+    "stages": [
+      {
+        "level": 20,
+        "name": "初雪改",
+        "type": "駆逐艦",
+        "class": "吹雪型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 78,
+        "name": "初雪改二",
+        "type": "駆逐艦",
+        "class": "吹雪型 3番艦",
+        "resources": {
+          "新型砲熕兵装資材": 2,
+          "高速建造材": 7,
+          "開発資材": 28
+        }
+      }
+    ]
+  },
+  {
+    "name": "初霜",
+    "hiragana": "はつしも",
+    "type": "駆逐艦",
+    "class": "初春型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/初霜/::ref/初霜_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%88%9D%E9%9C%9C",
+    "stages": [
+      {
+        "level": 20,
+        "name": "初霜改",
+        "type": "駆逐艦",
+        "class": "初春型 4番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "初霜改二",
+        "type": "駆逐艦",
+        "class": "初春型 4番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "初風",
+    "hiragana": "はつかぜ",
+    "type": "駆逐艦",
+    "class": "陽炎型 7番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/初風/::ref/初風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%88%9D%E9%A2%A8",
+    "stages": [
+      {
+        "level": 20,
+        "name": "初風改",
+        "type": "駆逐艦",
+        "class": "陽炎型 7番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "卯月",
+    "hiragana": "うづき",
+    "type": "駆逐艦",
+    "class": "睦月型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/卯月/::ref/卯月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8D%AF%E6%9C%88",
+    "stages": [
+      {
+        "level": 25,
+        "name": "卯月改",
+        "type": "駆逐艦",
+        "class": "睦月型 4番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "叢雲",
+    "hiragana": "むらくも",
+    "type": "駆逐艦",
+    "class": "吹雪型 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/叢雲/::ref/叢雲_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8F%A2%E9%9B%B2",
+    "stages": [
+      {
+        "level": 20,
+        "name": "叢雲改",
+        "type": "駆逐艦",
+        "class": "吹雪型 5番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "叢雲改二",
+        "type": "駆逐艦",
+        "class": "吹雪型 5番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "吹雪",
+    "hiragana": "ふぶき",
+    "type": "駆逐艦",
+    "class": "吹雪型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/吹雪/::ref/吹雪_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%90%B9%E9%9B%AA",
+    "stages": [
+      {
+        "level": 20,
+        "name": "吹雪改",
+        "type": "駆逐艦",
+        "class": "吹雪型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "吹雪改二",
+        "type": "駆逐艦",
+        "class": "吹雪型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "夏雲",
+    "hiragana": "なつぐも",
+    "type": "駆逐艦",
+    "class": "朝潮型 7番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/夏雲/::ref/夏雲_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%8F%E9%9B%B2",
+    "stages": [
+      {
+        "level": 35,
+        "name": "夏雲改",
+        "type": "駆逐艦",
+        "class": "朝潮型 7番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "夕暮",
+    "hiragana": "ゆうぐれ",
+    "type": "駆逐艦",
+    "class": "初春型 6番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/夕暮/::ref/夕暮_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%95%E6%9A%AE",
+    "stages": [
+      {
+        "level": 30,
+        "name": "夕暮改",
+        "type": "駆逐艦",
+        "class": "初春型 6番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "夕立",
+    "hiragana": "ゆうだち",
+    "type": "駆逐艦",
+    "class": "白露型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/夕立/::ref/夕立_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%95%E7%AB%8B",
+    "stages": [
+      {
+        "level": 20,
+        "name": "夕立改",
+        "type": "駆逐艦",
+        "class": "白露型 4番艦",
+        "resources": {}
+      },
+      {
+        "level": 55,
+        "name": "夕立改二",
+        "type": "駆逐艦",
+        "class": "白露型 4番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "夕雲",
+    "hiragana": "ゆうぐも",
+    "type": "駆逐艦",
+    "class": "夕雲型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/夕雲/::ref/夕雲_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%95%E9%9B%B2",
+    "stages": [
+      {
+        "level": 30,
+        "name": "夕雲改",
+        "type": "駆逐艦",
+        "class": "夕雲型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "夕雲改二",
+        "type": "駆逐艦",
+        "class": "夕雲型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "大潮",
+    "hiragana": "おおしお",
+    "type": "駆逐艦",
+    "class": "朝潮型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大潮/::ref/大潮_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E6%BD%AE",
+    "stages": [
+      {
+        "level": 20,
+        "name": "大潮改",
+        "type": "駆逐艦",
+        "class": "朝潮型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 74,
+        "name": "大潮改二",
+        "type": "駆逐艦",
+        "class": "朝潮型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "天津風",
+    "hiragana": "あまつかぜ",
+    "type": "駆逐艦",
+    "class": "陽炎型 9番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/天津風/::ref/天津風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E6%B4%A5%E9%A2%A8",
+    "stages": [
+      {
+        "level": 20,
+        "name": "天津風改",
+        "type": "駆逐艦",
+        "class": "陽炎型 9番艦",
+        "resources": {}
+      },
+      {
+        "level": 74,
+        "name": "天津風改二",
+        "type": "駆逐艦",
+        "class": "陽炎型 9番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1,
+          "高速建造材": 30,
+          "開発資材": 65
+        }
+      }
+    ]
+  },
+  {
+    "name": "天霧",
+    "hiragana": "あまぎり",
+    "type": "駆逐艦",
+    "class": "綾波型 13番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/天霧/::ref/天霧_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E9%9C%A7",
+    "stages": [
+      {
+        "level": 35,
+        "name": "天霧改",
+        "type": "駆逐艦",
+        "class": "綾波型 13番艦",
+        "resources": {}
+      },
+      {
+        "level": 89,
+        "name": "天霧改二",
+        "type": "駆逐艦",
+        "class": "綾波型 13番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 89,
+        "name": "天霧改二丁",
+        "type": "駆逐艦",
+        "class": "綾波型 13番艦",
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 20
+        }
+      }
+    ]
+  },
+  {
+    "name": "如月",
+    "hiragana": "きさらぎ",
+    "type": "駆逐艦",
+    "class": "睦月型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/如月/::ref/如月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A6%82%E6%9C%88",
+    "stages": [
+      {
+        "level": 20,
+        "name": "如月改",
+        "type": "駆逐艦",
+        "class": "睦月型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 65,
+        "name": "如月改二",
+        "type": "駆逐艦",
+        "class": "睦月型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "子日",
+    "hiragana": "ねのひ",
+    "type": "駆逐艦",
+    "class": "初春型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%AD%90%E6%97%A5%E6%94%B9/::ref/076b_2nd.jpg.webp?rev=4f796e41443309e1c14ddd9443b1bb20&t=20180926122123",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%AD%90%E6%97%A5",
+    "stages": [
+      {
+        "level": 20,
+        "name": "子日改",
+        "type": "駆逐艦",
+        "class": "初春型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "山雲",
+    "hiragana": "やまぐも",
+    "type": "駆逐艦",
+    "class": "朝潮型 6番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/山雲/::ref/山雲_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B1%B1%E9%9B%B2",
+    "stages": [
+      {
+        "level": 35,
+        "name": "山雲改",
+        "type": "駆逐艦",
+        "class": "朝潮型 6番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "山風",
+    "hiragana": "やまかぜ",
+    "type": "駆逐艦",
+    "class": "白露型 8番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/山風/::ref/山風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B1%B1%E9%A2%A8",
+    "stages": [
+      {
+        "level": 45,
+        "name": "山風改",
+        "type": "駆逐艦",
+        "class": "白露型 8番艦",
+        "resources": {}
+      },
+      {
+        "level": 91,
+        "name": "山風改二",
+        "type": "駆逐艦",
+        "class": "白露型 8番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1
+        }
+      },
+      {
+        "level": 91,
+        "name": "山風改二丁",
+        "type": "駆逐艦",
+        "class": "白露型 8番艦",
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "岸波",
+    "hiragana": "きしなみ",
+    "type": "駆逐艦",
+    "class": "夕雲型 15番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/岸波/::ref/岸波_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B2%B8%E6%B3%A2",
+    "stages": [
+      {
+        "level": 35,
+        "name": "岸波改",
+        "type": "駆逐艦",
+        "class": "夕雲型 15番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "峯雲",
+    "hiragana": "みねぐも",
+    "type": "駆逐艦",
+    "class": "朝潮型 8番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/峯雲/::ref/峯雲_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B3%AF%E9%9B%B2",
+    "stages": [
+      {
+        "level": 35,
+        "name": "峯雲改",
+        "type": "駆逐艦",
+        "class": "朝潮型 8番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "島風",
+    "hiragana": "しまかぜ",
+    "type": "駆逐艦",
+    "class": "島風型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/島風/::ref/島風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B3%B6%E9%A2%A8",
+    "stages": [
+      {
+        "level": 20,
+        "name": "島風改",
+        "type": "駆逐艦",
+        "class": "島風型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "嵐",
+    "hiragana": "あらし",
+    "type": "駆逐艦",
+    "class": "陽炎型 16番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/嵐/::ref/嵐_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B5%90",
+    "stages": [
+      {
+        "level": 35,
+        "name": "嵐改",
+        "type": "駆逐艦",
+        "class": "陽炎型 16番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "巻波",
+    "hiragana": "まきなみ",
+    "type": "駆逐艦",
+    "class": "夕雲型 5番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/巻波",
+    "stages": [
+      {
+        "level": 30,
+        "name": "巻波改",
+        "type": "駆逐艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "巻雲",
+    "hiragana": "まきぐも",
+    "type": "駆逐艦",
+    "class": "夕雲型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/巻雲/::ref/巻雲_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B7%BB%E9%9B%B2",
+    "stages": [
+      {
+        "level": 30,
+        "name": "巻雲改",
+        "type": "駆逐艦",
+        "class": "夕雲型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "巻雲改二",
+        "type": "駆逐艦",
+        "class": "夕雲型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "弥生",
+    "hiragana": "やよい",
+    "type": "駆逐艦",
+    "class": "睦月型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/弥生/::ref/弥生_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%BC%A5%E7%94%9F",
+    "stages": [
+      {
+        "level": 20,
+        "name": "弥生改",
+        "type": "駆逐艦",
+        "class": "睦月型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "敷波",
+    "hiragana": "しきなみ",
+    "type": "駆逐艦",
+    "class": "綾波型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/敷波/::ref/敷波_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%95%B7%E6%B3%A2",
+    "stages": [
+      {
+        "level": 20,
+        "name": "敷波改",
+        "type": "駆逐艦",
+        "class": "綾波型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 80,
+        "name": "敷波改二",
+        "type": "駆逐艦",
+        "class": "綾波型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "文月",
+    "hiragana": "ふみづき",
+    "type": "駆逐艦",
+    "class": "睦月型 7番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/文月/::ref/文月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%96%87%E6%9C%88",
+    "stages": [
+      {
+        "level": 20,
+        "name": "文月改",
+        "type": "駆逐艦",
+        "class": "睦月型 7番艦",
+        "resources": {}
+      },
+      {
+        "level": 77,
+        "name": "文月改二",
+        "type": "駆逐艦",
+        "class": "睦月型 7番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "旗風",
+    "hiragana": "はたかぜ",
+    "type": "駆逐艦",
+    "class": "神風型 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/旗風/::ref/旗風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%97%97%E9%A2%A8",
+    "stages": [
+      {
+        "level": 50,
+        "name": "旗風改",
+        "type": "駆逐艦",
+        "class": "神風型 5番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "早波",
+    "hiragana": "はやなみ",
+    "type": "駆逐艦",
+    "class": "夕雲型 12番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/早波/::ref/早波_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%97%A9%E6%B3%A2",
+    "stages": [
+      {
+        "level": 30,
+        "name": "早波改",
+        "type": "駆逐艦",
+        "class": "夕雲型 12番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "早潮",
+    "hiragana": "はやしお",
+    "type": "駆逐艦",
+    "class": "朝潮型 6番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/早潮",
+    "stages": [
+      {
+        "level": 37,
+        "name": "早潮改",
+        "type": "駆逐艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "早潮改二",
+        "type": "駆逐艦",
+        "resources": {
+          "改装設計図": 1,
+          "開発資材": 20
+        }
+      }
+    ]
+  },
+  {
+    "name": "早霜",
+    "hiragana": "はやしも",
+    "type": "駆逐艦",
+    "class": "夕雲型 17番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/早霜/::ref/早霜_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%97%A9%E9%9C%9C",
+    "stages": [
+      {
+        "level": 30,
+        "name": "早霜改",
+        "type": "駆逐艦",
+        "class": "夕雲型 17番艦",
+        "resources": {}
+      },
+      {
+        "level": 78,
+        "name": "早霜改二",
+        "type": "駆逐艦",
+        "class": "夕雲型 17番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1,
+          "開発資材": 30
+        }
+      }
+    ]
+  },
+  {
+    "name": "春雨",
+    "hiragana": "はるさめ",
+    "type": "駆逐艦",
+    "class": "白露型 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/春雨/::ref/春雨_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%98%A5%E9%9B%A8",
+    "stages": [
+      {
+        "level": 30,
+        "name": "春雨改",
+        "type": "駆逐艦",
+        "class": "白露型 5番艦",
+        "resources": {}
+      },
+      {
+        "level": 82,
+        "name": "春雨改二",
+        "type": "駆逐艦",
+        "class": "白露型 5番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "春風",
+    "hiragana": "はるかぜ",
+    "type": "駆逐艦",
+    "class": "神風型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/春風/::ref/春風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%98%A5%E9%A2%A8",
+    "stages": [
+      {
+        "level": 50,
+        "name": "春風改",
+        "type": "駆逐艦",
+        "class": "神風型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "時津風",
+    "hiragana": "ときつかぜ",
+    "type": "駆逐艦",
+    "class": "陽炎型 10番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/時津風/::ref/時津風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%99%82%E6%B4%A5%E9%A2%A8",
+    "stages": [
+      {
+        "level": 30,
+        "name": "時津風改",
+        "type": "駆逐艦",
+        "class": "陽炎型 10番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "時雨",
+    "hiragana": "しぐれ",
+    "type": "駆逐艦",
+    "class": "白露型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/時雨/::ref/時雨_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%99%82%E9%9B%A8",
+    "stages": [
+      {
+        "level": 20,
+        "name": "時雨改",
+        "type": "駆逐艦",
+        "class": "白露型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 60,
+        "name": "時雨改二",
+        "type": "駆逐艦",
+        "class": "白露型 2番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 97,
+        "name": "時雨改三",
+        "type": "駆逐艦",
+        "class": "白露型 2番艦",
+        "resources": {
+          "改装設計図": 2,
+          "戦闘詳報": 2,
+          "新型兵装資材": 3,
+          "開発資材": 77
+        }
+      }
+    ]
+  },
+  {
+    "name": "暁",
+    "hiragana": "あかつき",
+    "type": "駆逐艦",
+    "class": "暁型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/暁/::ref/暁_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9A%81",
+    "stages": [
+      {
+        "level": 20,
+        "name": "暁改",
+        "type": "駆逐艦",
+        "class": "暁型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "暁改二",
+        "type": "駆逐艦",
+        "class": "暁型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "曙",
+    "hiragana": "あけぼの",
+    "type": "駆逐艦",
+    "class": "吹雪型 18番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/曙/::ref/曙_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9B%99",
+    "stages": [
+      {
+        "level": 20,
+        "name": "曙改",
+        "type": "駆逐艦",
+        "class": "吹雪型 18番艦",
+        "resources": {}
+      },
+      {
+        "level": 82,
+        "name": "曙改二",
+        "type": "駆逐艦",
+        "class": "吹雪型 18番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "有明",
+    "hiragana": "ありあけ",
+    "type": "駆逐艦",
+    "class": "初春型 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/有明/::ref/有明_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%89%E6%98%8E",
+    "stages": [
+      {
+        "level": 30,
+        "name": "有明改",
+        "type": "駆逐艦",
+        "class": "初春型 5番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "望月",
+    "hiragana": "もちづき",
+    "type": "駆逐艦",
+    "class": "睦月型 11番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/望月/::ref/望月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%9B%E6%9C%88",
+    "stages": [
+      {
+        "level": 20,
+        "name": "望月改",
+        "type": "駆逐艦",
+        "class": "睦月型 11番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "朝潮",
+    "hiragana": "あさしお",
+    "type": "駆逐艦",
+    "class": "朝潮型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/朝潮/::ref/朝潮_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%9D%E6%BD%AE",
+    "stages": [
+      {
+        "level": 20,
+        "name": "朝潮改",
+        "type": "駆逐艦",
+        "class": "朝潮型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 85,
+        "name": "朝潮改二",
+        "type": "駆逐艦",
+        "class": "朝潮型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 85,
+        "name": "朝潮改二丁",
+        "type": "駆逐艦",
+        "class": "朝潮型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "朝雲",
+    "hiragana": "あさぐも",
+    "type": "駆逐艦",
+    "class": "朝潮型 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/朝雲/::ref/朝雲_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%9D%E9%9B%B2",
+    "stages": [
+      {
+        "level": 35,
+        "name": "朝雲改",
+        "type": "駆逐艦",
+        "class": "朝潮型 5番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "朝霜",
+    "hiragana": "あさしも",
+    "type": "駆逐艦",
+    "class": "夕雲型 16番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/朝霜/::ref/朝霜_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%9D%E9%9C%9C",
+    "stages": [
+      {
+        "level": 45,
+        "name": "朝霜改",
+        "type": "駆逐艦",
+        "class": "夕雲型 16番艦",
+        "resources": {}
+      },
+      {
+        "level": 77,
+        "name": "朝霜改二",
+        "type": "駆逐艦",
+        "class": "夕雲型 16番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1,
+          "開発資材": 30
+        }
+      }
+    ]
+  },
+  {
+    "name": "朝風",
+    "hiragana": "あさかぜ",
+    "type": "駆逐艦",
+    "class": "神風型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/朝風/::ref/朝風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%9D%E9%A2%A8",
+    "stages": [
+      {
+        "level": 50,
+        "name": "朝風改",
+        "type": "駆逐艦",
+        "class": "神風型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "朧",
+    "hiragana": "おぼろ",
+    "type": "駆逐艦",
+    "class": "吹雪型 17番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/朧/::ref/朧_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%A7",
+    "stages": [
+      {
+        "level": 20,
+        "name": "朧改",
+        "type": "駆逐艦",
+        "class": "吹雪型 17番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "杉",
+    "hiragana": "すぎ",
+    "type": "駆逐艦",
+    "class": "松型 5番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/杉",
+    "stages": [
+      {
+        "level": 46,
+        "name": "杉改",
+        "type": "駆逐艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "村雨",
+    "hiragana": "むらさめ",
+    "type": "駆逐艦",
+    "class": "白露型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/村雨/::ref/村雨_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9D%91%E9%9B%A8",
+    "stages": [
+      {
+        "level": 20,
+        "name": "村雨改",
+        "type": "駆逐艦",
+        "class": "白露型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "村雨改二",
+        "type": "駆逐艦",
+        "class": "白露型 3番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "松",
+    "hiragana": "まつ",
+    "type": "駆逐艦",
+    "class": "松型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/松/::ref/松_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9D%BE",
+    "stages": [
+      {
+        "level": 40,
+        "name": "松改",
+        "type": "駆逐艦",
+        "class": "松型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "松風",
+    "hiragana": "まつかぜ",
+    "type": "駆逐艦",
+    "class": "神風型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/松風/::ref/松風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9D%BE%E9%A2%A8",
+    "stages": [
+      {
+        "level": 50,
+        "name": "松風改",
+        "type": "駆逐艦",
+        "class": "神風型 4番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "桃",
+    "hiragana": "もも",
+    "type": "駆逐艦",
+    "class": "松型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/桃/::ref/桃_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%A1%83",
+    "stages": [
+      {
+        "level": 40,
+        "name": "桃改",
+        "type": "駆逐艦",
+        "class": "松型 4番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "梅",
+    "hiragana": "うめ",
+    "type": "駆逐艦",
+    "class": "松型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/梅/::ref/梅_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%A2%85",
+    "stages": [
+      {
+        "level": 40,
+        "name": "梅改",
+        "type": "駆逐艦",
+        "class": "松型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "榧",
+    "hiragana": "かや",
+    "type": "駆逐艦",
+    "class": "松型 7番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/榧",
+    "stages": [
+      {
+        "level": 46,
+        "name": "榧改",
+        "type": "駆逐艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "樫",
+    "hiragana": "かし",
+    "type": "駆逐艦",
+    "class": "松型 6番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/樫",
+    "stages": [
+      {
+        "level": 46,
+        "name": "樫改",
+        "type": "駆逐艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "水無月",
+    "hiragana": "みなづき",
+    "type": "駆逐艦",
+    "class": "睦月型 6番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/水無月/::ref/水無月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B0%B4%E7%84%A1%E6%9C%88",
+    "stages": [
+      {
+        "level": 20,
+        "name": "水無月改",
+        "type": "駆逐艦",
+        "class": "睦月型 6番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "江風",
+    "hiragana": "かわかぜ",
+    "type": "駆逐艦",
+    "class": "白露型 9番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/江風/::ref/江風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B1%9F%E9%A2%A8",
+    "stages": [
+      {
+        "level": 30,
+        "name": "江風改",
+        "type": "駆逐艦",
+        "class": "白露型 9番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "江風改二",
+        "type": "駆逐艦",
+        "class": "白露型 9番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "沖波",
+    "hiragana": "おきなみ",
+    "type": "駆逐艦",
+    "class": "夕雲型 14番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/沖波/::ref/沖波_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B2%96%E6%B3%A2",
+    "stages": [
+      {
+        "level": 30,
+        "name": "沖波改",
+        "type": "駆逐艦",
+        "class": "夕雲型 14番艦",
+        "resources": {}
+      },
+      {
+        "level": 79,
+        "name": "沖波改二",
+        "type": "駆逐艦",
+        "class": "夕雲型 14番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1,
+          "開発資材": 80
+        }
+      }
+    ]
+  },
+  {
+    "name": "浜波",
+    "hiragana": "はまなみ",
+    "type": "駆逐艦",
+    "class": "夕雲型 13番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/浜波/::ref/浜波_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B5%9C%E6%B3%A2",
+    "stages": [
+      {
+        "level": 30,
+        "name": "浜波改",
+        "type": "駆逐艦",
+        "class": "夕雲型 13番艦",
+        "resources": {}
+      },
+      {
+        "level": 77,
+        "name": "浜波改二",
+        "type": "駆逐艦",
+        "class": "夕雲型 13番艦",
+        "resources": {
+          "改装設計図": 1,
+          "新型兵装資材": 2,
+          "開発資材": 60
+        }
+      }
+    ]
+  },
+  {
+    "name": "浜風",
+    "hiragana": "はまかぜ",
+    "type": "駆逐艦",
+    "class": "陽炎型 13番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/浜風/::ref/浜風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B5%9C%E9%A2%A8",
+    "stages": [
+      {
+        "level": 30,
+        "name": "浜風改",
+        "type": "駆逐艦",
+        "class": "陽炎型 13番艦",
+        "resources": {}
+      },
+      {
+        "level": 67,
+        "name": "浜風乙改",
+        "type": "駆逐艦",
+        "class": "陽炎型 13番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "浦波",
+    "hiragana": "うらなみ",
+    "type": "駆逐艦",
+    "class": "吹雪型 10番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/浦波/::ref/浦波_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B5%A6%E6%B3%A2",
+    "stages": [
+      {
+        "level": 30,
+        "name": "浦波改",
+        "type": "駆逐艦",
+        "class": "吹雪型 10番艦",
+        "resources": {}
+      },
+      {
+        "level": 80,
+        "name": "浦波改二",
+        "type": "駆逐艦",
+        "class": "吹雪型 10番艦",
+        "resources": {
+          "改装設計図": 1,
+          "開発資材": 20
+        }
+      }
+    ]
+  },
+  {
+    "name": "浦風",
+    "hiragana": "うらかぜ",
+    "type": "駆逐艦",
+    "class": "陽炎型 11番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/浦風/::ref/浦風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B5%A6%E9%A2%A8",
+    "stages": [
+      {
+        "level": 35,
+        "name": "浦風改",
+        "type": "駆逐艦",
+        "class": "陽炎型 11番艦",
+        "resources": {}
+      },
+      {
+        "level": 69,
+        "name": "浦風丁改",
+        "type": "駆逐艦",
+        "class": "陽炎型 11番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "海風",
+    "hiragana": "うみかぜ",
+    "type": "駆逐艦",
+    "class": "白露型 7番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/海風/::ref/海風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B5%B7%E9%A2%A8",
+    "stages": [
+      {
+        "level": 30,
+        "name": "海風改",
+        "type": "駆逐艦",
+        "class": "白露型 7番艦",
+        "resources": {}
+      },
+      {
+        "level": 82,
+        "name": "海風改二",
+        "type": "駆逐艦",
+        "class": "白露型 7番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "涼月",
+    "hiragana": "すずつき",
+    "type": "駆逐艦",
+    "class": "秋月型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/涼月/::ref/涼月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B6%BC%E6%9C%88",
+    "stages": [
+      {
+        "level": 55,
+        "name": "涼月改",
+        "type": "駆逐艦",
+        "class": "秋月型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "涼波",
+    "hiragana": "すずなみ",
+    "type": "駆逐艦",
+    "class": "夕雲型 8番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/涼波",
+    "stages": [
+      {
+        "level": 30,
+        "name": "涼波改",
+        "type": "駆逐艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "涼風",
+    "hiragana": "すずかぜ",
+    "type": "駆逐艦",
+    "class": "白露型 10番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/涼風/::ref/涼風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B6%BC%E9%A2%A8",
+    "stages": [
+      {
+        "level": 20,
+        "name": "涼風改",
+        "type": "駆逐艦",
+        "class": "白露型 10番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "深雪",
+    "hiragana": "みゆき",
+    "type": "駆逐艦",
+    "class": "吹雪型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/深雪/::ref/深雪_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B7%B1%E9%9B%AA",
+    "stages": [
+      {
+        "level": 20,
+        "name": "深雪改",
+        "type": "駆逐艦",
+        "class": "吹雪型 4番艦",
+        "resources": {}
+      },
+      {
+        "level": 82,
+        "name": "深雪改二",
+        "type": "駆逐艦",
+        "class": "吹雪型 4番艦",
+        "resources": {
+          "改装設計図": 1,
+          "開発資材": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "清霜",
+    "hiragana": "きよしも",
+    "type": "駆逐艦",
+    "class": "夕雲型 19番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/清霜/::ref/清霜_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B8%85%E9%9C%9C",
+    "stages": [
+      {
+        "level": 50,
+        "name": "清霜改",
+        "type": "駆逐艦",
+        "class": "夕雲型 19番艦",
+        "resources": {}
+      },
+      {
+        "level": 86,
+        "name": "清霜改二",
+        "type": "駆逐艦",
+        "class": "夕雲型 19番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1,
+          "開発資材": 30
+        }
+      },
+      {
+        "level": 86,
+        "name": "清霜改二丁",
+        "type": "駆逐艦",
+        "class": "夕雲型 19番艦",
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 10
+        }
+      }
+    ]
+  },
+  {
+    "name": "満潮",
+    "hiragana": "みちしお",
+    "type": "駆逐艦",
+    "class": "朝潮型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/満潮/::ref/満潮_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%BA%80%E6%BD%AE",
+    "stages": [
+      {
+        "level": 20,
+        "name": "満潮改",
+        "type": "駆逐艦",
+        "class": "朝潮型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 77,
+        "name": "満潮改二",
+        "type": "駆逐艦",
+        "class": "朝潮型 3番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "漣",
+    "hiragana": "さざなみ",
+    "type": "駆逐艦",
+    "class": "吹雪型 19番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/漣/::ref/漣_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%BC%A3",
+    "stages": [
+      {
+        "level": 20,
+        "name": "漣改",
+        "type": "駆逐艦",
+        "class": "吹雪型 19番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "潮",
+    "hiragana": "うしお",
+    "type": "駆逐艦",
+    "class": "吹雪型 20番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/潮/::ref/潮_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%BD%AE",
+    "stages": [
+      {
+        "level": 20,
+        "name": "潮改",
+        "type": "駆逐艦",
+        "class": "吹雪型 20番艦",
+        "resources": {}
+      },
+      {
+        "level": 60,
+        "name": "潮改二",
+        "type": "駆逐艦",
+        "class": "吹雪型 20番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "照月",
+    "hiragana": "てるづき",
+    "type": "駆逐艦",
+    "class": "秋月型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/照月/::ref/照月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%85%A7%E6%9C%88",
+    "stages": [
+      {
+        "level": 40,
+        "name": "照月改",
+        "type": "駆逐艦",
+        "class": "秋月型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "狭霧",
+    "hiragana": "さぎり",
+    "type": "駆逐艦",
+    "class": "綾波型 14番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/狭霧/::ref/狭霧_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%8B%AD%E9%9C%A7",
+    "stages": [
+      {
+        "level": 30,
+        "name": "狭霧改",
+        "type": "駆逐艦",
+        "class": "綾波型 14番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "玉波",
+    "hiragana": "たまなみ",
+    "type": "駆逐艦",
+    "class": "夕雲型 7番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/玉波",
+    "stages": [
+      {
+        "level": 30,
+        "name": "玉波改",
+        "type": "駆逐艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "白雪",
+    "hiragana": "しらゆき",
+    "type": "駆逐艦",
+    "class": "吹雪型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/白雪/::ref/白雪_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%99%BD%E9%9B%AA",
+    "stages": [
+      {
+        "level": 20,
+        "name": "白雪改",
+        "type": "駆逐艦",
+        "class": "吹雪型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 77,
+        "name": "白雪改二",
+        "type": "駆逐艦",
+        "class": "吹雪型 2番艦",
+        "resources": {
+          "新型砲熕兵装資材": 1,
+          "高速建造材": 5,
+          "開発資材": 20
+        }
+      }
+    ]
+  },
+  {
+    "name": "白雲",
+    "hiragana": "しらくも",
+    "type": "駆逐艦",
+    "class": "吹雪型 7番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/白雲",
+    "stages": [
+      {
+        "level": 40,
+        "name": "白雲改",
+        "type": "駆逐艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "白露",
+    "hiragana": "しらつゆ",
+    "type": "駆逐艦",
+    "class": "白露型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/白露/::ref/白露_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%99%BD%E9%9C%B2",
+    "stages": [
+      {
+        "level": 20,
+        "name": "白露改",
+        "type": "駆逐艦",
+        "class": "白露型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 77,
+        "name": "白露改二",
+        "type": "駆逐艦",
+        "class": "白露型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "皐月",
+    "hiragana": "さつき",
+    "type": "駆逐艦",
+    "class": "睦月型 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/皐月/::ref/皐月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%9A%90%E6%9C%88",
+    "stages": [
+      {
+        "level": 20,
+        "name": "皐月改",
+        "type": "駆逐艦",
+        "class": "睦月型 5番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "皐月改二",
+        "type": "駆逐艦",
+        "class": "睦月型 5番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "睦月",
+    "hiragana": "むつき",
+    "type": "駆逐艦",
+    "class": "睦月型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/睦月/::ref/睦月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%9D%A6%E6%9C%88",
+    "stages": [
+      {
+        "level": 20,
+        "name": "睦月改",
+        "type": "駆逐艦",
+        "class": "睦月型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 65,
+        "name": "睦月改二",
+        "type": "駆逐艦",
+        "class": "睦月型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "磯波",
+    "hiragana": "いそなみ",
+    "type": "駆逐艦",
+    "class": "吹雪型 9番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/磯波/::ref/磯波_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A3%AF%E6%B3%A2",
+    "stages": [
+      {
+        "level": 20,
+        "name": "磯波改",
+        "type": "駆逐艦",
+        "class": "吹雪型 9番艦",
+        "resources": {}
+      },
+      {
+        "level": 82,
+        "name": "磯波改二",
+        "type": "駆逐艦",
+        "class": "吹雪型 9番艦",
+        "resources": {
+          "改装設計図": 1,
+          "開発資材": 28,
+          "新型砲熕兵装資材": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "磯風",
+    "hiragana": "いそかぜ",
+    "type": "駆逐艦",
+    "class": "陽炎型 12番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/磯風/::ref/磯風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A3%AF%E9%A2%A8",
+    "stages": [
+      {
+        "level": 45,
+        "name": "磯風改",
+        "type": "駆逐艦",
+        "class": "陽炎型 12番艦",
+        "resources": {}
+      },
+      {
+        "level": 68,
+        "name": "磯風乙改",
+        "type": "駆逐艦",
+        "class": "陽炎型 12番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "神風",
+    "hiragana": "かみかぜ",
+    "type": "駆逐艦",
+    "class": "神風型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/神風/::ref/神風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A5%9E%E9%A2%A8",
+    "stages": [
+      {
+        "level": 50,
+        "name": "神風改",
+        "type": "駆逐艦",
+        "class": "神風型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "秋月",
+    "hiragana": "あきづき",
+    "type": "駆逐艦",
+    "class": "秋月型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/秋月/::ref/秋月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A7%8B%E6%9C%88",
+    "stages": [
+      {
+        "level": 40,
+        "name": "秋月改",
+        "type": "駆逐艦",
+        "class": "秋月型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 85,
+        "name": "秋月改二",
+        "type": "駆逐艦",
+        "class": "秋月型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "秋雲",
+    "hiragana": "あきぐも",
+    "type": "駆逐艦",
+    "class": "陽炎型 19番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/秋雲/::ref/秋雲_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A7%8B%E9%9B%B2",
+    "stages": [
+      {
+        "level": 30,
+        "name": "秋雲改",
+        "type": "駆逐艦",
+        "class": "陽炎型 19番艦",
+        "resources": {}
+      },
+      {
+        "level": 74,
+        "name": "秋雲改二",
+        "type": "駆逐艦",
+        "class": "陽炎型 19番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1,
+          "開発資材": 20
+        }
+      }
+    ]
+  },
+  {
+    "name": "秋霜",
+    "hiragana": "あきしも",
+    "type": "駆逐艦",
+    "class": "夕雲型 18番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/秋霜/::ref/秋霜_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A7%8B%E9%9C%9C",
+    "stages": [
+      {
+        "level": 30,
+        "name": "秋霜改",
+        "type": "駆逐艦",
+        "class": "夕雲型 18番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "竹",
+    "hiragana": "たけ",
+    "type": "駆逐艦",
+    "class": "松型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/竹/::ref/竹_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%AB%B9",
+    "stages": [
+      {
+        "level": 40,
+        "name": "竹改",
+        "type": "駆逐艦",
+        "class": "松型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "綾波",
+    "hiragana": "あやなみ",
+    "type": "駆逐艦",
+    "class": "綾波型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/綾波/::ref/綾波_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%B6%BE%E6%B3%A2",
+    "stages": [
+      {
+        "level": 20,
+        "name": "綾波改",
+        "type": "駆逐艦",
+        "class": "綾波型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "綾波改二",
+        "type": "駆逐艦",
+        "class": "綾波型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "舞風",
+    "hiragana": "まいかぜ",
+    "type": "駆逐艦",
+    "class": "陽炎型 18番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/舞風/::ref/舞風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%88%9E%E9%A2%A8",
+    "stages": [
+      {
+        "level": 20,
+        "name": "舞風改",
+        "type": "駆逐艦",
+        "class": "陽炎型 18番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "若葉",
+    "hiragana": "わかば",
+    "type": "駆逐艦",
+    "class": "初春型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/若葉/::ref/若葉_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%8B%A5%E8%91%89",
+    "stages": [
+      {
+        "level": 20,
+        "name": "若葉改",
+        "type": "駆逐艦",
+        "class": "初春型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "荒潮",
+    "hiragana": "あらしお",
+    "type": "駆逐艦",
+    "class": "朝潮型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/荒潮/::ref/荒潮_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%8D%92%E6%BD%AE",
+    "stages": [
+      {
+        "level": 20,
+        "name": "荒潮改",
+        "type": "駆逐艦",
+        "class": "朝潮型 4番艦",
+        "resources": {}
+      },
+      {
+        "level": 67,
+        "name": "荒潮改二",
+        "type": "駆逐艦",
+        "class": "朝潮型 4番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "菊月",
+    "hiragana": "きくづき",
+    "type": "駆逐艦",
+    "class": "睦月型 9番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/菊月/::ref/菊月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%8F%8A%E6%9C%88",
+    "stages": [
+      {
+        "level": 20,
+        "name": "菊月改",
+        "type": "駆逐艦",
+        "class": "睦月型 9番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "萩風",
+    "hiragana": "はぎかぜ",
+    "type": "駆逐艦",
+    "class": "陽炎型 17番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/萩風/::ref/萩風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%90%A9%E9%A2%A8",
+    "stages": [
+      {
+        "level": 35,
+        "name": "萩風改",
+        "type": "駆逐艦",
+        "class": "陽炎型 17番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "薄雲",
+    "hiragana": "うすぐも",
+    "type": "駆逐艦",
+    "class": "吹雪型 7番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/薄雲/::ref/薄雲_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%96%84%E9%9B%B2",
+    "stages": [
+      {
+        "level": 30,
+        "name": "薄雲改",
+        "type": "駆逐艦",
+        "class": "吹雪型 7番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "藤波",
+    "hiragana": "ふじなみ",
+    "type": "駆逐艦",
+    "class": "夕雲型 11番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/藤波/::ref/藤波_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%97%A4%E6%B3%A2",
+    "stages": [
+      {
+        "level": 30,
+        "name": "藤波改",
+        "type": "駆逐艦",
+        "class": "夕雲型 11番艦",
+        "resources": {}
+      },
+      {
+        "level": 78,
+        "name": "藤波改二",
+        "type": "駆逐艦",
+        "resources": {
+          "改装設計図": 1,
+          "新型兵装資材": 2,
+          "開発資材": 65
+        }
+      }
+    ]
+  },
+  {
+    "name": "親潮",
+    "hiragana": "おやしお",
+    "type": "駆逐艦",
+    "class": "陽炎型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/親潮/::ref/親潮_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%A6%AA%E6%BD%AE",
+    "stages": [
+      {
+        "level": 30,
+        "name": "親潮改",
+        "type": "駆逐艦",
+        "class": "陽炎型 4番艦",
+        "resources": {}
+      },
+      {
+        "level": 80,
+        "name": "親潮改二",
+        "type": "駆逐艦",
+        "class": "陽炎型 4番艦",
+        "resources": {
+          "改装設計図": 1,
+          "開発資材": 20
+        }
+      }
+    ]
+  },
+  {
+    "name": "谷風",
+    "hiragana": "たにかぜ",
+    "type": "駆逐艦",
+    "class": "陽炎型 14番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/谷風/::ref/谷風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%B0%B7%E9%A2%A8",
+    "stages": [
+      {
+        "level": 30,
+        "name": "谷風改",
+        "type": "駆逐艦",
+        "class": "陽炎型 14番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "谷風丁改",
+        "type": "駆逐艦",
+        "class": "陽炎型 14番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "野分",
+    "hiragana": "のわき",
+    "type": "駆逐艦",
+    "class": "陽炎型 15番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/野分/::ref/野分_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%87%8E%E5%88%86",
+    "stages": [
+      {
+        "level": 35,
+        "name": "野分改",
+        "type": "駆逐艦",
+        "class": "陽炎型 15番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "長月",
+    "hiragana": "ながつき",
+    "type": "駆逐艦",
+    "class": "睦月型 8番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/長月/::ref/長月_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%95%B7%E6%9C%88",
+    "stages": [
+      {
+        "level": 20,
+        "name": "長月改",
+        "type": "駆逐艦",
+        "class": "睦月型 8番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "長波",
+    "hiragana": "ながなみ",
+    "type": "駆逐艦",
+    "class": "夕雲型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/長波/::ref/長波_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%95%B7%E6%B3%A2",
+    "stages": [
+      {
+        "level": 30,
+        "name": "長波改",
+        "type": "駆逐艦",
+        "class": "夕雲型 4番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "長波改二",
+        "type": "駆逐艦",
+        "class": "夕雲型 4番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "陽炎",
+    "hiragana": "かげろう",
+    "type": "駆逐艦",
+    "class": "陽炎型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/陽炎/::ref/陽炎_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%99%BD%E7%82%8E",
+    "stages": [
+      {
+        "level": 20,
+        "name": "陽炎改",
+        "type": "駆逐艦",
+        "class": "陽炎型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "陽炎改二",
+        "type": "駆逐艦",
+        "class": "陽炎型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "雪風",
+    "hiragana": "ゆきかぜ",
+    "type": "駆逐艦",
+    "class": "陽炎型 8番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/雪風/::ref/雪風_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9B%AA%E9%A2%A8",
+    "stages": [
+      {
+        "level": 20,
+        "name": "雪風改",
+        "type": "駆逐艦",
+        "class": "陽炎型 8番艦",
+        "resources": {}
+      },
+      {
+        "level": 71,
+        "name": "丹陽",
+        "type": "駆逐艦",
+        "class": "雪風型 1番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 88,
+        "name": "雪風改二",
+        "type": "駆逐艦",
+        "class": "陽炎型 8番艦",
+        "resources": {
+          "改装設計図": 2,
+          "戦闘詳報": 1,
+          "高速建造材": 30,
+          "開発資材": 60
+        }
+      }
+    ]
+  },
+  {
+    "name": "雷",
+    "hiragana": "いかずち",
+    "type": "駆逐艦",
+    "class": "暁型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/雷/::ref/雷_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9B%B7",
+    "stages": [
+      {
+        "level": 20,
+        "name": "雷改",
+        "type": "駆逐艦",
+        "class": "暁型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "電",
+    "hiragana": "いなづま",
+    "type": "駆逐艦",
+    "class": "暁型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/電/::ref/電_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9B%BB",
+    "stages": [
+      {
+        "level": 20,
+        "name": "電改",
+        "type": "駆逐艦",
+        "class": "暁型 4番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "霞",
+    "hiragana": "かすみ",
+    "type": "駆逐艦",
+    "class": "朝潮型 10番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/霞/::ref/霞_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9C%9E",
+    "stages": [
+      {
+        "level": 50,
+        "name": "霞改",
+        "type": "駆逐艦",
+        "class": "朝潮型 10番艦",
+        "resources": {}
+      },
+      {
+        "level": 88,
+        "name": "霞改二",
+        "type": "駆逐艦",
+        "class": "朝潮型 10番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 88,
+        "name": "霞改二乙",
+        "type": "駆逐艦",
+        "class": "朝潮型 10番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "霰",
+    "hiragana": "あられ",
+    "type": "駆逐艦",
+    "class": "朝潮型 9番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/霰/::ref/霰_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9C%B0",
+    "stages": [
+      {
+        "level": 20,
+        "name": "霰改",
+        "type": "駆逐艦",
+        "class": "朝潮型 9番艦",
+        "resources": {}
+      },
+      {
+        "level": 63,
+        "name": "霰改二",
+        "type": "駆逐艦",
+        "class": "朝潮型 9番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "響",
+    "hiragana": "ひびき",
+    "type": "駆逐艦",
+    "class": "暁型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/響/::ref/響_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9F%BF",
+    "stages": [
+      {
+        "level": 20,
+        "name": "響改",
+        "type": "駆逐艦",
+        "class": "暁型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 70,
+        "name": "Верный",
+        "type": "駆逐艦",
+        "class": "暁型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "風雲",
+    "hiragana": "かざぐも",
+    "type": "駆逐艦",
+    "class": "夕雲型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/風雲/::ref/風雲_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%A2%A8%E9%9B%B2",
+    "stages": [
+      {
+        "level": 30,
+        "name": "風雲改",
+        "type": "駆逐艦",
+        "class": "夕雲型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "風雲改二",
+        "type": "駆逐艦",
+        "class": "夕雲型 3番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "高波",
+    "hiragana": "たかなみ",
+    "type": "駆逐艦",
+    "class": "夕雲型 6番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/高波/::ref/高波_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%AB%98%E6%B3%A2",
+    "stages": [
+      {
+        "level": 30,
+        "name": "高波改",
+        "type": "駆逐艦",
+        "class": "夕雲型 6番艦",
+        "resources": {}
+      },
+      {
+        "level": 79,
+        "name": "高波改二",
+        "type": "駆逐艦",
+        "class": "夕雲型 6番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1,
+          "開発資材": 20
+        }
+      }
+    ]
+  },
+  {
+    "name": "黒潮",
+    "hiragana": "くろしお",
+    "type": "駆逐艦",
+    "class": "陽炎型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/黒潮/::ref/黒潮_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%BB%92%E6%BD%AE",
+    "stages": [
+      {
+        "level": 20,
+        "name": "黒潮改",
+        "type": "駆逐艦",
+        "class": "陽炎型 3番艦",
+        "resources": {}
+      },
+      {
+        "level": 73,
+        "name": "黒潮改二",
+        "type": "駆逐艦",
+        "class": "陽炎型 3番艦",
+        "resources": {
+          "改装設計図": 1,
+          "開発資材": 20
+        }
+      }
+    ]
+  },
+  {
+    "name": "佐渡",
+    "hiragana": "さど",
+    "type": "海防艦",
+    "class": "択捉型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/佐渡/::ref/佐渡_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BD%90%E6%B8%A1",
+    "stages": [
+      {
+        "level": 37,
+        "name": "佐渡改",
+        "type": "海防艦",
+        "class": "択捉型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "倉橋",
+    "hiragana": "くらはし",
+    "type": "海防艦",
+    "class": "御蔵型 3番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/倉橋",
+    "stages": [
+      {
+        "level": 45,
+        "name": "倉橋改",
+        "type": "海防艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "八丈",
+    "hiragana": "はちじょう",
+    "type": "海防艦",
+    "class": "占守型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/八丈/::ref/八丈_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%85%AB%E4%B8%88",
+    "stages": [
+      {
+        "level": 40,
+        "name": "八丈改",
+        "type": "海防艦",
+        "class": "占守型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "占守",
+    "hiragana": "しむしゅ",
+    "type": "海防艦",
+    "class": "占守型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/占守/::ref/占守_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8D%A0%E5%AE%88",
+    "stages": [
+      {
+        "level": 40,
+        "name": "占守改",
+        "type": "海防艦",
+        "class": "占守型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "国後",
+    "hiragana": "くなしり",
+    "type": "海防艦",
+    "class": "占守型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/国後/::ref/国後_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%9B%BD%E5%BE%8C",
+    "stages": [
+      {
+        "level": 40,
+        "name": "国後改",
+        "type": "海防艦",
+        "class": "占守型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "大東",
+    "hiragana": "だいとう",
+    "type": "海防艦",
+    "class": "日振型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大東/::ref/大東_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E6%9D%B1",
+    "stages": [
+      {
+        "level": 37,
+        "name": "大東改",
+        "type": "海防艦",
+        "class": "日振型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "対馬",
+    "hiragana": "つしま",
+    "type": "海防艦",
+    "class": "択捉型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/対馬/::ref/対馬_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%AF%BE%E9%A6%AC",
+    "stages": [
+      {
+        "level": 37,
+        "name": "対馬改",
+        "type": "海防艦",
+        "class": "択捉型 4番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "屋代",
+    "hiragana": "やしろ",
+    "type": "海防艦",
+    "class": "御蔵型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/屋代/::ref/屋代_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B1%8B%E4%BB%A3",
+    "stages": [
+      {
+        "level": 37,
+        "name": "屋代改",
+        "type": "海防艦",
+        "class": "御蔵型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "平戸",
+    "hiragana": "ひらど",
+    "type": "海防艦",
+    "class": "択捉型 13番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/平戸/::ref/平戸_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B9%B3%E6%88%B8",
+    "stages": [
+      {
+        "level": 37,
+        "name": "平戸改",
+        "type": "海防艦",
+        "class": "択捉型 13番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "御蔵",
+    "hiragana": "みくら",
+    "type": "海防艦",
+    "class": "御蔵型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/御蔵/::ref/御蔵_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%BE%A1%E8%94%B5",
+    "stages": [
+      {
+        "level": 37,
+        "name": "御蔵改",
+        "type": "海防艦",
+        "class": "御蔵型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "択捉",
+    "hiragana": "えとろふ",
+    "type": "海防艦",
+    "class": "択捉型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/択捉/::ref/択捉_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%8A%9E%E6%8D%89",
+    "stages": [
+      {
+        "level": 37,
+        "name": "択捉改",
+        "type": "海防艦",
+        "class": "択捉型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "日振",
+    "hiragana": "ひぶり",
+    "type": "海防艦",
+    "class": "日振型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/日振/::ref/日振_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%97%A5%E6%8C%AF",
+    "stages": [
+      {
+        "level": 37,
+        "name": "日振改",
+        "type": "海防艦",
+        "class": "日振型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "昭南",
+    "hiragana": "しょうなん",
+    "type": "海防艦",
+    "class": "日振型 3番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/昭南",
+    "stages": [
+      {
+        "level": 37,
+        "name": "昭南改",
+        "type": "海防艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "松輪",
+    "hiragana": "まつわ",
+    "type": "海防艦",
+    "class": "択捉型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/松輪/::ref/松輪_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9D%BE%E8%BC%AA",
+    "stages": [
+      {
+        "level": 37,
+        "name": "松輪改",
+        "type": "海防艦",
+        "class": "択捉型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "石垣",
+    "hiragana": "いしがき",
+    "type": "海防艦",
+    "class": "占守型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/石垣/::ref/石垣_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%9F%B3%E5%9E%A3",
+    "stages": [
+      {
+        "level": 40,
+        "name": "石垣改",
+        "type": "海防艦",
+        "class": "占守型 4番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "福江",
+    "hiragana": "ふかえ",
+    "type": "海防艦",
+    "class": "択捉型 10番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/福江/::ref/福江_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A6%8F%E6%B1%9F",
+    "stages": [
+      {
+        "level": 37,
+        "name": "福江改",
+        "type": "海防艦",
+        "class": "択捉型 10番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "稲木",
+    "hiragana": "いなぎ",
+    "type": "海防艦",
+    "class": "鵜来型 2番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/稲木",
+    "stages": [
+      {
+        "level": 45,
+        "name": "稲木改",
+        "type": "海防艦",
+        "resources": {}
+      },
+      {
+        "level": 73,
+        "name": "稲木改二",
+        "type": "海防艦",
+        "resources": {
+          "改装設計図": 1,
+          "新型兵装資材": 1,
+          "開発資材": 13
+        }
+      }
+    ]
+  },
+  {
+    "name": "第三〇号海防艦",
+    "hiragana": "だいさんじゅうごうかいぼうかん",
+    "type": "海防艦",
+    "class": "丁型海防艦 15番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/第三〇号海防艦/::ref/第三〇号海防艦_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%AC%AC%E4%B8%89%E3%80%87%E5%8F%B7%E6%B5%B7%E9%98%B2%E8%89%A6",
+    "stages": [
+      {
+        "level": 40,
+        "name": "第三〇号海防艦改",
+        "type": "海防艦",
+        "class": "丁型海防艦 15番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "第四号海防艦",
+    "hiragana": "だいよんごうかいぼうかん",
+    "type": "海防艦",
+    "class": "丁型海防艦 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/第四号海防艦/::ref/第四号海防艦_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%AC%AC%E5%9B%9B%E5%8F%B7%E6%B5%B7%E9%98%B2%E8%89%A6",
+    "stages": [
+      {
+        "level": 40,
+        "name": "第四号海防艦改",
+        "type": "海防艦",
+        "class": "丁型海防艦 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "能美",
+    "hiragana": "のうみ",
+    "type": "海防艦",
+    "class": "御蔵型 2番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/能美",
+    "stages": [
+      {
+        "level": 45,
+        "name": "能美改",
+        "type": "海防艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "鵜来",
+    "hiragana": "うくる",
+    "type": "海防艦",
+    "class": "鵜来型 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/鵜来",
+    "stages": [
+      {
+        "level": 43,
+        "name": "鵜来改",
+        "type": "海防艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Eidsvold",
+    "hiragana": "アイツヴォル",
+    "type": "海防戦艦",
+    "class": "Norge級 2番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Eidsvold",
+    "stages": [
+      {
+        "level": 43,
+        "name": "Eidsvold改",
+        "type": "海防戦艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Norge",
+    "hiragana": "ノルゲ",
+    "type": "海防戦艦",
+    "class": "Norge級 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Norge",
+    "stages": [
+      {
+        "level": 43,
+        "name": "Norge改",
+        "type": "海防戦艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Thonburi",
+    "hiragana": "トンブリ",
+    "type": "海防戦艦",
+    "class": "Thonburi級 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Thonburi",
+    "stages": [
+      {
+        "level": 40,
+        "name": "Thonburi改",
+        "type": "海防戦艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "C.Cappellini",
+    "hiragana": "コマンダンテ・カッペリーニ",
+    "type": "潜水艦",
+    "class": "Archimede級",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/C.Cappellini",
+    "stages": [
+      {
+        "level": 30,
+        "name": "C.Cappellini改",
+        "type": "潜水艦",
+        "resources": {}
+      },
+      {
+        "level": 40,
+        "name": "UIT-24",
+        "type": "潜水艦",
+        "resources": {}
+      },
+      {
+        "level": 55,
+        "name": "伊503",
+        "type": "潜水艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Dace",
+    "hiragana": "デイス",
+    "type": "潜水艦",
+    "class": "Gato級",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Dace",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Dace改",
+        "type": "潜水艦",
+        "resources": {}
+      },
+      {
+        "level": 82,
+        "name": "Leonardo da Vinci",
+        "type": "潜水艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Drum",
+    "hiragana": "ドラム",
+    "type": "潜水艦",
+    "class": "Gato級",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Drum",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Drum改",
+        "type": "潜水艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Luigi Torelli",
+    "hiragana": "ルイージ・トレッリ",
+    "type": "潜水艦",
+    "class": "Guglielmo Marconi級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Luigi%20Torelli/::ref/luigi torelli_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Luigi%20Torelli",
+    "stages": [
+      {
+        "level": 30,
+        "name": "Luigi Torelli改",
+        "type": "潜水艦",
+        "resources": {}
+      },
+      {
+        "level": 40,
+        "name": "UIT-25",
+        "type": "潜水艦",
+        "resources": {}
+      },
+      {
+        "level": 55,
+        "name": "伊504",
+        "type": "潜水艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Salmon",
+    "hiragana": "サーモン",
+    "type": "潜水艦",
+    "class": "Salmon級 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Salmon",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Salmon改",
+        "type": "潜水艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Scamp",
+    "hiragana": "スキャンプ",
+    "type": "潜水艦",
+    "class": "Gato級",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Scamp",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Scamp改",
+        "type": "潜水艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "U-511",
+    "hiragana": "ユー511",
+    "type": "潜水艦",
+    "class": "U-boat IXC型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/U-511/::ref/u-511_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/U-511",
+    "stages": [
+      {
+        "level": 35,
+        "name": "U-511改",
+        "type": "潜水艦",
+        "resources": {}
+      },
+      {
+        "level": 55,
+        "name": "呂500",
+        "type": "潜水艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Wahoo",
+    "hiragana": "ワフー",
+    "type": "潜水艦",
+    "class": "Gato級",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Wahoo",
+    "stages": [
+      {
+        "level": 50,
+        "name": "Wahoo改",
+        "type": "潜水艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "まるゆ",
+    "hiragana": "まるゆ",
+    "type": "潜水艦",
+    "class": "三式潜航輸送艇",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/まるゆ/::ref/まるゆ_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E3%81%BE%E3%82%8B%E3%82%86",
+    "stages": [
+      {
+        "level": 20,
+        "name": "まるゆ改",
+        "type": "潜水艦",
+        "class": "三式潜航輸送艇",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊168",
+    "hiragana": "い168",
+    "type": "潜水艦",
+    "class": "海大VI型a 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊168/::ref/伊168_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A168",
+    "stages": [
+      {
+        "level": 50,
+        "name": "伊168改",
+        "type": "潜水艦",
+        "class": "海大VI型a 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊19",
+    "hiragana": "い19",
+    "type": "潜水艦",
+    "class": "巡潜乙型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊19/::ref/伊19_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A19",
+    "stages": [
+      {
+        "level": 50,
+        "name": "伊19改",
+        "type": "潜水空母",
+        "class": "巡潜乙型 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊201",
+    "hiragana": "い201",
+    "type": "潜水艦",
+    "class": "潜高型 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/伊201",
+    "stages": [
+      {
+        "level": 55,
+        "name": "伊201改",
+        "type": "潜水艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊203",
+    "hiragana": "い203",
+    "type": "潜水艦",
+    "class": "潜高型 2番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/伊203",
+    "stages": [
+      {
+        "level": 55,
+        "name": "伊203改",
+        "type": "潜水艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊26",
+    "hiragana": "い26",
+    "type": "潜水艦",
+    "class": "巡潜乙型改二 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊26/::ref/伊26_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A26",
+    "stages": [
+      {
+        "level": 50,
+        "name": "伊26改",
+        "type": "潜水空母",
+        "class": "巡潜乙型改二 3番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊36",
+    "hiragana": "い36",
+    "type": "潜水艦",
+    "class": "巡潜乙型改二 1番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/伊36",
+    "stages": [
+      {
+        "level": 50,
+        "name": "伊36改",
+        "type": "潜水艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊41",
+    "hiragana": "い41",
+    "type": "潜水艦",
+    "class": "巡潜乙型改二 2番艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/伊41",
+    "stages": [
+      {
+        "level": 50,
+        "name": "伊41改",
+        "type": "潜水空母",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊47",
+    "hiragana": "い47",
+    "type": "潜水艦",
+    "class": "巡潜丙型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊47/::ref/伊47_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A47",
+    "stages": [
+      {
+        "level": 45,
+        "name": "伊47改",
+        "type": "潜水艦",
+        "class": "巡潜丙型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊58",
+    "hiragana": "い58",
+    "type": "潜水艦",
+    "class": "巡潜乙型改二 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊58/::ref/伊58_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A58",
+    "stages": [
+      {
+        "level": 50,
+        "name": "伊58改",
+        "type": "潜水空母",
+        "class": "巡潜乙型改二 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊8",
+    "hiragana": "い8",
+    "type": "潜水艦",
+    "class": "巡潜3型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊8/::ref/伊8_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A8",
+    "stages": [
+      {
+        "level": 50,
+        "name": "伊8改",
+        "type": "潜水空母",
+        "class": "巡潜3型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊13",
+    "hiragana": "い13",
+    "type": "潜水空母",
+    "class": "巡潜甲型改二 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊13/::ref/伊13_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A13",
+    "stages": [
+      {
+        "level": 45,
+        "name": "伊13改",
+        "type": "潜水空母",
+        "class": "伊13型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊14",
+    "hiragana": "い14",
+    "type": "潜水空母",
+    "class": "巡潜甲型改二 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊14/::ref/伊14_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A14",
+    "stages": [
+      {
+        "level": 45,
+        "name": "伊14改",
+        "type": "潜水空母",
+        "class": "伊13型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊400",
+    "hiragana": "い400",
+    "type": "潜水空母",
+    "class": "伊400型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊400/::ref/伊400_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A400",
+    "stages": [
+      {
+        "level": 35,
+        "name": "伊400改",
+        "type": "潜水空母",
+        "class": "伊400型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "伊401",
+    "hiragana": "い401",
+    "type": "潜水空母",
+    "class": "伊400型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊401/::ref/伊401_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A401",
+    "stages": [
+      {
+        "level": 35,
+        "name": "伊401改",
+        "type": "潜水空母",
+        "class": "伊400型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "大鯨",
+    "hiragana": "たいげい",
+    "type": "潜水母艦",
+    "class": "大鯨型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大鯨/::ref/大鯨_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E9%AF%A8",
+    "stages": [
+      {
+        "level": 25,
+        "name": "龍鳳",
+        "type": "軽空母",
+        "resources": {
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 50,
+        "name": "龍鳳改",
+        "type": "軽空母",
+        "resources": {}
+      },
+      {
+        "level": 80,
+        "name": "龍鳳改二戊",
+        "type": "軽空母",
+        "resources": {
+          "改装設計図": 1,
+          "試製甲板カタパルト": 1
+        }
+      },
+      {
+        "level": 82,
+        "name": "龍鳳改二",
+        "type": "軽空母",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "平安丸",
+    "hiragana": "へいあんまる",
+    "type": "潜水母艦",
+    "class": "平安丸型",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/平安丸",
+    "stages": [
+      {
+        "level": 25,
+        "name": "平安丸改",
+        "type": "潜水母艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "迅鯨",
+    "hiragana": "じんげい",
+    "type": "潜水母艦",
+    "class": "迅鯨型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/迅鯨/::ref/迅鯨_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%BF%85%E9%AF%A8",
+    "stages": [
+      {
+        "level": 40,
+        "name": "迅鯨改",
+        "type": "潜水母艦",
+        "class": "迅鯨型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "長鯨",
+    "hiragana": "ちょうげい",
+    "type": "潜水母艦",
+    "class": "迅鯨型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/長鯨/::ref/長鯨_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%95%B7%E9%AF%A8",
+    "stages": [
+      {
+        "level": 40,
+        "name": "長鯨改",
+        "type": "潜水母艦",
+        "class": "迅鯨型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "Commandant Teste",
+    "hiragana": "コマンダン・テスト",
+    "type": "水上機母艦",
+    "class": "Commandant Teste級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Commandant%20Teste/::ref/commandant teste_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/Commandant%20Teste",
+    "stages": [
+      {
+        "level": 40,
+        "name": "Commandant Teste改",
+        "type": "水上機母艦",
+        "class": "Commandant Teste級 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "千代田",
+    "hiragana": "ちよだ",
+    "type": "水上機母艦",
+    "class": "千歳型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/千代田/::ref/千代田_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8D%83%E4%BB%A3%E7%94%B0",
+    "stages": [
+      {
+        "level": 10,
+        "name": "千代田改",
+        "type": "水上機母艦",
+        "class": "千歳型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 12,
+        "name": "千代田甲",
+        "type": "水上機母艦",
+        "class": "千歳型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 15,
+        "name": "千代田航",
+        "type": "軽空母",
+        "class": "千代田型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 35,
+        "name": "千代田航改",
+        "type": "軽空母",
+        "class": "千代田型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 50,
+        "name": "千代田航改二",
+        "type": "軽空母",
+        "class": "千代田型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "千歳",
+    "hiragana": "ちとせ",
+    "type": "水上機母艦",
+    "class": "千歳型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/千歳/::ref/千歳_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8D%83%E6%AD%B3",
+    "stages": [
+      {
+        "level": 10,
+        "name": "千歳改",
+        "type": "水上機母艦",
+        "class": "千歳型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 12,
+        "name": "千歳甲",
+        "type": "水上機母艦",
+        "class": "千歳型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 15,
+        "name": "千歳航",
+        "type": "軽空母",
+        "class": "千歳型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 35,
+        "name": "千歳航改",
+        "type": "軽空母",
+        "class": "千歳型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 50,
+        "name": "千歳航改二",
+        "type": "軽空母",
+        "class": "千歳型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "日進",
+    "hiragana": "にっしん",
+    "type": "水上機母艦",
+    "class": "日進型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/日進/::ref/日進_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%97%A5%E9%80%B2",
+    "stages": [
+      {
+        "level": 40,
+        "name": "日進改",
+        "type": "水上機母艦",
+        "resources": {}
+      },
+      {
+        "level": 60,
+        "name": "日進甲",
+        "type": "水上機母艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "瑞穂",
+    "hiragana": "みずほ",
+    "type": "水上機母艦",
+    "class": "瑞穂型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/瑞穂/::ref/瑞穂_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%91%9E%E7%A9%82",
+    "stages": [
+      {
+        "level": 40,
+        "name": "瑞穂改",
+        "type": "水上機母艦",
+        "class": "瑞穂型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "秋津洲",
+    "hiragana": "あきつしま",
+    "type": "水上機母艦",
+    "class": "秋津洲型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/秋津洲/::ref/秋津洲_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A7%8B%E6%B4%A5%E6%B4%B2",
+    "stages": [
+      {
+        "level": 35,
+        "name": "秋津洲改",
+        "type": "水上機母艦",
+        "class": "秋津洲型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "あきつ丸",
+    "hiragana": "あきつまる",
+    "type": "揚陸艦",
+    "class": "あきつ丸型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/あきつ丸/::ref/あきつ丸_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E3%81%82%E3%81%8D%E3%81%A4%E4%B8%B8",
+    "stages": [
+      {
+        "level": 25,
+        "name": "あきつ丸改",
+        "type": "揚陸艦",
+        "class": "あきつ丸型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "熊野丸",
+    "hiragana": "くまのまる",
+    "type": "揚陸艦",
+    "class": "熊野丸型",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/熊野丸",
+    "stages": [
+      {
+        "level": 50,
+        "name": "熊野丸改",
+        "type": "揚陸艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "神州丸",
+    "hiragana": "しんしゅうまる",
+    "type": "揚陸艦",
+    "class": "神州丸型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/神州丸/::ref/神州丸_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A5%9E%E5%B7%9E%E4%B8%B8",
+    "stages": [
+      {
+        "level": 48,
+        "name": "神州丸改",
+        "type": "揚陸艦",
+        "class": "神州丸型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "第百一号輸送艦",
+    "hiragana": "だいひゃくいちごうゆそうかん",
+    "type": "戦車揚陸艦",
+    "class": "第一号型輸送艦",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/第百一号輸送艦",
+    "stages": [
+      {
+        "level": 50,
+        "name": "第百一号輸送艦改",
+        "type": "戦車揚陸艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "速吸",
+    "hiragana": "はやすい",
+    "type": "補給艦",
+    "class": "風早型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/速吸/::ref/速吸_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%80%9F%E5%90%B8",
+    "stages": [
+      {
+        "level": 25,
+        "name": "速吸改",
+        "type": "補給艦",
+        "class": "風早型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "明石",
+    "hiragana": "あかし",
+    "type": "工作艦",
+    "class": "明石型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/明石/::ref/明石_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%98%8E%E7%9F%B3",
+    "stages": [
+      {
+        "level": 35,
+        "name": "明石改",
+        "type": "工作艦",
+        "class": "明石型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "大泊",
+    "hiragana": "おおどまり",
+    "type": "砕氷艦",
+    "class": "大泊型",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/大泊",
+    "stages": [
+      {
+        "level": 55,
+        "name": "大泊改",
+        "type": "砕氷艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "南海",
+    "hiragana": "なんかい",
+    "type": "雑役船",
+    "class": "南海型",
+    "imageUrl": "",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/南海",
+    "stages": [
+      {
+        "level": 16,
+        "name": "野埼",
+        "type": "給糧艦",
+        "resources": {}
+      },
+      {
+        "level": 60,
+        "name": "野埼改",
+        "type": "給糧艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "八幡丸",
+    "hiragana": "やわたまる",
+    "type": "軽空母",
+    "class": "新田丸級 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%9B%B2%E9%B7%B9%E6%94%B9%E4%BA%8C/::ref/489.png.webp?rev=cde5297a4bd4bf9411bbe05b1da0d439&t=20211229191325",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%85%AB%E5%B9%A1%E4%B8%B8",
+    "stages": [
+      {
+        "level": 33,
+        "name": "雲鷹",
+        "type": "軽空母",
+        "class": "大鷹型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 62,
+        "name": "雲鷹改",
+        "type": "軽空母",
+        "class": "大鷹型 2番艦",
+        "resources": {
+          "開発資材": 32
+        }
+      },
+      {
+        "level": 85,
+        "name": "雲鷹改二",
+        "type": "軽空母",
+        "class": "大鷹型 2番艦",
+        "resources": {
+          "試製甲板カタパルト": 1,
+          "改装設計図": 1,
+          "開発資材": 64
+        }
+      }
+    ]
+  },
+  {
+    "name": "夕張",
+    "hiragana": "ゆうばり",
+    "type": "軽巡洋艦",
+    "class": "夕張型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%95%E5%BC%B5%E6%94%B9%E4%BA%8C/::ref/422.jpg.webp?rev=81d34f7407ff6ee0ae7ecf47daa7c602&t=20200114205950",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%95%E5%BC%B5",
+    "stages": [
+      {
+        "level": 25,
+        "name": "夕張改",
+        "type": "軽巡洋艦",
+        "class": "夕張型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 84,
+        "name": "夕張改二",
+        "type": "兵装実験軽巡",
+        "class": "夕張型 1番艦",
+        "resources": {
+          "改装設計図": 1,
+          "戦闘詳報": 1,
+          "高速建造材": 30,
+          "開発資材": 30
+        }
+      },
+      {
+        "level": 86,
+        "name": "夕張改二特",
+        "type": "兵装実験軽巡",
+        "class": "夕張型 1番艦",
+        "resources": {
+          "高速建造材": 30,
+          "開発資材": 30
+        }
+      },
+      {
+        "level": 88,
+        "name": "夕張改二丁",
+        "type": "兵装実験軽巡",
+        "class": "夕張型 1番艦",
+        "resources": {
+          "高速建造材": 30,
+          "開発資材": 30
+        }
+      }
+    ]
+  },
+  {
+    "name": "宗谷",
+    "hiragana": "そうや",
+    "type": "特務艦",
+    "class": "宗谷型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/宗谷/::ref/宗谷_card.jpg",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%AE%97%E8%B0%B7",
+    "stages": [
+      {
+        "level": 25,
+        "name": "宗谷(灯台補給船)",
+        "type": "灯台補給船",
+        "class": "宗谷型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 35,
+        "name": "宗谷(南極観測船)",
+        "type": "南極観測船",
+        "class": "宗谷型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "瑞鶴",
+    "hiragana": "ずいかく",
+    "type": "正規空母",
+    "class": "翔鶴型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%91%9E%E9%B6%B4%E6%94%B9%E4%BA%8C%E7%94%B2/::ref/267_2nd.jpg.webp?rev=7053a16e30807d5cdaa4d0c2103d8beb&t=20180915111442",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%B6%B4",
+    "stages": [
+      {
+        "level": 25,
+        "name": "瑞鶴改",
+        "type": "正規空母",
+        "class": "翔鶴型 2番艦",
+        "resources": {}
+      },
+      {
+        "level": 77,
+        "name": "瑞鶴改二",
+        "type": "正規空母",
+        "class": "翔鶴型 2番艦",
+        "resources": {
+          "試製甲板カタパルト": 1,
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 90,
+        "name": "瑞鶴改二甲",
+        "type": "装甲空母",
+        "class": "翔鶴型 2番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "神威",
+    "hiragana": "かもい",
+    "type": "補給艦",
+    "class": "神威型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A5%9E%E5%A8%81%E6%94%B9%E6%AF%8D/::ref/300_2nd.jpg.webp?rev=766e7ae9e008c65fc46620ed1dc8b1e1&t=20180916141304",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A5%9E%E5%A8%81",
+    "stages": [
+      {
+        "level": 35,
+        "name": "神威改",
+        "type": "水上機母艦",
+        "class": "神威型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 60,
+        "name": "神威改母",
+        "type": "補給艦",
+        "class": "神威型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "翔鶴",
+    "hiragana": "しょうかく",
+    "type": "正規空母",
+    "class": "翔鶴型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%BF%94%E9%B6%B4%E6%94%B9%E4%BA%8C%E7%94%B2/::ref/266_2nd.jpg.webp?rev=2039a731c2c061db8f631cbb39611c2a&t=20180915111339",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%BF%94%E9%B6%B4",
+    "stages": [
+      {
+        "level": 30,
+        "name": "翔鶴改",
+        "type": "正規空母",
+        "class": "翔鶴型 1番艦",
+        "resources": {}
+      },
+      {
+        "level": 80,
+        "name": "翔鶴改二",
+        "type": "正規空母",
+        "class": "翔鶴型 1番艦",
+        "resources": {
+          "試製甲板カタパルト": 1,
+          "改装設計図": 1
+        }
+      },
+      {
+        "level": 88,
+        "name": "翔鶴改二甲",
+        "type": "装甲空母",
+        "class": "翔鶴型 1番艦",
+        "resources": {}
+      }
+    ]
+  },
+  {
+    "name": "阿武隈",
+    "hiragana": "あぶくま",
+    "type": "軽巡洋艦",
+    "class": "長良型 6番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%98%BF%E6%AD%A6%E9%9A%88%E6%94%B9%E4%BA%8C/::ref/200_2nd.jpg.webp?rev=9a087d46282afdd5067c38294e04a796&t=20180911145248",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%98%BF%E6%AD%A6%E9%9A%88",
+    "stages": [
+      {
+        "level": 17,
+        "name": "阿武隈改",
+        "type": "軽巡洋艦",
+        "class": "長良型 6番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "阿武隈改二",
+        "type": "軽巡洋艦",
+        "class": "長良型 6番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  },
+  {
+    "name": "鬼怒",
+    "hiragana": "きぬ",
+    "type": "軽巡洋艦",
+    "class": "長良型 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%AC%BC%E6%80%92%E6%94%B9%E4%BA%8C/::ref/287_2nd.jpg.webp?rev=de4d72d4527a7dbd7c1b7df9d62ec21b&t=20180916052550",
+    "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%AC%BC%E6%80%92",
+    "stages": [
+      {
+        "level": 17,
+        "name": "鬼怒改",
+        "type": "軽巡洋艦",
+        "class": "長良型 5番艦",
+        "resources": {}
+      },
+      {
+        "level": 75,
+        "name": "鬼怒改二",
+        "type": "軽巡洋艦",
+        "class": "長良型 5番艦",
+        "resources": {
+          "改装設計図": 1
+        }
+      }
+    ]
+  }
+]
