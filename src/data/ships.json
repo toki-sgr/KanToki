@@ -49,8 +49,7 @@
         "class": "Colorado級 1番艦",
         "resources": {}
       }
-    ],
-    "romaji": "kororado"
+    ]
   },
   {
     "name": "Conte di Cavour",
@@ -78,8 +77,7 @@
           "開発資材": 50
         }
       }
-    ],
-    "romaji": "kabuuru"
+    ]
   },
   {
     "name": "Iowa",
@@ -96,15 +94,14 @@
         "class": "Iowa級 1番艦",
         "resources": {}
       }
-    ],
-    "romaji": "aiowa"
+    ]
   },
   {
     "name": "Jean Bart",
     "hiragana": "ジャン・バール",
     "type": "戦艦",
     "class": "Richelieu級 2番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Jean%20Bart%E6%94%B9/::ref/535b.png.webp?rev=e0c0c1deaeeb766fa170776a6e5bc359&t=20220914073633",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Jean Bart",
     "stages": [
       {
@@ -120,7 +117,7 @@
     "hiragana": "リットリオ",
     "type": "戦艦",
     "class": "Vittorio Veneto級 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Littorio/::ref/littorio_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Italia/::ref/246_2nd.jpg.webp?rev=19089dc2e0dc26cc1555b5f471322847&t=20180914114954",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Littorio",
     "stages": [
       {
@@ -148,15 +145,14 @@
         "type": "戦艦",
         "resources": {}
       }
-    ],
-    "romaji": "meriirando"
+    ]
   },
   {
     "name": "Massachusetts",
     "hiragana": "マサチューセッツ",
     "type": "戦艦",
     "class": "South Dakota級 2番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Massachusetts%E6%94%B9/::ref/massachusettsb.png.webp?rev=23c616170a2282f9f3397c95c7aa5fca&t=20220914052551",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Massachusetts",
     "stages": [
       {
@@ -182,8 +178,7 @@
         "class": "Nelson級 1番艦",
         "resources": {}
       }
-    ],
-    "romaji": "neruson"
+    ]
   },
   {
     "name": "Nevada",
@@ -205,8 +200,7 @@
         "type": "戦艦",
         "resources": {}
       }
-    ],
-    "romaji": "nevada"
+    ]
   },
   {
     "name": "Richelieu",
@@ -233,8 +227,7 @@
           "開発資材": 30
         }
       }
-    ],
-    "romaji": "rishuryuu"
+    ]
   },
   {
     "name": "Rodney",
@@ -251,15 +244,14 @@
         "class": "Nelson級 2番艦",
         "resources": {}
       }
-    ],
-    "romaji": "rodonii"
+    ]
   },
   {
     "name": "Roma",
     "hiragana": "ローマ",
     "type": "戦艦",
     "class": "Vittorio Veneto級 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Roma/::ref/roma_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Roma%E6%94%B9/::ref/247_2nd.jpg.webp?rev=a7aaa6da24e0727548b2f6036c810b06&t=20180914115157",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Roma",
     "stages": [
       {
@@ -267,7 +259,9 @@
         "name": "Roma改",
         "type": "戦艦",
         "class": "Vittorio Veneto級 3番艦",
-        "resources": {}
+        "resources": {
+          "改装設計図": 1
+        }
       }
     ]
   },
@@ -276,7 +270,7 @@
     "hiragana": "サウスダコタ",
     "type": "戦艦",
     "class": "South Dakota級 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/South%20Dakota/::ref/south dakota_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/South%20Dakota%E6%94%B9/::ref/407.png.webp?rev=09224600ab809cabe15f8a9b2a9554e4&t=20200716174521",
     "wikiUrl": "https://wikiwiki.jp/kancolle/South%20Dakota",
     "stages": [
       {
@@ -300,10 +294,10 @@
         "level": 73,
         "name": "Valiant改",
         "type": "戦艦",
+        "class": "Queen Elizabeth級 3番艦",
         "resources": {}
       }
-    ],
-    "romaji": "vuarianto"
+    ]
   },
   {
     "name": "Warspite",
@@ -320,8 +314,7 @@
         "class": "Queen Elizabeth級 2番艦",
         "resources": {}
       }
-    ],
-    "romaji": "uoosupaito"
+    ]
   },
   {
     "name": "Washington",
@@ -338,8 +331,7 @@
         "class": "North Carolina級 2番艦",
         "resources": {}
       }
-    ],
-    "romaji": "washinton"
+    ]
   },
   {
     "name": "Гангут",
@@ -371,7 +363,7 @@
     "hiragana": "いせ",
     "type": "戦艦",
     "class": "伊勢型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊勢/::ref/伊勢_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A%E5%8B%A2%E6%94%B9%E4%BA%8C/::ref/353_2nd.jpg.webp?rev=4a74c3788d55e14d1e83203c3c5b3c8e&t=20180918114817",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A%E5%8B%A2",
     "stages": [
       {
@@ -400,7 +392,7 @@
     "hiragana": "やまと",
     "type": "戦艦",
     "class": "大和型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大和/::ref/大和_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%A7%E5%92%8C%E6%94%B9%E4%BA%8C%E9%87%8D/::ref/516.png.webp?rev=f8bd3fe3efa61459cf2da0d7ba1317e9&t=20220608172152",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E5%92%8C",
     "stages": [
       {
@@ -427,10 +419,7 @@
         "name": "大和改二重",
         "type": "航空戦艦",
         "class": "大和型 1番艦",
-        "resources": {
-          "高速建造材": 50,
-          "開発資材": 50
-        }
+        "resources": {}
       }
     ]
   },
@@ -439,7 +428,7 @@
     "hiragana": "やましろ",
     "type": "戦艦",
     "class": "扶桑型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/山城/::ref/山城_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B1%B1%E5%9F%8E%E6%94%B9%E4%BA%8C/::ref/212_2nd.jpg.webp?rev=373a7fb6ed433128fc3a38cf417641b5&t=20180912051658",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B1%B1%E5%9F%8E",
     "stages": [
       {
@@ -465,7 +454,7 @@
     "hiragana": "ふそう",
     "type": "戦艦",
     "class": "扶桑型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/扶桑/::ref/扶桑_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%89%B6%E6%A1%91%E6%94%B9%E4%BA%8C/::ref/211_2nd.jpg.webp?rev=8cc6e3760490cc368c8b06124389581f&t=20180912051450",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%89%B6%E6%A1%91",
     "stages": [
       {
@@ -491,7 +480,7 @@
     "hiragana": "ひゅうが",
     "type": "戦艦",
     "class": "伊勢型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/日向/::ref/日向_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%97%A5%E5%90%91%E6%94%B9%E4%BA%8C/::ref/354.jpg.webp?rev=f5d4e7a01084bfe160463796ea3d45b1&t=20190327224217",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%97%A5%E5%90%91",
     "stages": [
       {
@@ -521,7 +510,7 @@
     "hiragana": "はるな",
     "type": "戦艦",
     "class": "金剛型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/榛名/::ref/榛名_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%A6%9B%E5%90%8D%E6%94%B9%E4%BA%8C%E4%B8%99/::ref/554.png.webp?rev=e067503fdc4bc5e0d45ade4fdecbfb05&t=20230501203453",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%A6%9B%E5%90%8D",
     "stages": [
       {
@@ -557,7 +546,7 @@
         "class": "金剛型 3番艦",
         "resources": {
           "高速建造材": 35,
-          "開発資材": 15
+          "開発資材": 35
         }
       }
     ]
@@ -567,7 +556,7 @@
     "hiragana": "むさし",
     "type": "戦艦",
     "class": "大和型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/武蔵/::ref/武蔵_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%AD%A6%E8%94%B5%E6%94%B9%E4%BA%8C/::ref/346_2nd.jpg.webp?rev=bebfc71c1cc64d59b76260b6fa95d5f4&t=20180918061731",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%AD%A6%E8%94%B5",
     "stages": [
       {
@@ -595,7 +584,7 @@
     "hiragana": "ひえい",
     "type": "戦艦",
     "class": "金剛型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/比叡/::ref/比叡_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%AF%94%E5%8F%A1%E6%94%B9%E4%BA%8C%E4%B8%99/::ref/392.jpg.webp?rev=fe6f940e02a702426ae24140a0c3de42&t=20200423195647",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%AF%94%E5%8F%A1",
     "stages": [
       {
@@ -631,7 +620,7 @@
     "hiragana": "こんごう",
     "type": "戦艦",
     "class": "金剛型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/金剛/::ref/金剛_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%87%91%E5%89%9B%E6%94%B9%E4%BA%8C%E4%B8%99/::ref/391.png.webp?rev=1afba7b88635792c67b3a24ded0735f5&t=20190422230720",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%87%91%E5%89%9B",
     "stages": [
       {
@@ -667,7 +656,7 @@
     "hiragana": "ながと",
     "type": "戦艦",
     "class": "長門型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/長門/::ref/長門_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%95%B7%E9%96%80%E6%94%B9%E4%BA%8C/::ref/341_2nd.jpg.webp?rev=d1173d19017837f36a141ab356dec895&t=20180917193139",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%95%B7%E9%96%80",
     "stages": [
       {
@@ -693,7 +682,7 @@
     "hiragana": "むつ",
     "type": "戦艦",
     "class": "長門型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/陸奥/::ref/陸奥_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%99%B8%E5%A5%A5%E6%94%B9%E4%BA%8C/::ref/%E9%99%B8%E5%A5%A5%E6%94%B9%E4%BA%8C.jpg.webp?rev=8812a8efe3ff183ab5f32ee8f8a64279&t=20190227202756",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%99%B8%E5%A5%A5",
     "stages": [
       {
@@ -719,7 +708,7 @@
     "hiragana": "きりしま",
     "type": "戦艦",
     "class": "金剛型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/霧島/::ref/霧島_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%9C%A7%E5%B3%B6%E6%94%B9%E4%BA%8C%E4%B8%99/::ref/394.png.webp?rev=c4bc6cdc3fb011f08ed3ea8060e0a0f5&t=20240924205343",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9C%A7%E5%B3%B6",
     "stages": [
       {
@@ -754,8 +743,8 @@
     "name": "Glorious",
     "hiragana": "グロリアス",
     "type": "巡洋戦艦",
-    "class": "Courageous級 3番艦",
-    "imageUrl": "",
+    "class": "Courageous級 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Glorious%E6%94%B9%28%E5%B7%A1%E6%B4%8B%E6%88%A6%E8%89%A6%29/::ref/612b.png.webp?rev=48ea8d88d400c4eba8eedc8a38aa208e&t=20251102024751",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Glorious",
     "stages": [
       {
@@ -783,7 +772,7 @@
     "hiragana": "アクィラ",
     "type": "正規空母",
     "class": "Aquila級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Aquila/::ref/aquila_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Aquila%E6%94%B9/::ref/244b_2nd.jpg.webp?rev=b3154d92ca1c1ce80da7c5399aedb1dd&t=20181003145729",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Aquila",
     "stages": [
       {
@@ -800,7 +789,7 @@
     "hiragana": "アーク・ロイヤル",
     "type": "正規空母",
     "class": "Ark Royal級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Ark%20Royal/::ref/ark royal_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Ark%20Royal%E6%94%B9/::ref/315b_2nd.jpg.webp?rev=c7d987d7b137adbeeb03a3844b518d33&t=20181006045959",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Ark%20Royal",
     "stages": [
       {
@@ -817,7 +806,7 @@
     "hiragana": "グラーフ・ツェッペリン",
     "type": "正規空母",
     "class": "Graf Zeppelin級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Graf%20Zeppelin/::ref/graf zeppelin_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Graf%20Zeppelin%E6%94%B9/::ref/232b_2nd.jpg.webp?rev=02ebab95dc351cdb2ae88e5b7b68eb1f&t=20181003070457",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Graf%20Zeppelin",
     "stages": [
       {
@@ -834,7 +823,7 @@
     "hiragana": "ホーネット",
     "type": "正規空母",
     "class": "Yorktown級 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Hornet/::ref/hornet_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Hornet%E6%94%B9/::ref/403b.png.webp?rev=c50fc1802367b06c89c5b740fb5a6cb5&t=20200712101928",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Hornet",
     "stages": [
       {
@@ -850,15 +839,15 @@
     "name": "Intrepid",
     "hiragana": "イントレピッド",
     "type": "正規空母",
-    "class": "Essex級 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Intrepid/::ref/intrepid_card.jpg",
+    "class": "Essex級 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Intrepid%E6%94%B9/::ref/349b_2nd.jpg.webp?rev=337fc12edb9cb05685bacfcf202e9e9c&t=20181006152533",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Intrepid",
     "stages": [
       {
         "level": 50,
         "name": "Intrepid改",
         "type": "正規空母",
-        "class": "Essex級 3番艦",
+        "class": "Essex級 5番艦",
         "resources": {}
       }
     ]
@@ -868,7 +857,7 @@
     "hiragana": "レキシントン",
     "type": "正規空母",
     "class": "Lexington級 1番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Lexington%E6%94%B9/::ref/566b.png.webp?rev=bb2d2ae6ac6b649bba2f29b8a2b1cf74&t=20240813123411",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Lexington",
     "stages": [
       {
@@ -884,7 +873,7 @@
     "hiragana": "レンジャー",
     "type": "正規空母",
     "class": "Ranger級 1番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Ranger%E6%94%B9/::ref/531b.png.webp?rev=74a71650e1e3338c131710448a7339c9&t=20220914203112",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Ranger",
     "stages": [
       {
@@ -900,7 +889,7 @@
     "hiragana": "サラトガ",
     "type": "正規空母",
     "class": "Lexington級 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Saratoga/::ref/saratoga_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Saratoga%20Mk.II%20Mod.2/::ref/350_2nd.jpg.webp?rev=8ec9d5dfd1015e18bec20e7ac3857308&t=20180918065506",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Saratoga",
     "stages": [
       {
@@ -916,7 +905,8 @@
         "type": "正規空母",
         "class": "Lexington級 2番艦",
         "resources": {
-          "試製甲板カタパルト": 1
+          "試製甲板カタパルト": 1,
+          "改装設計図": 1
         }
       },
       {
@@ -925,8 +915,8 @@
         "type": "装甲空母",
         "class": "Lexington級 2番艦",
         "resources": {
-          "改装設計図": 1,
-          "試製甲板カタパルト": 1
+          "開発資材": 20,
+          "高速建造材": 30
         }
       }
     ]
@@ -935,8 +925,8 @@
     "name": "Wasp",
     "hiragana": "ワスプ",
     "type": "正規空母",
-    "class": "Wasp級 1番艦",
-    "imageUrl": "",
+    "class": "Essex級 6番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Wasp%E6%94%B9/::ref/620.png.webp?rev=f8adf220700c2140b3213e2045f06684&t=20251114061829",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Wasp",
     "stages": [
       {
@@ -952,7 +942,7 @@
     "hiragana": "かが",
     "type": "正規空母",
     "class": "加賀型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/加賀/::ref/加賀_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%8A%A0%E8%B3%80%E6%94%B9%E4%BA%8C%E8%AD%B7/::ref/446.jpg.webp?rev=2d9558b53f0547e7be6dd2670bf02f50&t=20200827223616",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8A%A0%E8%B3%80",
     "stages": [
       {
@@ -1002,7 +992,7 @@
     "hiragana": "たいほう",
     "type": "正規空母",
     "class": "大鳳型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大鳳/::ref/大鳳_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%A7%E9%B3%B3%E6%94%B9/::ref/156_2nd.jpg.webp?rev=cb85e2cb73351c5307e5c98aa0ce2696&t=20180909045210",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E9%B3%B3",
     "stages": [
       {
@@ -1019,7 +1009,7 @@
     "hiragana": "あまぎ",
     "type": "正規空母",
     "class": "雲龍型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/天城/::ref/天城_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%A9%E5%9F%8E%E6%94%B9/::ref/229_2nd.jpg.webp?rev=346697df0a4017e62862137ab30296d8&t=20180912232042",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E5%9F%8E",
     "stages": [
       {
@@ -1038,7 +1028,7 @@
     "hiragana": "かつらぎ",
     "type": "正規空母",
     "class": "雲龍型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/葛城/::ref/葛城_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%91%9B%E5%9F%8E%E6%94%B9/::ref/230_2nd.jpg.webp?rev=9a2630d71a59a21a5183131aa9848e47&t=20180912232224",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%91%9B%E5%9F%8E",
     "stages": [
       {
@@ -1057,7 +1047,7 @@
     "hiragana": "そうりゅう",
     "type": "正規空母",
     "class": "蒼龍型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/蒼龍/::ref/蒼龍_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%92%BC%E9%BE%8D%E6%94%B9%E4%BA%8C/::ref/197_2nd.jpg.webp?rev=eedb49e77b60577953b0aa9d8a2fe502&t=20180911144733",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%92%BC%E9%BE%8D",
     "stages": [
       {
@@ -1072,9 +1062,7 @@
         "name": "蒼龍改二",
         "type": "正規空母",
         "class": "蒼龍型 1番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -1083,7 +1071,7 @@
     "hiragana": "あかぎ",
     "type": "正規空母",
     "class": "赤城型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/赤城/::ref/赤城_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%B5%A4%E5%9F%8E%E6%94%B9%E4%BA%8C%E6%88%8A/::ref/409.jpg.webp?rev=a93d4c631a02d0355d243495c16f3020&t=20190521090317",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%B5%A4%E5%9F%8E",
     "stages": [
       {
@@ -1123,7 +1111,7 @@
     "hiragana": "うんりゅう",
     "type": "正規空母",
     "class": "雲龍型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/雲龍/::ref/雲龍_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%9B%B2%E9%BE%8D%E6%94%B9/::ref/206_2nd.jpg.webp?rev=cb4de10ca62f68525236d1d3fd014c7c&t=20180911182838",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9B%B2%E9%BE%8D",
     "stages": [
       {
@@ -1142,7 +1130,7 @@
     "hiragana": "ひりゅう",
     "type": "正規空母",
     "class": "飛龍型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/飛龍/::ref/飛龍_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%A3%9B%E9%BE%8D%E6%94%B9%E4%BA%8C/::ref/196_2nd.jpg.webp?rev=7984f46a5d8ffc09dc919d5adf7b2634&t=20180911144649",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%A3%9B%E9%BE%8D",
     "stages": [
       {
@@ -1157,9 +1145,7 @@
         "name": "飛龍改二",
         "type": "正規空母",
         "class": "飛龍型 1番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -1168,14 +1154,16 @@
     "hiragana": "ヴィクトリアス",
     "type": "装甲空母",
     "class": "Illustrious級 2番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Victorious%E6%94%B9/::ref/485b.png.webp?rev=e4b677ba96f760bbd362d1265edc024d&t=20210901112000",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Victorious",
     "stages": [
       {
         "level": 45,
         "name": "Victorious改",
         "type": "装甲空母",
-        "resources": {}
+        "resources": {
+          "開発資材": 10
+        }
       }
     ]
   },
@@ -1184,7 +1172,7 @@
     "hiragana": "ガンビア・ベイ",
     "type": "軽空母",
     "class": "Casablanca級 19番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Gambier%20Bay/::ref/gambier bay_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Gambier%20Bay%20Mk.II/::ref/458.png.webp?rev=690a680daa63064e3eadd9df1cb4b59a&t=20210715222126",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Gambier%20Bay",
     "stages": [
       {
@@ -1201,7 +1189,9 @@
         "class": "Casablanca級 19番艦",
         "resources": {
           "改装設計図": 1,
-          "試製甲板カタパルト": 1
+          "試製甲板カタパルト": 1,
+          "高速建造材": 73,
+          "開発資材": 60
         }
       }
     ]
@@ -1211,7 +1201,7 @@
     "hiragana": "ラングレー",
     "type": "軽空母",
     "class": "Langley級 1番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Langley%E6%94%B9/::ref/530.png.webp?rev=3b3260f5b9206dbc3b74764338ec41e9&t=20220828195303",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Langley",
     "stages": [
       {
@@ -1227,7 +1217,7 @@
     "hiragana": "かすがまる",
     "type": "軽空母",
     "class": "大鷹型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/春日丸/::ref/春日丸_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%A7%E9%B7%B9%E6%94%B9%E4%BA%8C/::ref/331_2nd.jpg.webp?rev=45dff1e91bb1100b39355bde2d5b6307&t=20180917175421",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%98%A5%E6%97%A5%E4%B8%B8",
     "stages": [
       {
@@ -1261,7 +1251,7 @@
     "hiragana": "ずいほう",
     "type": "軽空母",
     "class": "祥鳳型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/瑞鳳/::ref/瑞鳳_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%91%9E%E9%B3%B3%E6%94%B9%E4%BA%8C%E4%B9%99/::ref/360_2nd.jpg.webp?rev=f4ebff32419c96a14a11e755248e5ba4&t=20180918134950",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%91%9E%E9%B3%B3",
     "stages": [
       {
@@ -1276,9 +1266,7 @@
         "name": "瑞鳳改二",
         "type": "軽空母",
         "class": "祥鳳型 2番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       },
       {
         "level": 80,
@@ -1296,25 +1284,26 @@
     "name": "神鷹",
     "hiragana": "しんよう",
     "type": "軽空母",
-    "class": "神鷹型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/神鷹/::ref/神鷹_card.jpg",
+    "class": "大鷹型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A5%9E%E9%B7%B9%E6%94%B9%E4%BA%8C/::ref/336.jpg.webp?rev=1ce37df5023274f7f20b3a4c2523002e&t=20180915114400",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A5%9E%E9%B7%B9",
     "stages": [
       {
         "level": 60,
         "name": "神鷹改",
         "type": "軽空母",
-        "class": "神鷹型 1番艦",
+        "class": "大鷹型 4番艦",
         "resources": {}
       },
       {
         "level": 85,
         "name": "神鷹改二",
         "type": "軽空母",
-        "class": "神鷹型 1番艦",
+        "class": "大鷹型 4番艦",
         "resources": {
           "改装設計図": 1,
-          "試製甲板カタパルト": 1
+          "試製甲板カタパルト": 1,
+          "開発資材": 40
         }
       }
     ]
@@ -1324,7 +1313,7 @@
     "hiragana": "しょうほう",
     "type": "軽空母",
     "class": "祥鳳型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/祥鳳/::ref/祥鳳_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A5%A5%E9%B3%B3%E6%94%B9/::ref/094b_2nd.jpg.webp?rev=782e8dfb5739f2b70877dc6e3d44829d&t=20180928161231",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A5%A5%E9%B3%B3",
     "stages": [
       {
@@ -1341,7 +1330,7 @@
     "hiragana": "じゅんよう",
     "type": "軽空母",
     "class": "飛鷹型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/隼鷹/::ref/隼鷹_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%9A%BC%E9%B7%B9%E6%94%B9%E4%BA%8C/::ref/208_2nd.jpg.webp?rev=908fe6621ac878230de8c1050b8c3516&t=20180911193535",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9A%BC%E9%B7%B9",
     "stages": [
       {
@@ -1356,9 +1345,7 @@
         "name": "隼鷹改二",
         "type": "軽空母",
         "class": "飛鷹型 2番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -1367,7 +1354,7 @@
     "hiragana": "ひよう",
     "type": "軽空母",
     "class": "飛鷹型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/飛鷹/::ref/飛鷹_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%A3%9B%E9%B7%B9%E6%94%B9/::ref/065b_2nd.jpg.webp?rev=f8b57ca2ebed1d599b149bce2aa29a82&t=20180925051942",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%A3%9B%E9%B7%B9",
     "stages": [
       {
@@ -1384,7 +1371,7 @@
     "hiragana": "ほうしょう",
     "type": "軽空母",
     "class": "鳳翔型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/鳳翔/::ref/鳳翔_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%B3%B3%E7%BF%94%E6%94%B9%E4%BA%8C%E6%88%A6/::ref/499.png.webp?rev=f5539d0b7b288853c1b1fb121306c103&t=20221206210008",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%B3%B3%E7%BF%94",
     "stages": [
       {
@@ -1422,7 +1409,7 @@
     "hiragana": "りゅうじょう",
     "type": "軽空母",
     "class": "龍驤型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/龍驤/::ref/龍驤_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%BE%8D%E9%A9%A4%E6%94%B9%E4%BA%8C/::ref/157_2nd.jpg.webp?rev=711ea7cee05c05a38cf9f58842eed523&t=20180909045325",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%BE%8D%E9%A9%A4",
     "stages": [
       {
@@ -1445,15 +1432,18 @@
     "name": "しまね丸",
     "hiragana": "しまねまる",
     "type": "特設護衛空母",
-    "class": "しまね丸型",
-    "imageUrl": "",
+    "class": "特1TL型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E3%81%97%E3%81%BE%E3%81%AD%E4%B8%B8%E6%94%B9/::ref/608.png.webp?rev=d81ca448d070e584fffc464169772938&t=20250409051843",
     "wikiUrl": "https://wikiwiki.jp/kancolle/しまね丸",
     "stages": [
       {
         "level": 60,
         "name": "しまね丸改",
         "type": "特設護衛空母",
-        "resources": {}
+        "resources": {
+          "高速建造材": 22,
+          "開発資材": 18
+        }
       }
     ]
   },
@@ -1461,15 +1451,18 @@
     "name": "山汐丸",
     "hiragana": "やましおまる",
     "type": "特設護衛空母",
-    "class": "山汐丸型",
-    "imageUrl": "",
+    "class": "特2TL型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B1%B1%E6%B1%90%E4%B8%B8%E6%94%B9/::ref/500b.png.webp?rev=f5898362187acca1132ec4f4099fdac5&t=20220224184847",
     "wikiUrl": "https://wikiwiki.jp/kancolle/山汐丸",
     "stages": [
       {
         "level": 48,
         "name": "山汐丸改",
         "type": "特設護衛空母",
-        "resources": {}
+        "resources": {
+          "高速建造材": 15,
+          "開発資材": 10
+        }
       }
     ]
   },
@@ -1478,7 +1471,7 @@
     "hiragana": "ヒューストン",
     "type": "重巡洋艦",
     "class": "Northampton級 5番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Houston/::ref/houston_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Houston%E6%94%B9/::ref/400.png.webp?rev=13749f6ca9cafdc238035ef94c55c2fc&t=20191202181009",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Houston",
     "stages": [
       {
@@ -1494,8 +1487,8 @@
     "name": "Minneapolis",
     "hiragana": "ミネアポリス",
     "type": "重巡洋艦",
-    "class": "New Orleans級",
-    "imageUrl": "",
+    "class": "New Orleans級 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Minneapolis%E6%94%B9/::ref/610.png.webp?rev=cff72b985524beec810bc0b60c7c4180&t=20250330183153",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Minneapolis",
     "stages": [
       {
@@ -1511,7 +1504,7 @@
     "hiragana": "ノーザンプトン",
     "type": "重巡洋艦",
     "class": "Northampton級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Northampton/::ref/northampton_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Northampton%E6%94%B9/::ref/460.png.webp?rev=24febb64aa4236aa88ea7d6eb47c4c41&t=20210510232906",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Northampton",
     "stages": [
       {
@@ -1527,15 +1520,15 @@
     "name": "Pola",
     "hiragana": "ポーラ",
     "type": "重巡洋艦",
-    "class": "Zara級 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Pola/::ref/pola_card.jpg",
+    "class": "Zara級 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Pola%E6%94%B9/::ref/249b_2nd.jpg.webp?rev=e0f5764ce5232628d1a0b08bf6db22dc&t=20181003223423",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Pola",
     "stages": [
       {
         "level": 40,
         "name": "Pola改",
         "type": "重巡洋艦",
-        "class": "Zara級 2番艦",
+        "class": "Zara級 3番艦",
         "resources": {}
       }
     ]
@@ -1545,7 +1538,7 @@
     "hiragana": "プリンツ・オイゲン",
     "type": "重巡洋艦",
     "class": "Admiral Hipper級 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Prinz%20Eugen/::ref/prinz eugen_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Prinz%20Eugen%E6%94%B9/::ref/177_2nd.jpg.webp?rev=b22ac04818d3667558a35230bd9a8002&t=20180910045948",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Prinz%20Eugen",
     "stages": [
       {
@@ -1561,8 +1554,8 @@
     "name": "Tuscaloosa",
     "hiragana": "タスカルーサ",
     "type": "重巡洋艦",
-    "class": "New Orleans級",
-    "imageUrl": "",
+    "class": "New Orleans級 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Tuscaloosa%E6%94%B9/::ref/528.png.webp?rev=3809d2757d4152b64ba153cca5773679&t=20230322051733",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Tuscaloosa",
     "stages": [
       {
@@ -1578,7 +1571,7 @@
     "hiragana": "ザラ",
     "type": "重巡洋艦",
     "class": "Zara級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Zara/::ref/zara_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Zara%20due/::ref/296_2nd.jpg.webp?rev=a826db2d50f54863f9d91f8b550be272&t=20180916123422",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Zara",
     "stages": [
       {
@@ -1602,16 +1595,20 @@
   {
     "name": "Киров",
     "hiragana": "キーロフ",
-    "type": "重巡洋艦",
-    "class": "Kirov級 1番艦",
-    "imageUrl": "",
+    "type": "軽巡洋艦",
+    "class": "Киров級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%E6%94%B9/::ref/606.png.webp?rev=d20e653a389b0f952e237af2095cf76b&t=20250309105123",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Киров",
     "stages": [
       {
         "level": 55,
         "name": "Киров改",
         "type": "重巡洋艦",
-        "resources": {}
+        "resources": {
+          "海外艦最新技術": 1,
+          "高速建造材": 18,
+          "開発資材": 26
+        }
       }
     ]
   },
@@ -1620,7 +1617,7 @@
     "hiragana": "みくま",
     "type": "重巡洋艦",
     "class": "最上型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/三隈/::ref/三隈_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%B8%89%E9%9A%88%E6%94%B9%E4%BA%8C%E7%89%B9/::ref/307.png.webp?rev=1cef797bb26dee35820b8b6401b873df&t=20240125202418",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%B8%89%E9%9A%88",
     "stages": [
       {
@@ -1650,7 +1647,7 @@
         "resources": {
           "新型兵装資材": 1,
           "高速建造材": 40,
-          "開発資材": 35
+          "開発資材": 45
         }
       }
     ]
@@ -1660,7 +1657,7 @@
     "hiragana": "とね",
     "type": "重巡洋艦",
     "class": "利根型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/利根/::ref/利根_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%88%A9%E6%A0%B9%E6%94%B9%E4%BA%8C/::ref/188_2nd.jpg.webp?rev=85ee224ebdd2d3961031d19f1817cfc1&t=20180910185220",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%88%A9%E6%A0%B9",
     "stages": [
       {
@@ -1686,7 +1683,7 @@
     "hiragana": "かこ",
     "type": "重巡洋艦",
     "class": "古鷹型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/加古/::ref/加古_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%8A%A0%E5%8F%A4%E6%94%B9%E4%BA%8C/::ref/217_2nd.jpg.webp?rev=89972b2ac22402f764df3f849a7c755c&t=20180912085911",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8A%A0%E5%8F%A4",
     "stages": [
       {
@@ -1701,9 +1698,7 @@
         "name": "加古改二",
         "type": "重巡洋艦",
         "class": "古鷹型 2番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -1712,7 +1707,7 @@
     "hiragana": "ふるたか",
     "type": "重巡洋艦",
     "class": "古鷹型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/古鷹/::ref/古鷹_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%8F%A4%E9%B7%B9%E6%94%B9%E4%BA%8C/::ref/216_2nd.jpg.webp?rev=b782fbf3df8ed0a4b4088b6640f806b9&t=20180912085819",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8F%A4%E9%B7%B9",
     "stages": [
       {
@@ -1727,9 +1722,7 @@
         "name": "古鷹改二",
         "type": "重巡洋艦",
         "class": "古鷹型 1番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -1738,7 +1731,7 @@
     "hiragana": "みょうこう",
     "type": "重巡洋艦",
     "class": "妙高型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/妙高/::ref/妙高_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A6%99%E9%AB%98%E6%94%B9%E4%BA%8C/::ref/191_2nd.jpg.webp?rev=807e791446dfec1df10f1d6ea09ad9d7&t=20180910204228",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A6%99%E9%AB%98",
     "stages": [
       {
@@ -1753,9 +1746,7 @@
         "name": "妙高改二",
         "type": "重巡洋艦",
         "class": "妙高型 1番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -1764,7 +1755,7 @@
     "hiragana": "あたご",
     "type": "重巡洋艦",
     "class": "高雄型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/愛宕/::ref/愛宕_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%84%9B%E5%AE%95%E6%94%B9/::ref/060b_2nd.jpg.webp?rev=12197906858e48bc0a0dc900e9e9ebca&t=20180924155919",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%84%9B%E5%AE%95",
     "stages": [
       {
@@ -1781,7 +1772,7 @@
     "hiragana": "まや",
     "type": "重巡洋艦",
     "class": "高雄型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/摩耶/::ref/摩耶_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%91%A9%E8%80%B6%E6%94%B9%E4%BA%8C/::ref/228_2nd.jpg.webp?rev=27d691e368b85cbe4b9519d40c72e9e5&t=20180912223305",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%91%A9%E8%80%B6",
     "stages": [
       {
@@ -1805,7 +1796,7 @@
     "hiragana": "もがみ",
     "type": "重巡洋艦",
     "class": "最上型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/最上/::ref/最上_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9C%80%E4%B8%8A%E6%94%B9%E4%BA%8C%E7%89%B9/::ref/306.jpg.webp?rev=5008076dbc406adc8c2892db3d1365dc&t=20210330215251",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%80%E4%B8%8A",
     "stages": [
       {
@@ -1833,8 +1824,8 @@
         "type": "特殊改装航空巡洋艦",
         "class": "最上型 1番艦",
         "resources": {
-          "高速建造材": 45,
-          "開発資材": 60
+          "高速建造材": 60,
+          "開発資材": 45
         }
       }
     ]
@@ -1844,7 +1835,7 @@
     "hiragana": "くまの",
     "type": "重巡洋艦",
     "class": "最上型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/熊野/::ref/熊野_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%86%8A%E9%87%8E%E6%94%B9%E4%BA%8C/::ref/304_2nd.jpg.webp?rev=440ebcd28be2848d0853d1bb1d57c78c&t=20180916145401",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%86%8A%E9%87%8E",
     "stages": [
       {
@@ -1869,9 +1860,7 @@
         "type": "軽空母",
         "class": "最上型 4番艦",
         "resources": {
-          "改装設計図": 1,
-          "高速建造材": 20,
-          "開発資材": 10
+          "改装設計図": 1
         }
       }
     ]
@@ -1881,7 +1870,7 @@
     "hiragana": "ちくま",
     "type": "重巡洋艦",
     "class": "利根型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/筑摩/::ref/筑摩_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%AD%91%E6%91%A9%E6%94%B9%E4%BA%8C/::ref/189_2nd.jpg.webp?rev=ea2ad8b89241cfcae6b13e7506f4c52a&t=20180910185325",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%AD%91%E6%91%A9",
     "stages": [
       {
@@ -1907,7 +1896,7 @@
     "hiragana": "はぐろ",
     "type": "重巡洋艦",
     "class": "妙高型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/羽黒/::ref/羽黒_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%BE%BD%E9%BB%92%E6%94%B9%E4%BA%8C/::ref/194_2nd.jpg.webp?rev=8c37832f6830d54a4d033ac35737d143&t=20180910230622",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%BE%BD%E9%BB%92",
     "stages": [
       {
@@ -1933,7 +1922,7 @@
     "hiragana": "きぬがさ",
     "type": "重巡洋艦",
     "class": "青葉型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/衣笠/::ref/衣笠_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%A1%A3%E7%AC%A0%E6%94%B9%E4%BA%8C/::ref/142_2nd.jpg.webp?rev=53c5af65422245da2d6c00fff4dc265e&t=20180908152224",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%A1%A3%E7%AC%A0",
     "stages": [
       {
@@ -1948,9 +1937,7 @@
         "name": "衣笠改二",
         "type": "重巡洋艦",
         "class": "青葉型 2番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -1959,7 +1946,7 @@
     "hiragana": "あしがら",
     "type": "重巡洋艦",
     "class": "妙高型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/足柄/::ref/足柄_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%B6%B3%E6%9F%84%E6%94%B9%E4%BA%8C/::ref/193_2nd.jpg.webp?rev=67fd8705fc7bf25121307af37de87c4c&t=20180910230529",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%B6%B3%E6%9F%84",
     "stages": [
       {
@@ -1981,7 +1968,7 @@
     "hiragana": "なち",
     "type": "重巡洋艦",
     "class": "妙高型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/那智/::ref/那智_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%82%A3%E6%99%BA%E6%94%B9%E4%BA%8C/::ref/192_2nd.jpg.webp?rev=f1978b3be1c9137cb600cb7f9c30fbc6&t=20180910204334",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%82%A3%E6%99%BA",
     "stages": [
       {
@@ -1996,9 +1983,7 @@
         "name": "那智改二",
         "type": "重巡洋艦",
         "class": "妙高型 2番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -2007,7 +1992,7 @@
     "hiragana": "すずや",
     "type": "重巡洋艦",
     "class": "最上型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/鈴谷/::ref/鈴谷_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%88%B4%E8%B0%B7%E6%94%B9%E4%BA%8C/::ref/303_2nd.jpg.webp?rev=6db56a195b7bf9448c199110a270c43c&t=20180916145330",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%88%B4%E8%B0%B7",
     "stages": [
       {
@@ -2032,9 +2017,7 @@
         "type": "軽空母",
         "class": "最上型 3番艦",
         "resources": {
-          "改装設計図": 1,
-          "高速建造材": 20,
-          "開発資材": 10
+          "改装設計図": 1
         }
       }
     ]
@@ -2044,7 +2027,7 @@
     "hiragana": "あおば",
     "type": "重巡洋艦",
     "class": "青葉型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/青葉/::ref/青葉_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%9D%92%E8%91%89%E6%94%B9/::ref/054b_2nd.jpg.webp?rev=31e9f30506bf4b3ee7b018febc9d4b32&t=20180923184102",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9D%92%E8%91%89",
     "stages": [
       {
@@ -2061,7 +2044,7 @@
     "hiragana": "たかお",
     "type": "重巡洋艦",
     "class": "高雄型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/高雄/::ref/高雄_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%AB%98%E9%9B%84%E6%94%B9/::ref/059b_2nd.jpg.webp?rev=2b780b306ce7edfc52015928142c97f1&t=20180924155741",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%AB%98%E9%9B%84",
     "stages": [
       {
@@ -2078,7 +2061,7 @@
     "hiragana": "ちょうかい",
     "type": "重巡洋艦",
     "class": "高雄型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/鳥海/::ref/鳥海_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%B3%A5%E6%B5%B7%E6%94%B9%E4%BA%8C/::ref/227_2nd.jpg.webp?rev=261db46a5ad21f5e819c8523080d9286&t=20180912223218",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%B3%A5%E6%B5%B7",
     "stages": [
       {
@@ -2104,7 +2087,7 @@
     "hiragana": "ゴトランド",
     "type": "航空巡洋艦",
     "class": "Gotland級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Gotland/::ref/gotland_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Gotland%20andra/::ref/430.jpg.webp?rev=2ab6fa7efe61263f8c4a1994932b1df5&t=20200423194909",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Gotland",
     "stages": [
       {
@@ -2119,7 +2102,12 @@
         "name": "Gotland andra",
         "type": "軽(航空)巡洋艦",
         "class": "Gotland級 1番艦",
-        "resources": {}
+        "resources": {
+          "試製甲板カタパルト": 1,
+          "改装設計図": 1,
+          "高速建造材": 35,
+          "開発資材": 55
+        }
       }
     ]
   },
@@ -2128,7 +2116,7 @@
     "hiragana": "アトランタ",
     "type": "軽巡洋艦",
     "class": "Atlanta級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Atlanta/::ref/atlanta_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Atlanta%E6%94%B9/::ref/397b.png.webp?rev=5b5474268c71ba57e0450a5a9e1af2d6&t=20191208145119",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Atlanta",
     "stages": [
       {
@@ -2145,7 +2133,7 @@
     "hiragana": "ブルックリン",
     "type": "軽巡洋艦",
     "class": "Brooklyn級 1番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Brooklyn%E6%94%B9/::ref/brooklynb.png.webp?rev=b9a7642ee386dac229ec8f5bf237d12f&t=20220914053420",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Brooklyn",
     "stages": [
       {
@@ -2161,7 +2149,7 @@
     "hiragana": "デ・ロイテル",
     "type": "軽巡洋艦",
     "class": "De Ruyter級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/De%20Ruyter/::ref/de ruyter_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/De%20Ruyter%E6%94%B9/::ref/399b.png.webp?rev=a4723a3ba2a71b61b22f1165445dd414&t=20191201125851",
     "wikiUrl": "https://wikiwiki.jp/kancolle/De%20Ruyter",
     "stages": [
       {
@@ -2175,17 +2163,17 @@
   },
   {
     "name": "G.Garibaldi",
-    "hiragana": "ジュゼッペ・ガリバルディ",
+    "hiragana": "ガリバルディ",
     "type": "軽巡洋艦",
-    "class": "Condottieri級 5型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/G.Garibaldi/::ref/g.garibaldi_card.jpg",
+    "class": "L.d.S.D.d.Abruzzi級 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/G.Garibaldi%E6%94%B9/::ref/390b-2.png.webp?rev=0863715093e231233d326615ad8adeea&t=20190524194221",
     "wikiUrl": "https://wikiwiki.jp/kancolle/G.Garibaldi",
     "stages": [
       {
         "level": 45,
         "name": "G.Garibaldi改",
         "type": "軽巡洋艦",
-        "class": "Condottieri級 5型 2番艦",
+        "class": "L.d.S.D.d.Abruzzi級 2番艦",
         "resources": {}
       }
     ]
@@ -2194,8 +2182,8 @@
     "name": "Gloire",
     "hiragana": "グロワール",
     "type": "軽巡洋艦",
-    "class": "La Galissonnière級",
-    "imageUrl": "",
+    "class": "La Galissonnière級 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Gloire%E6%94%B9/::ref/570.png.webp?rev=8a7ccd0ed252cbbc6ca3bdd557b0fce4&t=20240730053815",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Gloire",
     "stages": [
       {
@@ -2211,7 +2199,7 @@
     "hiragana": "ヘレナ",
     "type": "軽巡洋艦",
     "class": "St. Louis級 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Helena/::ref/helena_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Helena%E6%94%B9/::ref/420.png.webp?rev=5b1ef6e66aff2324f7df10909bdbdf32&t=20200713222915",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Helena",
     "stages": [
       {
@@ -2228,7 +2216,7 @@
     "hiragana": "ホノルル",
     "type": "軽巡洋艦",
     "class": "Brooklyn級 7番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Honolulu/::ref/honolulu_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Honolulu%E6%94%B9/::ref/398b_2.jpg.webp?rev=c2e60dac4336e78bb1b43518dc43f366&t=20210604054804",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Honolulu",
     "stages": [
       {
@@ -2242,17 +2230,17 @@
   },
   {
     "name": "L.d.S.D.d.Abruzzi",
-    "hiragana": "ルイージ・ディ・サヴォイア・ドゥーカ・デッリ・アブルッツィ",
+    "hiragana": "アブルッツィ",
     "type": "軽巡洋艦",
-    "class": "Condottieri級 5型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/L.d.S.D.d.Abruzzi/::ref/l.d.s.d.d.abruzzi_card.jpg",
+    "class": "L.d.S.D.d.Abruzzi級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/L.d.S.D.d.Abruzzi%E6%94%B9/::ref/389b.png.webp?rev=5ac8822d563755bcd24d6d088afbb766&t=20190901210304",
     "wikiUrl": "https://wikiwiki.jp/kancolle/L.d.S.D.d.Abruzzi",
     "stages": [
       {
         "level": 45,
         "name": "L.d.S.D.d.Abruzzi改",
         "type": "軽巡洋艦",
-        "class": "Condottieri級 5型 1番艦",
+        "class": "L.d.S.D.d.Abruzzi級 1番艦",
         "resources": {}
       }
     ]
@@ -2262,7 +2250,7 @@
     "hiragana": "パース",
     "type": "軽巡洋艦",
     "class": "Perth級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Perth/::ref/perth_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Perth%E6%94%B9/::ref/418.png.webp?rev=3df489a6a056c52a0c22576e17620a4b&t=20191130195627",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Perth",
     "stages": [
       {
@@ -2278,8 +2266,8 @@
     "name": "Phoenix",
     "hiragana": "フェニックス",
     "type": "軽巡洋艦",
-    "class": "Brooklyn級 3番艦",
-    "imageUrl": "",
+    "class": "Brooklyn級 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/General%20Belgrano/::ref/557.png.webp?rev=a0ddc38ab4cf733ba8ed20fe3534920d&t=20240810155003",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Phoenix",
     "stages": [
       {
@@ -2293,7 +2281,8 @@
         "name": "General Belgrano",
         "type": "軽巡洋艦",
         "resources": {
-          "新型兵装資材": 1
+          "新型兵装資材": 1,
+          "開発資材": 30
         }
       }
     ]
@@ -2302,15 +2291,15 @@
     "name": "Sheffield",
     "hiragana": "シェフィールド",
     "type": "軽巡洋艦",
-    "class": "Town級 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Sheffield/::ref/sheffield_card.jpg",
+    "class": "Town級 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Sheffield%E6%94%B9/::ref/314b.png.webp?rev=7b000941a4610b0f16cba865690ec733&t=20201129064339",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Sheffield",
     "stages": [
       {
-        "level": 45,
+        "level": 55,
         "name": "Sheffield改",
         "type": "軽巡洋艦",
-        "class": "Town級 3番艦",
+        "class": "Town級 5番艦",
         "resources": {}
       }
     ]
@@ -2320,7 +2309,7 @@
     "hiragana": "いすず",
     "type": "軽巡洋艦",
     "class": "長良型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/五十鈴/::ref/五十鈴_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BA%94%E5%8D%81%E9%88%B4%E6%94%B9%E4%BA%8C/::ref/141_2nd.jpg.webp?rev=50d1cd7257bdd2e42dfb7e0922965596&t=20180908152056",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BA%94%E5%8D%81%E9%88%B4",
     "stages": [
       {
@@ -2344,7 +2333,7 @@
     "hiragana": "きたかみ",
     "type": "軽巡洋艦",
     "class": "球磨型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/北上/::ref/北上_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%8C%97%E4%B8%8A%E6%94%B9%E4%BA%8C/::ref/115_2nd.jpg.webp?rev=0595907f6a127921b188625f8bbe74cc&t=20180907053940",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8C%97%E4%B8%8A",
     "stages": [
       {
@@ -2357,7 +2346,7 @@
       {
         "level": 50,
         "name": "北上改二",
-        "type": "軽巡洋艦",
+        "type": "重雷装巡洋艦",
         "class": "球磨型 3番艦",
         "resources": {}
       }
@@ -2368,7 +2357,7 @@
     "hiragana": "なとり",
     "type": "軽巡洋艦",
     "class": "長良型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/名取/::ref/名取_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%90%8D%E5%8F%96%E6%94%B9/::ref/044b_2nd.jpg.webp?rev=3f330e7bae7cc3d43449a7dd1a505f61&t=20180922181158",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%90%8D%E5%8F%96",
     "stages": [
       {
@@ -2385,7 +2374,7 @@
     "hiragana": "たま",
     "type": "軽巡洋艦",
     "class": "球磨型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/多摩/::ref/多摩_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%9A%E6%91%A9%E6%94%B9%E4%BA%8C/::ref/347_2nd.jpg.webp?rev=1095a423e66e34d746a316cb03a631c7&t=20180918061832",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%9A%E6%91%A9",
     "stages": [
       {
@@ -2411,7 +2400,7 @@
     "hiragana": "おおい",
     "type": "軽巡洋艦",
     "class": "球磨型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大井/::ref/大井_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%A7%E4%BA%95%E6%94%B9%E4%BA%8C/::ref/114_2nd.jpg.webp?rev=f9881321f676a4c551f0c8a6ce3a1f63&t=20180907053610",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E4%BA%95",
     "stages": [
       {
@@ -2424,7 +2413,7 @@
       {
         "level": 50,
         "name": "大井改二",
-        "type": "軽巡洋艦",
+        "type": "重雷装巡洋艦",
         "class": "球磨型 4番艦",
         "resources": {}
       }
@@ -2435,7 +2424,7 @@
     "hiragana": "おおよど",
     "type": "軽巡洋艦",
     "class": "大淀型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大淀/::ref/大淀_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%A7%E6%B7%80%E6%94%B9/::ref/183b_2nd.jpg.webp?rev=b0bcd05bc5797c6f52aab1efda50decb&t=20181002072035",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E6%B7%80",
     "stages": [
       {
@@ -2452,7 +2441,7 @@
     "hiragana": "てんりゅう",
     "type": "軽巡洋艦",
     "class": "天龍型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/天龍/::ref/天龍_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%A9%E9%BE%8D%E6%94%B9%E4%BA%8C/::ref/277_2nd.jpg.webp?rev=615b9a4595226ba61adcabe6c3b4fe5e&t=20180915184750",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E9%BE%8D",
     "stages": [
       {
@@ -2468,7 +2457,8 @@
         "type": "軽巡洋艦",
         "class": "天龍型 1番艦",
         "resources": {
-          "改装設計図": 1
+          "高速建造材": 8,
+          "開発資材": 24
         }
       }
     ]
@@ -2478,7 +2468,7 @@
     "hiragana": "せんだい",
     "type": "軽巡洋艦",
     "class": "川内型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/川内/::ref/川内_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B7%9D%E5%86%85%E6%94%B9%E4%BA%8C/::ref/158_2nd.jpg.webp?rev=a7dcb3b2d80d78abc22e321be88eba02&t=20180909050406",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B7%9D%E5%86%85",
     "stages": [
       {
@@ -2502,7 +2492,7 @@
     "hiragana": "きそ",
     "type": "軽巡洋艦",
     "class": "球磨型 5番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/木曾/::ref/木曾_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9C%A8%E6%9B%BE%E6%94%B9%E4%BA%8C/::ref/146_2nd.jpg.webp?rev=2fcf8db6b26298383b24d3d63d434e56&t=20180908171308",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%A8%E6%9B%BE",
     "stages": [
       {
@@ -2517,9 +2507,7 @@
         "name": "木曾改二",
         "type": "重雷装巡洋艦",
         "class": "球磨型 5番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -2528,7 +2516,7 @@
     "hiragana": "くま",
     "type": "軽巡洋艦",
     "class": "球磨型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/球磨/::ref/球磨_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%90%83%E7%A3%A8%E6%94%B9%E4%BA%8C%E4%B8%81/::ref/457.png.webp?rev=8d44bda7f0223e567bfe9ba4954ce636&t=20210113210030",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%90%83%E7%A3%A8",
     "stages": [
       {
@@ -2542,16 +2530,18 @@
         "level": 88,
         "name": "球磨改二",
         "type": "軽巡洋艦",
-        "class": "球磨型 1番艦",
+        "class": "改装球磨型",
         "resources": {
-          "改装設計図": 1
+          "改装設計図": 1,
+          "高速建造材": 55,
+          "開発資材": 55
         }
       },
       {
         "level": 88,
         "name": "球磨改二丁",
         "type": "軽巡洋艦",
-        "class": "球磨型 1番艦",
+        "class": "改装球磨型",
         "resources": {
           "高速建造材": 15,
           "開発資材": 30
@@ -2564,7 +2554,7 @@
     "hiragana": "ゆら",
     "type": "軽巡洋艦",
     "class": "長良型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/由良/::ref/由良_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%94%B1%E8%89%AF%E6%94%B9%E4%BA%8C/::ref/288_2nd.jpg.webp?rev=8f2144431f9e4613fd132fa2fb89454d&t=20180916052751",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%94%B1%E8%89%AF",
     "stages": [
       {
@@ -2590,7 +2580,7 @@
     "hiragana": "やはぎ",
     "type": "軽巡洋艦",
     "class": "阿賀野型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/矢矧/::ref/矢矧_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%9F%A2%E7%9F%A7%E6%94%B9%E4%BA%8C%E4%B9%99/::ref/468.jpg.webp?rev=d150058c81b504b4cc03f8245f02f349&t=20210330220958",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%9F%A2%E7%9F%A7",
     "stages": [
       {
@@ -2604,7 +2594,7 @@
         "level": 90,
         "name": "矢矧改二",
         "type": "軽巡洋艦",
-        "class": "阿賀野型 3番艦",
+        "class": "改阿賀野型 3番艦",
         "resources": {
           "改装設計図": 1,
           "戦闘詳報": 1,
@@ -2616,7 +2606,7 @@
         "level": 90,
         "name": "矢矧改二乙",
         "type": "重改装軽巡洋艦",
-        "class": "阿賀野型 3番艦",
+        "class": "改阿賀野型 3番艦",
         "resources": {
           "高速建造材": 30,
           "開発資材": 45
@@ -2629,7 +2619,7 @@
     "hiragana": "じんつう",
     "type": "軽巡洋艦",
     "class": "川内型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/神通/::ref/神通_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A5%9E%E9%80%9A%E6%94%B9%E4%BA%8C/::ref/%E7%A5%9E%E9%80%9A%E6%94%B9%E4%BA%8C_%E7%AC%AC%E4%BA%8C%E6%9C%9F.jpg.webp?rev=e905c45f87b65182e4b8e82b2e233deb&t=20180819223810",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A5%9E%E9%80%9A",
     "stages": [
       {
@@ -2653,7 +2643,7 @@
     "hiragana": "のしろ",
     "type": "軽巡洋艦",
     "class": "阿賀野型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/能代/::ref/能代_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%83%BD%E4%BB%A3%E6%94%B9%E4%BA%8C/::ref/462.jpg.webp?rev=c4c6a27a31ffeff8b7afdbe4ada388d4&t=20210208082502",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%83%BD%E4%BB%A3",
     "stages": [
       {
@@ -2661,15 +2651,13 @@
         "name": "能代改",
         "type": "軽巡洋艦",
         "class": "阿賀野型 2番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       },
       {
         "level": 80,
         "name": "能代改二",
         "type": "軽巡洋艦",
-        "class": "阿賀野型 2番艦",
+        "class": "改阿賀野型 2番艦",
         "resources": {
           "改装設計図": 1,
           "戦闘詳報": 1,
@@ -2684,7 +2672,7 @@
     "hiragana": "なか",
     "type": "軽巡洋艦",
     "class": "川内型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/那珂/::ref/那珂_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%82%A3%E7%8F%82%E6%94%B9%E4%BA%8C/::ref/160_2nd.jpg.webp?rev=bdeb9911c0c7ad5c36aec9c94a3831e2&t=20180909050813",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%82%A3%E7%8F%82",
     "stages": [
       {
@@ -2708,7 +2696,7 @@
     "hiragana": "さかわ",
     "type": "軽巡洋艦",
     "class": "阿賀野型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/酒匂/::ref/酒匂_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%85%92%E5%8C%82%E6%94%B9/::ref/140b_2nd.jpg.webp?rev=1a3a73e629fc0092f9cafbf2caf3dac7&t=20180930211201",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%85%92%E5%8C%82",
     "stages": [
       {
@@ -2725,7 +2713,7 @@
     "hiragana": "ながら",
     "type": "軽巡洋艦",
     "class": "長良型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/長良/::ref/長良_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%95%B7%E8%89%AF%E6%94%B9/::ref/042b_2nd.jpg.webp?rev=ddbda16dbb103e6d13d3e9a0405733d4&t=20180922173408",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%95%B7%E8%89%AF",
     "stages": [
       {
@@ -2742,7 +2730,7 @@
     "hiragana": "あがの",
     "type": "軽巡洋艦",
     "class": "阿賀野型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/阿賀野/::ref/阿賀野_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%98%BF%E8%B3%80%E9%87%8E%E6%94%B9/::ref/137b_2nd.jpg.webp?rev=76c50e9a79c5f990cffb8378dd7f9cc9&t=20180930174657",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%98%BF%E8%B3%80%E9%87%8E",
     "stages": [
       {
@@ -2759,7 +2747,7 @@
     "hiragana": "たつた",
     "type": "軽巡洋艦",
     "class": "天龍型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/龍田/::ref/龍田_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%BE%8D%E7%94%B0%E6%94%B9%E4%BA%8C/::ref/278_2nd.jpg.webp?rev=72bd10f7a0efdc782829b10961de2c94&t=20180915184913",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%BE%8D%E7%94%B0",
     "stages": [
       {
@@ -2775,7 +2763,8 @@
         "type": "軽巡洋艦",
         "class": "天龍型 2番艦",
         "resources": {
-          "改装設計図": 1
+          "高速建造材": 5,
+          "開発資材": 15
         }
       }
     ]
@@ -2785,7 +2774,7 @@
     "hiragana": "かとり",
     "type": "練習巡洋艦",
     "class": "香取型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/香取/::ref/香取_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%A6%99%E5%8F%96%E6%94%B9/::ref/154b_2nd.jpg.webp?rev=cfb21ba913bf2aa0760f956c9465a1dc&t=20180930211657",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%A6%99%E5%8F%96",
     "stages": [
       {
@@ -2802,7 +2791,7 @@
     "hiragana": "かしま",
     "type": "練習巡洋艦",
     "class": "香取型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/鹿島/::ref/鹿島_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%B9%BF%E5%B3%B6%E6%94%B9/::ref/265b_2nd.jpg.webp?rev=7a46f5fc60031b3fc5b22bfa1ded40ef&t=20181004181619",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%B9%BF%E5%B3%B6",
     "stages": [
       {
@@ -2818,14 +2807,15 @@
     "name": "朝日",
     "hiragana": "あさひ",
     "type": "練習特務艦",
-    "class": "朝日型",
-    "imageUrl": "",
+    "class": "改敷島型 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9C%9D%E6%97%A5%E6%94%B9/::ref/558.png.webp?rev=4f33209dfb23cf820ce9371e1f0ed1b2&t=20230811223415",
     "wikiUrl": "https://wikiwiki.jp/kancolle/朝日",
     "stages": [
       {
         "level": 30,
         "name": "朝日改",
         "type": "工作艦",
+        "class": "改敷島型 2番艦",
         "resources": {}
       }
     ]
@@ -2835,7 +2825,7 @@
     "hiragana": "フレッチャー",
     "type": "駆逐艦",
     "class": "Fletcher級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Fletcher/::ref/fletcher_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Fletcher%20Mk.II/::ref/429.jpg.webp?rev=fc02452cb6408c0ba4ef22b457e48e6c&t=20200520201935",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Fletcher",
     "stages": [
       {
@@ -2843,21 +2833,30 @@
         "name": "Fletcher改",
         "type": "駆逐艦",
         "class": "Fletcher級 1番艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 80
+        }
       },
       {
         "level": 55,
         "name": "Fletcher改 Mod.2",
         "type": "駆逐艦",
         "class": "Fletcher級 1番艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 30,
+          "開発資材": 120
+        }
       },
       {
         "level": 88,
         "name": "Fletcher Mk.II",
         "type": "駆逐艦",
-        "class": "Fletcher級 1番艦",
-        "resources": {}
+        "class": "改Fletcher級",
+        "resources": {
+          "高速建造材": 30,
+          "開発資材": 180
+        }
       }
     ]
   },
@@ -2866,7 +2865,7 @@
     "hiragana": "グレカーレ",
     "type": "駆逐艦",
     "class": "Maestrale級 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Grecale/::ref/grecale_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Grecale%E6%94%B9/::ref/419.png.webp?rev=6f5213accda2410e5b0c0d330b578914&t=20190831162259",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Grecale",
     "stages": [
       {
@@ -2880,17 +2879,20 @@
   },
   {
     "name": "Heywood L.E.",
-    "hiragana": "ヘイウッド・L・エドワーズ",
+    "hiragana": "ヘイウッド",
     "type": "駆逐艦",
     "class": "Fletcher級",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Heywood%20L.E.%E6%94%B9/::ref/541b.png?rev=a03072afac620be32a5a6e63761e9a57&t=20230319121913",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Heywood L.E.",
     "stages": [
       {
         "level": 55,
         "name": "Heywood L.E.改",
         "type": "駆逐艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 80
+        }
       }
     ]
   },
@@ -2898,16 +2900,19 @@
     "name": "Janus",
     "hiragana": "ジェーナス",
     "type": "駆逐艦",
-    "class": "J級 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Janus/::ref/janus_card.jpg",
+    "class": "J級 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Janus%E6%94%B9/::ref/320b.png.webp?rev=af890807edd729ca41f5c60eb4df0266&t=20190905103057",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Janus",
     "stages": [
       {
         "level": 45,
         "name": "Janus改",
         "type": "駆逐艦",
-        "class": "J級 2番艦",
-        "resources": {}
+        "class": "J級 5番艦",
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 90
+        }
       }
     ]
   },
@@ -2915,15 +2920,18 @@
     "name": "Javelin",
     "hiragana": "ジャベリン",
     "type": "駆逐艦",
-    "class": "J級 3番艦",
-    "imageUrl": "",
+    "class": "J級 6番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Javelin%E6%94%B9/::ref/506.png.webp?rev=e0cc98837537bf571898ba4a2e1d4f5e&t=20230828184633",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Javelin",
     "stages": [
       {
         "level": 50,
         "name": "Javelin改",
         "type": "駆逐艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 95
+        }
       }
     ]
   },
@@ -2932,7 +2940,7 @@
     "hiragana": "ジャーヴィス",
     "type": "駆逐艦",
     "class": "J級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Jervis/::ref/jervis_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Jervis%E6%94%B9/::ref/319b_2nd.jpg.webp?rev=15d7dc5248a401b4d9ffa2df0ab4e0a0&t=20181006062929",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Jervis",
     "stages": [
       {
@@ -2948,16 +2956,19 @@
     "name": "Johnston",
     "hiragana": "ジョンストン",
     "type": "駆逐艦",
-    "class": "Fletcher級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Johnston/::ref/johnston_card.jpg",
+    "class": "Fletcher級",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Johnston%E6%94%B9/::ref/362b.jpg.webp?rev=d096a25ecb976f55be6ab3ee564f509e&t=20181227162639",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Johnston",
     "stages": [
       {
         "level": 55,
         "name": "Johnston改",
         "type": "駆逐艦",
-        "class": "Fletcher級 1番艦",
-        "resources": {}
+        "class": "Fletcher級",
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 80
+        }
       }
     ]
   },
@@ -2966,7 +2977,7 @@
     "hiragana": "リベッチオ",
     "type": "駆逐艦",
     "class": "Maestrale級 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Libeccio/::ref/libeccio_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Libeccio%E6%94%B9/::ref/243b_2nd.jpg.webp?rev=ee901fe7096c0fec94f52910083ab031&t=20181003145516",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Libeccio",
     "stages": [
       {
@@ -2983,7 +2994,7 @@
     "hiragana": "マエストラーレ",
     "type": "駆逐艦",
     "class": "Maestrale級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Maestrale/::ref/maestrale_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Maestrale%E6%94%B9/::ref/380.png.webp?rev=ab63fcab2d78e48fa5975aef679b9b3e&t=20180914152648",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Maestrale",
     "stages": [
       {
@@ -3000,7 +3011,7 @@
     "hiragana": "モガドール",
     "type": "駆逐艦",
     "class": "Mogador級 1番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Mogador%E6%94%B9/::ref/567.png.webp?rev=2e05e130f8db5ce33ee1ea1d5215b0a8&t=20240730054257",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Mogador",
     "stages": [
       {
@@ -3016,14 +3027,17 @@
     "hiragana": "リチャード・P・リアリー",
     "type": "駆逐艦",
     "class": "Fletcher級",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Richard%20P.Leary%E6%94%B9/::ref/542b.png.webp?rev=03b36329f38318fb454404a9ed78cfbe&t=20250517073350",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Richard P.Leary",
     "stages": [
       {
         "level": 55,
         "name": "Richard P.Leary改",
         "type": "駆逐艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 80
+        }
       }
     ]
   },
@@ -3031,25 +3045,26 @@
     "name": "Samuel B.Roberts",
     "hiragana": "サミュエル・B・ロバーツ",
     "type": "駆逐艦",
-    "class": "John C. Butler級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Samuel%20B.Roberts/::ref/samuel b.roberts_card.jpg",
+    "class": "John C.Butler級",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Samuel%20B.Roberts%20Mk.II/::ref/520.png.webp?rev=3145c38b4a940dff8a24a9fecbc1287b&t=20220804201157",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Samuel%20B.Roberts",
     "stages": [
       {
         "level": 50,
         "name": "Samuel B.Roberts改",
         "type": "駆逐艦",
-        "class": "John C. Butler級 1番艦",
+        "class": "John C.Butler級",
         "resources": {}
       },
       {
         "level": 80,
         "name": "Samuel B.Roberts Mk.II",
         "type": "駆逐艦",
-        "class": "John C. Butler級 1番艦",
+        "class": "John C.Butler級",
         "resources": {
           "改装設計図": 1,
-          "戦闘詳報": 1
+          "高速建造材": 20,
+          "開発資材": 60
         }
       }
     ]
@@ -3059,7 +3074,7 @@
     "hiragana": "シロッコ",
     "type": "駆逐艦",
     "class": "Maestrale級 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Scirocco/::ref/scirocco_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Scirocco%E6%94%B9/::ref/No453_1_A.jpg.webp?rev=04a9e76375eaad480963309c4fe79c38&t=20201128154305",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Scirocco",
     "stages": [
       {
@@ -3075,22 +3090,22 @@
     "name": "Z1",
     "hiragana": "レーベレヒト・マース",
     "type": "駆逐艦",
-    "class": "1934年型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Z1/::ref/z1_card.jpg",
+    "class": "Z1型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Z1%20zwei/::ref/179_2nd.jpg.webp?rev=629584ec92a4229d13169691ea112237&t=20180910065851",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Z1",
     "stages": [
       {
         "level": 30,
         "name": "Z1改",
         "type": "駆逐艦",
-        "class": "1934年型 1番艦",
+        "class": "Z1型 1番艦",
         "resources": {}
       },
       {
         "level": 70,
         "name": "Z1 zwei",
         "type": "駆逐艦",
-        "class": "1934年型 1番艦",
+        "class": "Z1型 1番艦",
         "resources": {}
       }
     ]
@@ -3099,22 +3114,22 @@
     "name": "Z3",
     "hiragana": "マックス・シュルツ",
     "type": "駆逐艦",
-    "class": "1934年型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Z3/::ref/z3_card.jpg",
+    "class": "Z1型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Z3%20zwei/::ref/180_2nd.jpg.webp?rev=0308558e08d087430a3bfea1ac84732e&t=20180910070055",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Z3",
     "stages": [
       {
         "level": 30,
         "name": "Z3改",
         "type": "駆逐艦",
-        "class": "1934年型 3番艦",
+        "class": "Z1型 3番艦",
         "resources": {}
       },
       {
         "level": 70,
         "name": "Z3 zwei",
         "type": "駆逐艦",
-        "class": "1934年型 3番艦",
+        "class": "Z1型 3番艦",
         "resources": {}
       }
     ]
@@ -3123,8 +3138,8 @@
     "name": "Ташкент",
     "hiragana": "タシュケント",
     "type": "駆逐艦",
-    "class": "Tashkent級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Ташкент/::ref/ташкент_card.jpg",
+    "class": "Ташкент級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%D0%A2%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82%E6%94%B9/::ref/313b_2nd.jpg.webp?rev=e45804c9002ac5d8b53821027b769e90&t=20181006045829",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%D0%A2%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82",
     "stages": [
       {
@@ -3140,7 +3155,7 @@
     "hiragana": "みかづき",
     "type": "駆逐艦",
     "class": "睦月型 10番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/三日月/::ref/三日月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%B8%89%E6%97%A5%E6%9C%88%E6%94%B9/::ref/037b_2nd.jpg.webp?rev=7a354e91ee946c20671f38a4b876161f&t=20180922045952",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%B8%89%E6%97%A5%E6%9C%88",
     "stages": [
       {
@@ -3157,7 +3172,7 @@
     "hiragana": "しらぬい",
     "type": "駆逐艦",
     "class": "陽炎型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/不知火/::ref/不知火_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%B8%8D%E7%9F%A5%E7%81%AB%E6%94%B9%E4%BA%8C/::ref/367_2nd.jpg.webp?rev=9ceb155bff8a5893e60eb90792bde00e&t=20180918161955",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%B8%8D%E7%9F%A5%E7%81%AB",
     "stages": [
       {
@@ -3173,7 +3188,8 @@
         "type": "駆逐艦",
         "class": "陽炎型 2番艦",
         "resources": {
-          "改装設計図": 1
+          "改装設計図": 1,
+          "開発資材": 20
         }
       }
     ]
@@ -3183,7 +3199,7 @@
     "hiragana": "さみだれ",
     "type": "駆逐艦",
     "class": "白露型 6番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/五月雨/::ref/五月雨_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BA%94%E6%9C%88%E9%9B%A8%E6%94%B9/::ref/083b_2nd.jpg.webp?rev=b0c9e0c472e90a4f445593d3629c9ace&t=20180927044426",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BA%94%E6%9C%88%E9%9B%A8",
     "stages": [
       {
@@ -3200,7 +3216,7 @@
     "hiragana": "ふゆつき",
     "type": "駆逐艦",
     "class": "秋月型 8番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/冬月/::ref/冬月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%86%AC%E6%9C%88%E6%94%B9/::ref/338.png.webp?rev=c6e269868caca7b3e07ecd9d1863b61b&t=20220404221323",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%86%AC%E6%9C%88",
     "stages": [
       {
@@ -3217,7 +3233,7 @@
     "hiragana": "はつはる",
     "type": "駆逐艦",
     "class": "初春型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/初春/::ref/初春_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%88%9D%E6%98%A5%E6%94%B9%E4%BA%8C/::ref/204_2nd.jpg.webp?rev=9333820c68e4e5f8a4688fea3fb0b39a&t=20180911182458",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%88%9D%E6%98%A5",
     "stages": [
       {
@@ -3232,9 +3248,7 @@
         "name": "初春改二",
         "type": "駆逐艦",
         "class": "初春型 1番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -3242,23 +3256,28 @@
     "name": "初月",
     "hiragana": "はつづき",
     "type": "駆逐艦",
-    "class": "秋月型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/初月/::ref/初月_card.jpg",
+    "class": "秋月型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%88%9D%E6%9C%88%E6%94%B9%E4%BA%8C/::ref/568.png.webp?rev=4647df4533b89689ba852733b62f9e8a&t=20240628051512",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%88%9D%E6%9C%88",
     "stages": [
       {
         "level": 40,
         "name": "初月改",
         "type": "駆逐艦",
-        "class": "秋月型 3番艦",
+        "class": "秋月型 4番艦",
         "resources": {}
       },
       {
         "level": 88,
         "name": "初月改二",
         "type": "駆逐艦",
-        "class": "秋月型 3番艦",
-        "resources": {}
+        "class": "秋月型 4番艦",
+        "resources": {
+          "改装設計図": 1,
+          "新型兵装資材": 2,
+          "戦闘詳報": 1,
+          "開発資材": 30
+        }
       }
     ]
   },
@@ -3267,7 +3286,7 @@
     "hiragana": "はつゆき",
     "type": "駆逐艦",
     "class": "吹雪型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/初雪/::ref/初雪_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%88%9D%E9%9B%AA%E6%94%B9%E4%BA%8C/::ref/587.png.webp?rev=4befa3637dcd815c5fb85180331b4a36&t=20250323062459",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%88%9D%E9%9B%AA",
     "stages": [
       {
@@ -3295,7 +3314,7 @@
     "hiragana": "はつしも",
     "type": "駆逐艦",
     "class": "初春型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/初霜/::ref/初霜_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%88%9D%E9%9C%9C%E6%94%B9%E4%BA%8C/::ref/219_2nd.jpg.webp?rev=3522c4cc417d0a8bcaae548e658224e9&t=20180912153412",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%88%9D%E9%9C%9C",
     "stages": [
       {
@@ -3319,7 +3338,7 @@
     "hiragana": "はつかぜ",
     "type": "駆逐艦",
     "class": "陽炎型 7番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/初風/::ref/初風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%88%9D%E9%A2%A8%E6%94%B9/::ref/118b_2nd.jpg.webp?rev=2418819b8ccf88d5521fbce5ad51580d&t=20180929120612",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%88%9D%E9%A2%A8",
     "stages": [
       {
@@ -3336,7 +3355,7 @@
     "hiragana": "うづき",
     "type": "駆逐艦",
     "class": "睦月型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/卯月/::ref/卯月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%8D%AF%E6%9C%88%E6%94%B9/::ref/165b_2nd.jpg.webp?rev=2a45ae68f45e6e1d493719b2e7b616d1&t=20181001051455",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8D%AF%E6%9C%88",
     "stages": [
       {
@@ -3353,7 +3372,7 @@
     "hiragana": "むらくも",
     "type": "駆逐艦",
     "class": "吹雪型 5番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/叢雲/::ref/叢雲_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%8F%A2%E9%9B%B2%E6%94%B9%E4%BA%8C/::ref/220_2nd.jpg.webp?rev=b5f6bc072efdad836a559678273c0ac3&t=20180912153548",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8F%A2%E9%9B%B2",
     "stages": [
       {
@@ -3368,9 +3387,7 @@
         "name": "叢雲改二",
         "type": "駆逐艦",
         "class": "吹雪型 5番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -3379,7 +3396,7 @@
     "hiragana": "ふぶき",
     "type": "駆逐艦",
     "class": "吹雪型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/吹雪/::ref/吹雪_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%90%B9%E9%9B%AA%E6%94%B9%E4%BA%8C/::ref/226_2nd.jpg.webp?rev=4b0082f68bebc7630eb32e1b1fe2aea8&t=20180912223111",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%90%B9%E9%9B%AA",
     "stages": [
       {
@@ -3394,9 +3411,7 @@
         "name": "吹雪改二",
         "type": "駆逐艦",
         "class": "吹雪型 1番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -3405,11 +3420,11 @@
     "hiragana": "なつぐも",
     "type": "駆逐艦",
     "class": "朝潮型 7番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/夏雲/::ref/夏雲_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%8F%E9%9B%B2%E6%94%B9/::ref/382b.png.webp?rev=a408634b314471328ba4b3f6a8494678&t=20220831113221",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%8F%E9%9B%B2",
     "stages": [
       {
-        "level": 35,
+        "level": 38,
         "name": "夏雲改",
         "type": "駆逐艦",
         "class": "朝潮型 7番艦",
@@ -3422,15 +3437,18 @@
     "hiragana": "ゆうぐれ",
     "type": "駆逐艦",
     "class": "初春型 6番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/夕暮/::ref/夕暮_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%95%E6%9A%AE%E6%94%B9/::ref/433b.png.webp?rev=f77bfe91b0dbe436ad073c491142701c&t=20230309213559",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%95%E6%9A%AE",
     "stages": [
       {
-        "level": 30,
+        "level": 49,
         "name": "夕暮改",
         "type": "駆逐艦",
         "class": "初春型 6番艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 15
+        }
       }
     ]
   },
@@ -3439,7 +3457,7 @@
     "hiragana": "ゆうだち",
     "type": "駆逐艦",
     "class": "白露型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/夕立/::ref/夕立_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%95%E7%AB%8B%E6%94%B9%E4%BA%8C/::ref/144_2nd.jpg.webp?rev=92cbefa15f23e691f25616cf9e6f12f2&t=20180908162724",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%95%E7%AB%8B",
     "stages": [
       {
@@ -3454,9 +3472,7 @@
         "name": "夕立改二",
         "type": "駆逐艦",
         "class": "白露型 4番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -3465,7 +3481,7 @@
     "hiragana": "ゆうぐも",
     "type": "駆逐艦",
     "class": "夕雲型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/夕雲/::ref/夕雲_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%95%E9%9B%B2%E6%94%B9%E4%BA%8C/::ref/342_2nd.jpg.webp?rev=e3ca898bdf1c250e0d873fdb31ced420&t=20181116224936",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%95%E9%9B%B2",
     "stages": [
       {
@@ -3481,7 +3497,8 @@
         "type": "駆逐艦",
         "class": "夕雲型 1番艦",
         "resources": {
-          "改装設計図": 1
+          "改装設計図": 1,
+          "戦闘詳報": 1
         }
       }
     ]
@@ -3491,7 +3508,7 @@
     "hiragana": "おおしお",
     "type": "駆逐艦",
     "class": "朝潮型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大潮/::ref/大潮_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%A7%E6%BD%AE%E6%94%B9%E4%BA%8C/::ref/199_2nd.jpg.webp?rev=69a627bd4ad1a261a2bc6c0c1749d0c8&t=20180911145130",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E6%BD%AE",
     "stages": [
       {
@@ -3502,7 +3519,7 @@
         "resources": {}
       },
       {
-        "level": 74,
+        "level": 65,
         "name": "大潮改二",
         "type": "駆逐艦",
         "class": "朝潮型 2番艦",
@@ -3517,7 +3534,7 @@
     "hiragana": "あまつかぜ",
     "type": "駆逐艦",
     "class": "陽炎型 9番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/天津風/::ref/天津風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%A9%E6%B4%A5%E9%A2%A8%E6%94%B9%E4%BA%8C/::ref/551.png.webp?rev=af85e36243861a117d330aa2870b0584&t=20230707220515",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E6%B4%A5%E9%A2%A8",
     "stages": [
       {
@@ -3528,7 +3545,7 @@
         "resources": {}
       },
       {
-        "level": 74,
+        "level": 73,
         "name": "天津風改二",
         "type": "駆逐艦",
         "class": "陽炎型 9番艦",
@@ -3545,31 +3562,33 @@
     "name": "天霧",
     "hiragana": "あまぎり",
     "type": "駆逐艦",
-    "class": "綾波型 13番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/天霧/::ref/天霧_card.jpg",
+    "class": "綾波型 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%A9%E9%9C%A7%E6%94%B9%E4%BA%8C%E4%B8%81/::ref/508.png.webp?rev=969c1da3c15b80be5d313de544e08a48&t=20220121204657",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A9%E9%9C%A7",
     "stages": [
       {
         "level": 35,
         "name": "天霧改",
         "type": "駆逐艦",
-        "class": "綾波型 13番艦",
+        "class": "綾波型 5番艦",
         "resources": {}
       },
       {
         "level": 89,
         "name": "天霧改二",
         "type": "駆逐艦",
-        "class": "綾波型 13番艦",
+        "class": "綾波型 5番艦",
         "resources": {
-          "改装設計図": 1
+          "改装設計図": 1,
+          "高速建造材": 10,
+          "開発資材": 20
         }
       },
       {
         "level": 89,
         "name": "天霧改二丁",
         "type": "駆逐艦",
-        "class": "綾波型 13番艦",
+        "class": "綾波型 5番艦",
         "resources": {
           "高速建造材": 10,
           "開発資材": 20
@@ -3582,7 +3601,7 @@
     "hiragana": "きさらぎ",
     "type": "駆逐艦",
     "class": "睦月型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/如月/::ref/如月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A6%82%E6%9C%88%E6%94%B9%E4%BA%8C/::ref/235_2nd.jpg.webp?rev=0276eaba403fdf54f901b609405924c1&t=20180913062655",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A6%82%E6%9C%88",
     "stages": [
       {
@@ -3597,9 +3616,7 @@
         "name": "如月改二",
         "type": "駆逐艦",
         "class": "睦月型 2番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -3625,7 +3642,7 @@
     "hiragana": "やまぐも",
     "type": "駆逐艦",
     "class": "朝潮型 6番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/山雲/::ref/山雲_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B1%B1%E9%9B%B2%E6%94%B9/::ref/214b_2nd.jpg.webp?rev=337b67d4a870737016e65cc126cee4bf&t=20181002174728",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B1%B1%E9%9B%B2",
     "stages": [
       {
@@ -3642,7 +3659,7 @@
     "hiragana": "やまかぜ",
     "type": "駆逐艦",
     "class": "白露型 8番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/山風/::ref/山風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B1%B1%E9%A2%A8%E6%94%B9%E4%BA%8C%E4%B8%81/::ref/467.png.webp?rev=bd3719c24b2c3aa784df395c04eb0d82&t=20210928203235",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B1%B1%E9%A2%A8",
     "stages": [
       {
@@ -3653,10 +3670,10 @@
         "resources": {}
       },
       {
-        "level": 91,
+        "level": 83,
         "name": "山風改二",
         "type": "駆逐艦",
-        "class": "白露型 8番艦",
+        "class": "改白露型 2番艦",
         "resources": {
           "改装設計図": 1,
           "戦闘詳報": 1
@@ -3666,7 +3683,7 @@
         "level": 91,
         "name": "山風改二丁",
         "type": "駆逐艦",
-        "class": "白露型 8番艦",
+        "class": "改白露型 2番艦",
         "resources": {
           "高速建造材": 10,
           "開発資材": 10
@@ -3679,7 +3696,7 @@
     "hiragana": "きしなみ",
     "type": "駆逐艦",
     "class": "夕雲型 15番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/岸波/::ref/岸波_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B2%B8%E6%B3%A2%E6%94%B9/::ref/327b.png.webp?rev=0de3cc46fffa2dc7cb6ca0148ca3f365&t=20180911165712",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B2%B8%E6%B3%A2",
     "stages": [
       {
@@ -3696,11 +3713,11 @@
     "hiragana": "みねぐも",
     "type": "駆逐艦",
     "class": "朝潮型 8番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/峯雲/::ref/峯雲_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B3%AF%E9%9B%B2%E6%94%B9/::ref/383b.jpg.webp?rev=2ee186442c85d59708b75bbd9c768210&t=20181227105028",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B3%AF%E9%9B%B2",
     "stages": [
       {
-        "level": 35,
+        "level": 38,
         "name": "峯雲改",
         "type": "駆逐艦",
         "class": "朝潮型 8番艦",
@@ -3713,7 +3730,7 @@
     "hiragana": "しまかぜ",
     "type": "駆逐艦",
     "class": "島風型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/島風/::ref/島風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B3%B6%E9%A2%A8%E6%94%B9/::ref/010b_2nd.jpg.webp?rev=4fd2d1818ae4e3669226cd2bc7d2b2f0&t=20180919045805",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B3%B6%E9%A2%A8",
     "stages": [
       {
@@ -3730,7 +3747,7 @@
     "hiragana": "あらし",
     "type": "駆逐艦",
     "class": "陽炎型 16番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/嵐/::ref/嵐_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B5%90%E6%94%B9/::ref/254b_2nd.jpg.webp?rev=4f7d1fb077fec0045c5bc7a1d4f165ba&t=20181004114910",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B5%90",
     "stages": [
       {
@@ -3747,7 +3764,7 @@
     "hiragana": "まきなみ",
     "type": "駆逐艦",
     "class": "夕雲型 5番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B7%BB%E6%B3%A2%E6%94%B9/::ref/471b.png.webp?rev=fce6815193edefc550e7b6843a0570fc&t=20210511085116",
     "wikiUrl": "https://wikiwiki.jp/kancolle/巻波",
     "stages": [
       {
@@ -3763,7 +3780,7 @@
     "hiragana": "まきぐも",
     "type": "駆逐艦",
     "class": "夕雲型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/巻雲/::ref/巻雲_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B7%BB%E9%9B%B2%E6%94%B9%E4%BA%8C/::ref/363.jpg.webp?rev=42f16287c08092b972031681bb0fe12b&t=20181116223632",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B7%BB%E9%9B%B2",
     "stages": [
       {
@@ -3779,7 +3796,8 @@
         "type": "駆逐艦",
         "class": "夕雲型 2番艦",
         "resources": {
-          "改装設計図": 1
+          "改装設計図": 1,
+          "戦闘詳報": 1
         }
       }
     ]
@@ -3789,7 +3807,7 @@
     "hiragana": "やよい",
     "type": "駆逐艦",
     "class": "睦月型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/弥生/::ref/弥生_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%BC%A5%E7%94%9F%E6%94%B9/::ref/164b_2nd.jpg.webp?rev=ab72b65f210bdd5e9aaad9fd7ad70894&t=20181001051200",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%BC%A5%E7%94%9F",
     "stages": [
       {
@@ -3806,7 +3824,7 @@
     "hiragana": "しきなみ",
     "type": "駆逐艦",
     "class": "綾波型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/敷波/::ref/敷波_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%95%B7%E6%B3%A2%E6%94%B9%E4%BA%8C/::ref/427.jpg.webp?rev=9d402594367e48a1a99dbe705d8a2254&t=20200207210811",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%95%B7%E6%B3%A2",
     "stages": [
       {
@@ -3822,7 +3840,7 @@
         "type": "駆逐艦",
         "class": "綾波型 2番艦",
         "resources": {
-          "改装設計図": 1
+          "開発資材": 20
         }
       }
     ]
@@ -3832,7 +3850,7 @@
     "hiragana": "ふみづき",
     "type": "駆逐艦",
     "class": "睦月型 7番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/文月/::ref/文月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%96%87%E6%9C%88%E6%94%B9%E4%BA%8C/::ref/348_2nd.jpg.webp?rev=e52dbf7e72bb1362c257a538f0c069e8&t=20180918062019",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%96%87%E6%9C%88",
     "stages": [
       {
@@ -3858,7 +3876,7 @@
     "hiragana": "はたかぜ",
     "type": "駆逐艦",
     "class": "神風型 5番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/旗風/::ref/旗風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%97%97%E9%A2%A8%E6%94%B9/::ref/275b_2nd.jpg.webp?rev=94901c1bbe52f2d7b62e7022db89e873&t=20181004210149",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%97%97%E9%A2%A8",
     "stages": [
       {
@@ -3875,15 +3893,26 @@
     "hiragana": "はやなみ",
     "type": "駆逐艦",
     "class": "夕雲型 12番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/早波/::ref/早波_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%97%A9%E6%B3%A2%E6%94%B9%E4%BA%8C/::ref/582.png.webp?rev=6074a0dd143993f877e0bfa14e1b37d6&t=20260128212959",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%97%A9%E6%B3%A2",
     "stages": [
       {
-        "level": 30,
+        "level": 35,
         "name": "早波改",
         "type": "駆逐艦",
         "class": "夕雲型 12番艦",
         "resources": {}
+      },
+      {
+        "level": 79,
+        "name": "早波改二",
+        "type": "駆逐艦",
+        "class": "改夕雲型 12番艦",
+        "resources": {
+          "改装設計図": 1,
+          "新型兵装資材": 2,
+          "開発資材": 78
+        }
       }
     ]
   },
@@ -3891,20 +3920,22 @@
     "name": "早潮",
     "hiragana": "はやしお",
     "type": "駆逐艦",
-    "class": "朝潮型 6番艦",
-    "imageUrl": "",
+    "class": "陽炎型 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%97%A9%E6%BD%AE%E6%94%B9%E4%BA%8C/::ref/515.png.webp?rev=09f3c80a3ce5376c13bb3143dcffc1ea&t=20220713194417",
     "wikiUrl": "https://wikiwiki.jp/kancolle/早潮",
     "stages": [
       {
         "level": 37,
         "name": "早潮改",
         "type": "駆逐艦",
+        "class": "陽炎型 5番艦",
         "resources": {}
       },
       {
         "level": 75,
         "name": "早潮改二",
         "type": "駆逐艦",
+        "class": "陽炎型 5番艦",
         "resources": {
           "改装設計図": 1,
           "開発資材": 20
@@ -3917,7 +3948,7 @@
     "hiragana": "はやしも",
     "type": "駆逐艦",
     "class": "夕雲型 17番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/早霜/::ref/早霜_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%97%A9%E9%9C%9C%E6%94%B9%E4%BA%8C/::ref/556.png.webp?rev=11966573362418c55b84963973450a08&t=20241018212459",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%97%A9%E9%9C%9C",
     "stages": [
       {
@@ -3931,7 +3962,7 @@
         "level": 78,
         "name": "早霜改二",
         "type": "駆逐艦",
-        "class": "夕雲型 17番艦",
+        "class": "改夕雲型 17番艦",
         "resources": {
           "改装設計図": 1,
           "戦闘詳報": 1,
@@ -3945,7 +3976,7 @@
     "hiragana": "はるさめ",
     "type": "駆逐艦",
     "class": "白露型 5番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/春雨/::ref/春雨_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%98%A5%E9%9B%A8%E6%94%B9%E4%BA%8C/::ref/575.jpg.webp?rev=0148a27d71bbf0aef0f0159cf37deff4&t=20240410194254",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%98%A5%E9%9B%A8",
     "stages": [
       {
@@ -3956,12 +3987,14 @@
         "resources": {}
       },
       {
-        "level": 82,
+        "level": 78,
         "name": "春雨改二",
         "type": "駆逐艦",
-        "class": "白露型 5番艦",
+        "class": "改装白露型 5番艦",
         "resources": {
-          "改装設計図": 1
+          "戦闘詳報": 1,
+          "高速建造材": 15,
+          "改修資材": 5
         }
       }
     ]
@@ -3971,7 +4004,7 @@
     "hiragana": "はるかぜ",
     "type": "駆逐艦",
     "class": "神風型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/春風/::ref/春風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%98%A5%E9%A2%A8%E6%94%B9/::ref/273b_2nd.jpg.webp?rev=e2934aec8153fa484651b52c821fc7b8&t=20181004183325",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%98%A5%E9%A2%A8",
     "stages": [
       {
@@ -3988,7 +4021,7 @@
     "hiragana": "ときつかぜ",
     "type": "駆逐艦",
     "class": "陽炎型 10番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/時津風/::ref/時津風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%99%82%E6%B4%A5%E9%A2%A8%E6%94%B9/::ref/186b_2nd.jpg.webp?rev=1b580d31a5708731b5b98fdd4c5d9281&t=20181002102458",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%99%82%E6%B4%A5%E9%A2%A8",
     "stages": [
       {
@@ -4005,7 +4038,7 @@
     "hiragana": "しぐれ",
     "type": "駆逐艦",
     "class": "白露型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/時雨/::ref/時雨_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%99%82%E9%9B%A8%E6%94%B9%E4%B8%89/::ref/561.png.webp?rev=20c95d0bee2b8f27303cf1eb23502e30&t=20230614222310",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%99%82%E9%9B%A8",
     "stages": [
       {
@@ -4020,15 +4053,13 @@
         "name": "時雨改二",
         "type": "駆逐艦",
         "class": "白露型 2番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       },
       {
         "level": 97,
         "name": "時雨改三",
         "type": "駆逐艦",
-        "class": "白露型 2番艦",
+        "class": "改装白露型 2番艦",
         "resources": {
           "改装設計図": 2,
           "戦闘詳報": 2,
@@ -4043,7 +4074,7 @@
     "hiragana": "あかつき",
     "type": "駆逐艦",
     "class": "暁型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/暁/::ref/暁_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9A%81%E6%94%B9%E4%BA%8C/::ref/237_2nd.jpg.webp?rev=18f12244538f4d5169b331ba6021b3dc&t=20180913114313",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9A%81",
     "stages": [
       {
@@ -4058,9 +4089,7 @@
         "name": "暁改二",
         "type": "駆逐艦",
         "class": "暁型 1番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -4068,24 +4097,25 @@
     "name": "曙",
     "hiragana": "あけぼの",
     "type": "駆逐艦",
-    "class": "吹雪型 18番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/曙/::ref/曙_card.jpg",
+    "class": "綾波型 8番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9B%99%E6%94%B9%E4%BA%8C/::ref/465.jpg.webp?rev=4407bbbedd86d33654f41ceebd1be104&t=20210301211107",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9B%99",
     "stages": [
       {
         "level": 20,
         "name": "曙改",
         "type": "駆逐艦",
-        "class": "吹雪型 18番艦",
+        "class": "綾波型 8番艦",
         "resources": {}
       },
       {
         "level": 82,
         "name": "曙改二",
         "type": "駆逐艦",
-        "class": "吹雪型 18番艦",
+        "class": "綾波型 8番艦",
         "resources": {
-          "改装設計図": 1
+          "高速建造材": 15,
+          "開発資材": 30
         }
       }
     ]
@@ -4095,15 +4125,18 @@
     "hiragana": "ありあけ",
     "type": "駆逐艦",
     "class": "初春型 5番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/有明/::ref/有明_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9C%89%E6%98%8E%E6%94%B9/::ref/432b.png.webp?rev=ce9d316e4f75b4f8855eeabdcb2c82a2&t=20200712143021",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%89%E6%98%8E",
     "stages": [
       {
-        "level": 30,
+        "level": 48,
         "name": "有明改",
         "type": "駆逐艦",
         "class": "初春型 5番艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 15
+        }
       }
     ]
   },
@@ -4112,7 +4145,7 @@
     "hiragana": "もちづき",
     "type": "駆逐艦",
     "class": "睦月型 11番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/望月/::ref/望月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9C%9B%E6%9C%88%E6%94%B9/::ref/038b_2nd.jpg.webp?rev=df09c15c3df9ac1a3d71f1030d3011fe&t=20180922050942",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%9B%E6%9C%88",
     "stages": [
       {
@@ -4129,7 +4162,7 @@
     "hiragana": "あさしお",
     "type": "駆逐艦",
     "class": "朝潮型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/朝潮/::ref/朝潮_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9C%9D%E6%BD%AE%E6%94%B9%E4%BA%8C%E4%B8%81/::ref/268_2nd.jpg.webp?rev=d8f5773468a509a8e36a00cdca18d508&t=20180915115634",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%9D%E6%BD%AE",
     "stages": [
       {
@@ -4162,7 +4195,7 @@
     "hiragana": "あさぐも",
     "type": "駆逐艦",
     "class": "朝潮型 5番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/朝雲/::ref/朝雲_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9C%9D%E9%9B%B2%E6%94%B9/::ref/213b_2nd.jpg.webp?rev=7c996c52c45b046bfa6d2caf45b80316&t=20181002174552",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%9D%E9%9B%B2",
     "stages": [
       {
@@ -4179,7 +4212,7 @@
     "hiragana": "あさしも",
     "type": "駆逐艦",
     "class": "夕雲型 16番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/朝霜/::ref/朝霜_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9C%9D%E9%9C%9C%E6%94%B9%E4%BA%8C/::ref/378.jpg.webp?rev=e6f572e8a44c6407f8d6de7a7185fd40&t=20191025221253",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%9D%E9%9C%9C",
     "stages": [
       {
@@ -4207,7 +4240,7 @@
     "hiragana": "あさかぜ",
     "type": "駆逐艦",
     "class": "神風型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/朝風/::ref/朝風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9C%9D%E9%A2%A8%E6%94%B9/::ref/272b_2nd.jpg.webp?rev=a0f0584aced5d6bcce9ed2e71a703366&t=20181004183233",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%9D%E9%A2%A8",
     "stages": [
       {
@@ -4223,15 +4256,15 @@
     "name": "朧",
     "hiragana": "おぼろ",
     "type": "駆逐艦",
-    "class": "吹雪型 17番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/朧/::ref/朧_card.jpg",
+    "class": "綾波型 7番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9C%A7%E6%94%B9/::ref/067b_2nd.jpg.webp?rev=17e84fd71b399c5b650a70389bf5c4d3&t=20180925143336",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9C%A7",
     "stages": [
       {
         "level": 20,
         "name": "朧改",
         "type": "駆逐艦",
-        "class": "吹雪型 17番艦",
+        "class": "綾波型 7番艦",
         "resources": {}
       }
     ]
@@ -4240,15 +4273,18 @@
     "name": "杉",
     "hiragana": "すぎ",
     "type": "駆逐艦",
-    "class": "松型 5番艦",
-    "imageUrl": "",
+    "class": "松型 7番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9D%89%E6%94%B9/::ref/597.png.webp?rev=728cb9b6929d737982678f31eeefdd45&t=20250328212152",
     "wikiUrl": "https://wikiwiki.jp/kancolle/杉",
     "stages": [
       {
         "level": 46,
         "name": "杉改",
         "type": "駆逐艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 17,
+          "開発資材": 22
+        }
       }
     ]
   },
@@ -4257,7 +4293,7 @@
     "hiragana": "むらさめ",
     "type": "駆逐艦",
     "class": "白露型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/村雨/::ref/村雨_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9D%91%E9%9B%A8%E6%94%B9%E4%BA%8C/::ref/298_2nd.jpg.webp?rev=8f5617779dd37a016a8d374455c060af&t=20180916131926",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9D%91%E9%9B%A8",
     "stages": [
       {
@@ -4268,12 +4304,12 @@
         "resources": {}
       },
       {
-        "level": 75,
+        "level": 70,
         "name": "村雨改二",
         "type": "駆逐艦",
         "class": "白露型 3番艦",
         "resources": {
-          "改装設計図": 1
+          "戦闘詳報": 1
         }
       }
     ]
@@ -4283,11 +4319,11 @@
     "hiragana": "まつ",
     "type": "駆逐艦",
     "class": "松型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/松/::ref/松_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9D%BE%E6%94%B9/::ref/441b.png.webp?rev=b7fbe49e2fc1bcfaed5626c10a62c84c&t=20200628172049",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9D%BE",
     "stages": [
       {
-        "level": 40,
+        "level": 50,
         "name": "松改",
         "type": "駆逐艦",
         "class": "松型 1番艦",
@@ -4300,7 +4336,7 @@
     "hiragana": "まつかぜ",
     "type": "駆逐艦",
     "class": "神風型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/松風/::ref/松風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9D%BE%E9%A2%A8%E6%94%B9/::ref/274b_2nd.jpg.webp?rev=67796ac86b5236bc05241776ebc12fa5&t=20181004210029",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9D%BE%E9%A2%A8",
     "stages": [
       {
@@ -4317,11 +4353,11 @@
     "hiragana": "もも",
     "type": "駆逐艦",
     "class": "松型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/桃/::ref/桃_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%A1%83%E6%94%B9/::ref/444b.png.webp?rev=e8e63b43c4c027300414ab1f7c2188e3&t=20210509092229",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%A1%83",
     "stages": [
       {
-        "level": 40,
+        "level": 48,
         "name": "桃改",
         "type": "駆逐艦",
         "class": "松型 4番艦",
@@ -4334,15 +4370,18 @@
     "hiragana": "うめ",
     "type": "駆逐艦",
     "class": "松型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/梅/::ref/梅_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%A2%85%E6%94%B9/::ref/443b.png.webp?rev=6b169eec4dc7483ba4adef714e179dc8&t=20220224160857",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%A2%85",
     "stages": [
       {
-        "level": 40,
+        "level": 52,
         "name": "梅改",
         "type": "駆逐艦",
         "class": "松型 3番艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 15
+        }
       }
     ]
   },
@@ -4350,15 +4389,18 @@
     "name": "榧",
     "hiragana": "かや",
     "type": "駆逐艦",
-    "class": "松型 7番艦",
-    "imageUrl": "",
+    "class": "松型 11番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%A6%A7%E6%94%B9/::ref/594b.png.webp?rev=7473e05eac71aae917947e09c583f528&t=20250310203831",
     "wikiUrl": "https://wikiwiki.jp/kancolle/榧",
     "stages": [
       {
         "level": 46,
         "name": "榧改",
         "type": "駆逐艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 17,
+          "開発資材": 22
+        }
       }
     ]
   },
@@ -4366,15 +4408,18 @@
     "name": "樫",
     "hiragana": "かし",
     "type": "駆逐艦",
-    "class": "松型 6番艦",
-    "imageUrl": "",
+    "class": "松型 10番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%A8%AB%E6%94%B9/::ref/593b.png.webp?rev=8783440e05c1b6889687160ff814be24&t=20251111050143",
     "wikiUrl": "https://wikiwiki.jp/kancolle/樫",
     "stages": [
       {
         "level": 46,
         "name": "樫改",
         "type": "駆逐艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 17,
+          "開発資材": 22
+        }
       }
     ]
   },
@@ -4383,7 +4428,7 @@
     "hiragana": "みなづき",
     "type": "駆逐艦",
     "class": "睦月型 6番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/水無月/::ref/水無月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%B0%B4%E7%84%A1%E6%9C%88%E6%94%B9/::ref/281b_2nd.jpg.webp?rev=1aed742e50edb0ecc7e27b1a1163a670&t=20181005052644",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B0%B4%E7%84%A1%E6%9C%88",
     "stages": [
       {
@@ -4400,7 +4445,7 @@
     "hiragana": "かわかぜ",
     "type": "駆逐艦",
     "class": "白露型 9番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/江風/::ref/江風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%B1%9F%E9%A2%A8%E6%94%B9%E4%BA%8C/::ref/269_2nd.jpg.webp?rev=ac8a52dc85904bf030ec7fda3544ab54&t=20180915161038",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B1%9F%E9%A2%A8",
     "stages": [
       {
@@ -4426,7 +4471,7 @@
     "hiragana": "おきなみ",
     "type": "駆逐艦",
     "class": "夕雲型 14番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/沖波/::ref/沖波_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%B2%96%E6%B3%A2%E6%94%B9%E4%BA%8C/::ref/369.jpg.webp?rev=e9cf030a096155a3e0059aaf3da6b597&t=20200319163133",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B2%96%E6%B3%A2",
     "stages": [
       {
@@ -4454,7 +4499,7 @@
     "hiragana": "はまなみ",
     "type": "駆逐艦",
     "class": "夕雲型 13番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/浜波/::ref/浜波_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%B5%9C%E6%B3%A2%E6%94%B9%E4%BA%8C/::ref/583_Summer.png.webp?rev=49a0551c5685e40241f1a074ee662332&t=20250701220846",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B5%9C%E6%B3%A2",
     "stages": [
       {
@@ -4482,7 +4527,7 @@
     "hiragana": "はまかぜ",
     "type": "駆逐艦",
     "class": "陽炎型 13番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/浜風/::ref/浜風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%B5%9C%E9%A2%A8%E4%B9%99%E6%94%B9/::ref/358_2nd.jpg.webp?rev=98027d1405e182a0fef6da7f711f8a17&t=20180918134914",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B5%9C%E9%A2%A8",
     "stages": [
       {
@@ -4497,7 +4542,10 @@
         "name": "浜風乙改",
         "type": "駆逐艦",
         "class": "陽炎型 13番艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 40
+        }
       }
     ]
   },
@@ -4506,7 +4554,7 @@
     "hiragana": "うらなみ",
     "type": "駆逐艦",
     "class": "吹雪型 10番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/浦波/::ref/浦波_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%B5%A6%E6%B3%A2%E6%94%B9%E4%BA%8C/::ref/447.png.webp?rev=4d2ec85cfe79ae4929dd53985ce5168e&t=20220401203013",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B5%A6%E6%B3%A2",
     "stages": [
       {
@@ -4517,7 +4565,7 @@
         "resources": {}
       },
       {
-        "level": 80,
+        "level": 78,
         "name": "浦波改二",
         "type": "駆逐艦",
         "class": "吹雪型 10番艦",
@@ -4533,7 +4581,7 @@
     "hiragana": "うらかぜ",
     "type": "駆逐艦",
     "class": "陽炎型 11番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/浦風/::ref/浦風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%B5%A6%E9%A2%A8%E4%B8%81%E6%94%B9/::ref/356_2nd.jpg.webp?rev=4deed3ab26b5cdb488e61e6f2263a310&t=20180918131122",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B5%A6%E9%A2%A8",
     "stages": [
       {
@@ -4548,7 +4596,10 @@
         "name": "浦風丁改",
         "type": "駆逐艦",
         "class": "陽炎型 11番艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 40
+        }
       }
     ]
   },
@@ -4557,7 +4608,7 @@
     "hiragana": "うみかぜ",
     "type": "駆逐艦",
     "class": "白露型 7番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/海風/::ref/海風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%B5%B7%E9%A2%A8%E6%94%B9%E4%BA%8C/::ref/387.jpg.webp?rev=f0e6ffcf2cde38a9fa15e557fbb81dde&t=20190625204017",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B5%B7%E9%A2%A8",
     "stages": [
       {
@@ -4573,7 +4624,7 @@
         "type": "駆逐艦",
         "class": "白露型 7番艦",
         "resources": {
-          "改装設計図": 1,
+          "開発資材": 30,
           "戦闘詳報": 1
         }
       }
@@ -4584,7 +4635,7 @@
     "hiragana": "すずつき",
     "type": "駆逐艦",
     "class": "秋月型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/涼月/::ref/涼月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%B6%BC%E6%9C%88%E6%94%B9/::ref/337_2nd.jpg.webp?rev=72c1bccae07fea063693a2ddc2cd0092&t=20180917183833",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B6%BC%E6%9C%88",
     "stages": [
       {
@@ -4601,7 +4652,7 @@
     "hiragana": "すずなみ",
     "type": "駆逐艦",
     "class": "夕雲型 8番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%B6%BC%E6%B3%A2%E6%94%B9/::ref/475b.png.webp?rev=449f4728d1d0c33fb3482c9a9d4b2409&t=20210525124210",
     "wikiUrl": "https://wikiwiki.jp/kancolle/涼波",
     "stages": [
       {
@@ -4617,7 +4668,7 @@
     "hiragana": "すずかぜ",
     "type": "駆逐艦",
     "class": "白露型 10番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/涼風/::ref/涼風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%B6%BC%E9%A2%A8%E6%94%B9/::ref/084b_2nd.jpg.webp?rev=1bb93dc75b2386049541491ddf8db485&t=20180927044539",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B6%BC%E9%A2%A8",
     "stages": [
       {
@@ -4634,7 +4685,7 @@
     "hiragana": "みゆき",
     "type": "駆逐艦",
     "class": "吹雪型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/深雪/::ref/深雪_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%B7%B1%E9%9B%AA%E6%94%B9%E4%BA%8C/::ref/559.png.webp?rev=ec334d79233266f62011d1084d94f5dd&t=20230423210324",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B7%B1%E9%9B%AA",
     "stages": [
       {
@@ -4645,7 +4696,7 @@
         "resources": {}
       },
       {
-        "level": 82,
+        "level": 88,
         "name": "深雪改二",
         "type": "駆逐艦",
         "class": "吹雪型 4番艦",
@@ -4661,7 +4712,7 @@
     "hiragana": "きよしも",
     "type": "駆逐艦",
     "class": "夕雲型 19番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/清霜/::ref/清霜_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%B8%85%E9%9C%9C%E6%94%B9%E4%BA%8C%E4%B8%81/::ref/560.png.webp?rev=c7498bf4efa4196ba41d6bc91ff5f2ab&t=20231011211238",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%B8%85%E9%9C%9C",
     "stages": [
       {
@@ -4675,7 +4726,7 @@
         "level": 86,
         "name": "清霜改二",
         "type": "駆逐艦",
-        "class": "夕雲型 19番艦",
+        "class": "改夕雲型 19番艦",
         "resources": {
           "改装設計図": 1,
           "戦闘詳報": 1,
@@ -4686,7 +4737,7 @@
         "level": 86,
         "name": "清霜改二丁",
         "type": "駆逐艦",
-        "class": "夕雲型 19番艦",
+        "class": "改夕雲型 19番艦",
         "resources": {
           "高速建造材": 10,
           "開発資材": 10
@@ -4699,7 +4750,7 @@
     "hiragana": "みちしお",
     "type": "駆逐艦",
     "class": "朝潮型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/満潮/::ref/満潮_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%BA%80%E6%BD%AE%E6%94%B9%E4%BA%8C/::ref/289_2nd.jpg.webp?rev=886062663459a3f030bb665ed8f58003&t=20180916053914",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%BA%80%E6%BD%AE",
     "stages": [
       {
@@ -4714,9 +4765,7 @@
         "name": "満潮改二",
         "type": "駆逐艦",
         "class": "朝潮型 3番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -4724,15 +4773,15 @@
     "name": "漣",
     "hiragana": "さざなみ",
     "type": "駆逐艦",
-    "class": "吹雪型 19番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/漣/::ref/漣_card.jpg",
+    "class": "綾波型 9番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%BC%A3%E6%94%B9/::ref/069b_2nd.jpg.webp?rev=2144271b1386db208d0a35db88356797&t=20180925144033",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%BC%A3",
     "stages": [
       {
         "level": 20,
         "name": "漣改",
         "type": "駆逐艦",
-        "class": "吹雪型 19番艦",
+        "class": "綾波型 9番艦",
         "resources": {}
       }
     ]
@@ -4741,25 +4790,23 @@
     "name": "潮",
     "hiragana": "うしお",
     "type": "駆逐艦",
-    "class": "吹雪型 20番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/潮/::ref/潮_card.jpg",
+    "class": "綾波型 10番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%BD%AE%E6%94%B9%E4%BA%8C/::ref/207_2nd.jpg.webp?rev=967ad99367cfcdb2caaa8878e3b8ff19&t=20180911193413",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%BD%AE",
     "stages": [
       {
         "level": 20,
         "name": "潮改",
         "type": "駆逐艦",
-        "class": "吹雪型 20番艦",
+        "class": "綾波型 10番艦",
         "resources": {}
       },
       {
         "level": 60,
         "name": "潮改二",
         "type": "駆逐艦",
-        "class": "吹雪型 20番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "class": "綾波型 10番艦",
+        "resources": {}
       }
     ]
   },
@@ -4768,7 +4815,7 @@
     "hiragana": "てるづき",
     "type": "駆逐艦",
     "class": "秋月型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/照月/::ref/照月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%85%A7%E6%9C%88%E6%94%B9/::ref/222b_2nd.jpg.webp?rev=2d86077dceb8786f6d1a142277476ff1&t=20181002220243",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%85%A7%E6%9C%88",
     "stages": [
       {
@@ -4784,15 +4831,15 @@
     "name": "狭霧",
     "hiragana": "さぎり",
     "type": "駆逐艦",
-    "class": "綾波型 14番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/狭霧/::ref/狭霧_card.jpg",
+    "class": "綾波型 6番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%8B%AD%E9%9C%A7%E6%94%B9/::ref/280b_2nd.jpg.webp?rev=dca265dd37d781bb62c988229f7ad41d&t=20181005051016",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%8B%AD%E9%9C%A7",
     "stages": [
       {
         "level": 30,
         "name": "狭霧改",
         "type": "駆逐艦",
-        "class": "綾波型 14番艦",
+        "class": "綾波型 6番艦",
         "resources": {}
       }
     ]
@@ -4802,7 +4849,7 @@
     "hiragana": "たまなみ",
     "type": "駆逐艦",
     "class": "夕雲型 7番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%8E%89%E6%B3%A2%E6%94%B9/::ref/474b.png.webp?rev=37bca6291ac59c00caaa34bac4da23a1&t=20220308183831",
     "wikiUrl": "https://wikiwiki.jp/kancolle/玉波",
     "stages": [
       {
@@ -4818,7 +4865,7 @@
     "hiragana": "しらゆき",
     "type": "駆逐艦",
     "class": "吹雪型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/白雪/::ref/白雪_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%99%BD%E9%9B%AA%E6%94%B9%E4%BA%8C/::ref/586.png.webp?rev=04080f473662dcd32696211f779ee52c&t=20250128205835",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%99%BD%E9%9B%AA",
     "stages": [
       {
@@ -4846,7 +4893,7 @@
     "hiragana": "しらくも",
     "type": "駆逐艦",
     "class": "吹雪型 7番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%99%BD%E9%9B%B2%E6%94%B9/::ref/564b.png.webp?rev=7feaa66743f22203431760a786520255&t=20230815194228",
     "wikiUrl": "https://wikiwiki.jp/kancolle/白雲",
     "stages": [
       {
@@ -4862,7 +4909,7 @@
     "hiragana": "しらつゆ",
     "type": "駆逐艦",
     "class": "白露型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/白露/::ref/白露_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%99%BD%E9%9C%B2%E6%94%B9%E4%BA%8C/::ref/297_2nd.jpg.webp?rev=65cd245771658ad80e4d1eb1e59aa9da&t=20180916131707",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%99%BD%E9%9C%B2",
     "stages": [
       {
@@ -4877,7 +4924,10 @@
         "name": "白露改二",
         "type": "駆逐艦",
         "class": "白露型 1番艦",
-        "resources": {}
+        "resources": {
+          "戦闘詳報": 1,
+          "開発資材": 15
+        }
       }
     ]
   },
@@ -4886,7 +4936,7 @@
     "hiragana": "さつき",
     "type": "駆逐艦",
     "class": "睦月型 5番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/皐月/::ref/皐月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%9A%90%E6%9C%88%E6%94%B9%E4%BA%8C/::ref/218_2nd.jpg.webp?rev=b7cbc52d333fcdafe36982fa21179181&t=20180912153321",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%9A%90%E6%9C%88",
     "stages": [
       {
@@ -4901,9 +4951,7 @@
         "name": "皐月改二",
         "type": "駆逐艦",
         "class": "睦月型 5番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -4912,7 +4960,7 @@
     "hiragana": "むつき",
     "type": "駆逐艦",
     "class": "睦月型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/睦月/::ref/睦月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%9D%A6%E6%9C%88%E6%94%B9%E4%BA%8C/::ref/234_2nd.jpg.webp?rev=8700cb90a55a3e0cbf554b10f6aeaceb&t=20180913062615",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%9D%A6%E6%9C%88",
     "stages": [
       {
@@ -4927,9 +4975,7 @@
         "name": "睦月改二",
         "type": "駆逐艦",
         "class": "睦月型 1番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       }
     ]
   },
@@ -4938,7 +4984,7 @@
     "hiragana": "いそなみ",
     "type": "駆逐艦",
     "class": "吹雪型 9番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/磯波/::ref/磯波_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A3%AF%E6%B3%A2%E6%94%B9%E4%BA%8C/::ref/466.png.webp?rev=584631a2d7e08c5f81170eee4a464cc5&t=20220513201304",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A3%AF%E6%B3%A2",
     "stages": [
       {
@@ -4966,7 +5012,7 @@
     "hiragana": "いそかぜ",
     "type": "駆逐艦",
     "class": "陽炎型 12番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/磯風/::ref/磯風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A3%AF%E9%A2%A8%E4%B9%99%E6%94%B9/::ref/357_2nd.jpg.webp?rev=c74b4682639011c1d2aa509b30d5fcca&t=20180918131155",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A3%AF%E9%A2%A8",
     "stages": [
       {
@@ -4981,7 +5027,10 @@
         "name": "磯風乙改",
         "type": "駆逐艦",
         "class": "陽炎型 12番艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 40
+        }
       }
     ]
   },
@@ -4990,7 +5039,7 @@
     "hiragana": "かみかぜ",
     "type": "駆逐艦",
     "class": "神風型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/神風/::ref/神風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A5%9E%E9%A2%A8%E6%94%B9/::ref/276_2nd.jpg.webp?rev=b08de534b931f9a999906d436eca23be&t=20180915175858",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A5%9E%E9%A2%A8",
     "stages": [
       {
@@ -5007,7 +5056,7 @@
     "hiragana": "あきづき",
     "type": "駆逐艦",
     "class": "秋月型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/秋月/::ref/秋月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A7%8B%E6%9C%88%E6%94%B9%E4%BA%8C/::ref/563.png.webp?rev=8b6cd99e75c87e9b46c0c496ca93534f&t=20251218203841",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A7%8B%E6%9C%88",
     "stages": [
       {
@@ -5022,7 +5071,12 @@
         "name": "秋月改二",
         "type": "駆逐艦",
         "class": "秋月型 1番艦",
-        "resources": {}
+        "resources": {
+          "改装設計図": 1,
+          "新型兵装資材": 2,
+          "戦闘詳報": 1,
+          "開発資材": 30
+        }
       }
     ]
   },
@@ -5031,7 +5085,7 @@
     "hiragana": "あきぐも",
     "type": "駆逐艦",
     "class": "陽炎型 19番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/秋雲/::ref/秋雲_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A7%8B%E9%9B%B2%E6%94%B9%E4%BA%8C/::ref/448.jpg.webp?rev=a83ba2d509039ccb37437c0703bd25e5&t=20201016200712",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A7%8B%E9%9B%B2",
     "stages": [
       {
@@ -5059,7 +5113,7 @@
     "hiragana": "あきしも",
     "type": "駆逐艦",
     "class": "夕雲型 18番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/秋霜/::ref/秋霜_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A7%8B%E9%9C%9C%E6%94%B9/::ref/425b.png.webp?rev=8112cf966f8d136053ee5e27385e60f1&t=20191208113457",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A7%8B%E9%9C%9C",
     "stages": [
       {
@@ -5076,11 +5130,11 @@
     "hiragana": "たけ",
     "type": "駆逐艦",
     "class": "松型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/竹/::ref/竹_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%AB%B9%E6%94%B9/::ref/442b.png.webp?rev=6bb2f72ecae64c40101cd325ea039389&t=20201211134732",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%AB%B9",
     "stages": [
       {
-        "level": 40,
+        "level": 51,
         "name": "竹改",
         "type": "駆逐艦",
         "class": "松型 2番艦",
@@ -5093,7 +5147,7 @@
     "hiragana": "あやなみ",
     "type": "駆逐艦",
     "class": "綾波型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/綾波/::ref/綾波_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%B6%BE%E6%B3%A2%E6%94%B9%E4%BA%8C/::ref/195_2nd.jpg.webp?rev=465c5604c200f09097040c0b4f50c380&t=20180910230810",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%B6%BE%E6%B3%A2",
     "stages": [
       {
@@ -5119,7 +5173,7 @@
     "hiragana": "まいかぜ",
     "type": "駆逐艦",
     "class": "陽炎型 18番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/舞風/::ref/舞風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%88%9E%E9%A2%A8%E6%94%B9/::ref/119b_2nd.jpg.webp?rev=d327a637dfa7592d6b973e48dc59fc16&t=20180929120812",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%88%9E%E9%A2%A8",
     "stages": [
       {
@@ -5136,7 +5190,7 @@
     "hiragana": "わかば",
     "type": "駆逐艦",
     "class": "初春型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/若葉/::ref/若葉_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%8B%A5%E8%91%89%E6%94%B9/::ref/077b_2nd.jpg.webp?rev=0a4ec46d86aee5e21a834d36dafcd854&t=20180926143518",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%8B%A5%E8%91%89",
     "stages": [
       {
@@ -5153,7 +5207,7 @@
     "hiragana": "あらしお",
     "type": "駆逐艦",
     "class": "朝潮型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/荒潮/::ref/荒潮_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%8D%92%E6%BD%AE%E6%94%B9%E4%BA%8C/::ref/290_2nd.jpg.webp?rev=9d927f517c4af74cf02f59c2b20a4aff&t=20180916054002",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%8D%92%E6%BD%AE",
     "stages": [
       {
@@ -5179,7 +5233,7 @@
     "hiragana": "きくづき",
     "type": "駆逐艦",
     "class": "睦月型 9番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/菊月/::ref/菊月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%8F%8A%E6%9C%88%E6%94%B9/::ref/036b_2nd.jpg.webp?rev=ba9ec66501a61134d299e59817492f9d&t=20180921183636",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%8F%8A%E6%9C%88",
     "stages": [
       {
@@ -5196,7 +5250,7 @@
     "hiragana": "はぎかぜ",
     "type": "駆逐艦",
     "class": "陽炎型 17番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/萩風/::ref/萩風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%90%A9%E9%A2%A8%E6%94%B9/::ref/255b_2nd.jpg.webp?rev=57536e3ae3fa192457feb440a65bc103&t=20181004115902",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%90%A9%E9%A2%A8",
     "stages": [
       {
@@ -5213,11 +5267,11 @@
     "hiragana": "うすぐも",
     "type": "駆逐艦",
     "class": "吹雪型 7番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/薄雲/::ref/薄雲_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%96%84%E9%9B%B2%E6%94%B9/::ref/431b.png.webp?rev=3a9b0d6a7be5af56d852a091b88e4afa&t=20200627141046",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%96%84%E9%9B%B2",
     "stages": [
       {
-        "level": 30,
+        "level": 40,
         "name": "薄雲改",
         "type": "駆逐艦",
         "class": "吹雪型 7番艦",
@@ -5230,7 +5284,7 @@
     "hiragana": "ふじなみ",
     "type": "駆逐艦",
     "class": "夕雲型 11番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/藤波/::ref/藤波_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%97%A4%E6%B3%A2%E6%94%B9%E4%BA%8C/::ref/581_Summer.png.webp?rev=27775c1f3b3e54dc933f566b897513e5&t=20250701220628",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%97%A4%E6%B3%A2",
     "stages": [
       {
@@ -5257,7 +5311,7 @@
     "hiragana": "おやしお",
     "type": "駆逐艦",
     "class": "陽炎型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/親潮/::ref/親潮_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%A6%AA%E6%BD%AE%E6%94%B9%E4%BA%8C/::ref/470.png.webp?rev=ad856b3cbc659c61e7ed1fa42b7e504e&t=20211015201022",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%A6%AA%E6%BD%AE",
     "stages": [
       {
@@ -5268,7 +5322,7 @@
         "resources": {}
       },
       {
-        "level": 80,
+        "level": 74,
         "name": "親潮改二",
         "type": "駆逐艦",
         "class": "陽炎型 4番艦",
@@ -5284,7 +5338,7 @@
     "hiragana": "たにかぜ",
     "type": "駆逐艦",
     "class": "陽炎型 14番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/谷風/::ref/谷風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%B0%B7%E9%A2%A8%E4%B8%81%E6%94%B9/::ref/359.jpg.webp?rev=2e0f6a2582ea2540538f1ac8cf733ad5&t=20181026200634",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%B0%B7%E9%A2%A8",
     "stages": [
       {
@@ -5299,7 +5353,10 @@
         "name": "谷風丁改",
         "type": "駆逐艦",
         "class": "陽炎型 14番艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 20,
+          "開発資材": 50
+        }
       }
     ]
   },
@@ -5308,7 +5365,7 @@
     "hiragana": "のわき",
     "type": "駆逐艦",
     "class": "陽炎型 15番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/野分/::ref/野分_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%87%8E%E5%88%86%E6%94%B9/::ref/215b_2nd.jpg.webp?rev=a6bb4e172d3e30ab31ebd7c23391bcdc&t=20181002175009",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%87%8E%E5%88%86",
     "stages": [
       {
@@ -5325,7 +5382,7 @@
     "hiragana": "ながつき",
     "type": "駆逐艦",
     "class": "睦月型 8番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/長月/::ref/長月_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%95%B7%E6%9C%88%E6%94%B9/::ref/035b_2nd.jpg.webp?rev=4187df8dac79d0b9006a2afa04d21b59&t=20180921183500",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%95%B7%E6%9C%88",
     "stages": [
       {
@@ -5342,7 +5399,7 @@
     "hiragana": "ながなみ",
     "type": "駆逐艦",
     "class": "夕雲型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/長波/::ref/長波_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%95%B7%E6%B3%A2%E6%94%B9%E4%BA%8C/::ref/343_2nd.jpg.webp?rev=656d7cfbb0f368d07edfe2d0f346eab7&t=20180917195643",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%95%B7%E6%B3%A2",
     "stages": [
       {
@@ -5369,7 +5426,7 @@
     "hiragana": "かげろう",
     "type": "駆逐艦",
     "class": "陽炎型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/陽炎/::ref/陽炎_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%99%BD%E7%82%8E%E6%94%B9%E4%BA%8C/::ref/366_2nd.jpg.webp?rev=57f17784ad0cf30351de938d33bd5124&t=20180918161914",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%99%BD%E7%82%8E",
     "stages": [
       {
@@ -5385,7 +5442,8 @@
         "type": "駆逐艦",
         "class": "陽炎型 1番艦",
         "resources": {
-          "改装設計図": 1
+          "改装設計図": 1,
+          "開発資材": 20
         }
       }
     ]
@@ -5395,7 +5453,7 @@
     "hiragana": "ゆきかぜ",
     "type": "駆逐艦",
     "class": "陽炎型 8番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/雪風/::ref/雪風_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%9B%AA%E9%A2%A8%E6%94%B9%E4%BA%8C/::ref/456.jpg.webp?rev=4b57488652ca361a39ce5e33574dad94&t=20201113202616",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9B%AA%E9%A2%A8",
     "stages": [
       {
@@ -5409,16 +5467,18 @@
         "level": 71,
         "name": "丹陽",
         "type": "駆逐艦",
-        "class": "雪風型 1番艦",
+        "class": "改装陽炎型",
         "resources": {
-          "改装設計図": 1
+          "改装設計図": 1,
+          "新型兵装資材": 2,
+          "開発資材": 50
         }
       },
       {
         "level": 88,
         "name": "雪風改二",
         "type": "駆逐艦",
-        "class": "陽炎型 8番艦",
+        "class": "改陽炎型 8番艦",
         "resources": {
           "改装設計図": 2,
           "戦闘詳報": 1,
@@ -5433,7 +5493,7 @@
     "hiragana": "いかずち",
     "type": "駆逐艦",
     "class": "暁型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/雷/::ref/雷_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%9B%B7%E6%94%B9/::ref/073b_2nd.jpg.webp?rev=e10d7cb670fc7f8a6866b68eda9a9f2b&t=20180926111354",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9B%B7",
     "stages": [
       {
@@ -5450,7 +5510,7 @@
     "hiragana": "いなづま",
     "type": "駆逐艦",
     "class": "暁型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/電/::ref/電_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%9B%BB%E6%94%B9/::ref/074b_2nd.jpg.webp?rev=d9f8dabec2f469ac86eb6a962363b035&t=20180926111635",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9B%BB",
     "stages": [
       {
@@ -5467,7 +5527,7 @@
     "hiragana": "かすみ",
     "type": "駆逐艦",
     "class": "朝潮型 10番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/霞/::ref/霞_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%9C%9E%E6%94%B9%E4%BA%8C%E4%B9%99/::ref/270_2nd.jpg.webp?rev=df437d6ddc0270d164838067f37ee4d0&t=20180915161131",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9C%9E",
     "stages": [
       {
@@ -5482,9 +5542,7 @@
         "name": "霞改二",
         "type": "駆逐艦",
         "class": "朝潮型 10番艦",
-        "resources": {
-          "改装設計図": 1
-        }
+        "resources": {}
       },
       {
         "level": 88,
@@ -5500,7 +5558,7 @@
     "hiragana": "あられ",
     "type": "駆逐艦",
     "class": "朝潮型 9番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/霰/::ref/霰_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%9C%B0%E6%94%B9%E4%BA%8C/::ref/198_2nd.jpg.webp?rev=2808ca4f1379380395f965142c0e4eca&t=20180911145021",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9C%B0",
     "stages": [
       {
@@ -5526,7 +5584,7 @@
     "hiragana": "ひびき",
     "type": "駆逐艦",
     "class": "暁型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/響/::ref/響_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%D0%92%D0%B5%D1%80%D0%BD%D1%8B%D0%B9/::ref/147_2nd.jpg.webp?rev=c33fc83260729b74ceb586e291ec362e&t=20180908171411",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%9F%BF",
     "stages": [
       {
@@ -5550,7 +5608,7 @@
     "hiragana": "かざぐも",
     "type": "駆逐艦",
     "class": "夕雲型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/風雲/::ref/風雲_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%A2%A8%E9%9B%B2%E6%94%B9%E4%BA%8C/::ref/364.jpg.webp?rev=49286f268fcb2d5d76aa3def8ce2310d&t=20190208204925",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%A2%A8%E9%9B%B2",
     "stages": [
       {
@@ -5577,7 +5635,7 @@
     "hiragana": "たかなみ",
     "type": "駆逐艦",
     "class": "夕雲型 6番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/高波/::ref/高波_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%AB%98%E6%B3%A2%E6%94%B9%E4%BA%8C/::ref/449_2.png.webp?rev=d92007d5033a3d33f9e1158d334031c2&t=20210928205038",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%AB%98%E6%B3%A2",
     "stages": [
       {
@@ -5605,7 +5663,7 @@
     "hiragana": "くろしお",
     "type": "駆逐艦",
     "class": "陽炎型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/黒潮/::ref/黒潮_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%BB%92%E6%BD%AE%E6%94%B9%E4%BA%8C/::ref/368_2nd.jpg.webp?rev=e6c7ff2d0710a94cc493a5c2af5ee2a3&t=20180918162105",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%BB%92%E6%BD%AE",
     "stages": [
       {
@@ -5632,7 +5690,7 @@
     "hiragana": "さど",
     "type": "海防艦",
     "class": "択捉型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/佐渡/::ref/佐渡_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BD%90%E6%B8%A1%E6%94%B9/::ref/339b_2nd.jpg.webp?rev=d41633e40f5fcd5363515172f2fe58b7&t=20181006152112",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BD%90%E6%B8%A1",
     "stages": [
       {
@@ -5648,8 +5706,8 @@
     "name": "倉橋",
     "hiragana": "くらはし",
     "type": "海防艦",
-    "class": "御蔵型 3番艦",
-    "imageUrl": "",
+    "class": "御蔵型 5番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%80%89%E6%A9%8B%E6%94%B9/::ref/510.png.webp?rev=5a90ae1415b5cce7274aef10ea33d856&t=20220618223432",
     "wikiUrl": "https://wikiwiki.jp/kancolle/倉橋",
     "stages": [
       {
@@ -5665,7 +5723,7 @@
     "hiragana": "はちじょう",
     "type": "海防艦",
     "class": "占守型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/八丈/::ref/八丈_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%85%AB%E4%B8%88%E6%94%B9/::ref/384b.png.webp?rev=f49045c89a58541d1e5b7a8341ecb3d4&t=20190524084141",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%85%AB%E4%B8%88",
     "stages": [
       {
@@ -5682,7 +5740,7 @@
     "hiragana": "しむしゅ",
     "type": "海防艦",
     "class": "占守型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/占守/::ref/占守_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%8D%A0%E5%AE%88%E6%94%B9/::ref/317b_2nd.jpg.webp?rev=9cf892025f272649757ddc428a1acb34&t=20181006062628",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8D%A0%E5%AE%88",
     "stages": [
       {
@@ -5699,7 +5757,7 @@
     "hiragana": "くなしり",
     "type": "海防艦",
     "class": "占守型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/国後/::ref/国後_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%9B%BD%E5%BE%8C%E6%94%B9/::ref/318b_2nd.jpg.webp?rev=80dd2cdb593fee4b7a799b8b3a020e18&t=20181006062742",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%9B%BD%E5%BE%8C",
     "stages": [
       {
@@ -5716,7 +5774,7 @@
     "hiragana": "だいとう",
     "type": "海防艦",
     "class": "日振型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大東/::ref/大東_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%A7%E6%9D%B1%E6%94%B9/::ref/352b_2nd.jpg.webp?rev=0ae88855388705ef7544d2c5bb577cdd&t=20181006194430",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E6%9D%B1",
     "stages": [
       {
@@ -5732,15 +5790,15 @@
     "name": "対馬",
     "hiragana": "つしま",
     "type": "海防艦",
-    "class": "択捉型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/対馬/::ref/対馬_card.jpg",
+    "class": "択捉型 7番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%AF%BE%E9%A6%AC%E6%94%B9/::ref/340b_2nd.jpg.webp?rev=a15e514267390669a89777c71eca3861&t=20181006152349",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%AF%BE%E9%A6%AC",
     "stages": [
       {
-        "level": 37,
+        "level": 47,
         "name": "対馬改",
         "type": "海防艦",
-        "class": "択捉型 4番艦",
+        "class": "択捉型 7番艦",
         "resources": {}
       }
     ]
@@ -5750,11 +5808,11 @@
     "hiragana": "やしろ",
     "type": "海防艦",
     "class": "御蔵型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/屋代/::ref/屋代_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B1%8B%E4%BB%A3%E6%94%B9/::ref/417.png.webp?rev=1854679c3bf4d937ccc30f195a9f338d&t=20200715214347",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B1%8B%E4%BB%A3",
     "stages": [
       {
-        "level": 37,
+        "level": 45,
         "name": "屋代改",
         "type": "海防艦",
         "class": "御蔵型 2番艦",
@@ -5766,15 +5824,15 @@
     "name": "平戸",
     "hiragana": "ひらど",
     "type": "海防艦",
-    "class": "択捉型 13番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/平戸/::ref/平戸_card.jpg",
+    "class": "択捉型 9番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B9%B3%E6%88%B8%E6%94%B9/::ref/370b.png.webp?rev=4b747ec18272a511af2eaf9be1e7093f&t=20191209185628",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%B9%B3%E6%88%B8",
     "stages": [
       {
-        "level": 37,
+        "level": 48,
         "name": "平戸改",
         "type": "海防艦",
-        "class": "択捉型 13番艦",
+        "class": "択捉型 9番艦",
         "resources": {}
       }
     ]
@@ -5784,11 +5842,11 @@
     "hiragana": "みくら",
     "type": "海防艦",
     "class": "御蔵型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/御蔵/::ref/御蔵_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%BE%A1%E8%94%B5%E6%94%B9/::ref/416.png.webp?rev=9d3dadb04c49541350c5dc344afb3841&t=20190831161121",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%BE%A1%E8%94%B5",
     "stages": [
       {
-        "level": 37,
+        "level": 45,
         "name": "御蔵改",
         "type": "海防艦",
         "class": "御蔵型 1番艦",
@@ -5801,7 +5859,7 @@
     "hiragana": "えとろふ",
     "type": "海防艦",
     "class": "択捉型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/択捉/::ref/択捉_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%8A%9E%E6%8D%89%E6%94%B9/::ref/334d.png.webp?rev=0b9b3c57f46f175c86c0e7c419f1ec0d&t=20181004090851",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%8A%9E%E6%8D%89",
     "stages": [
       {
@@ -5818,7 +5876,7 @@
     "hiragana": "ひぶり",
     "type": "海防艦",
     "class": "日振型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/日振/::ref/日振_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%97%A5%E6%8C%AF%E6%94%B9/::ref/351b_2nd.jpg.webp?rev=350fdfcee20d2197795f43cfe959f897&t=20181006194352",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%97%A5%E6%8C%AF",
     "stages": [
       {
@@ -5835,7 +5893,7 @@
     "hiragana": "しょうなん",
     "type": "海防艦",
     "class": "日振型 3番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%98%AD%E5%8D%97%E6%94%B9/::ref/495b.png.webp?rev=6931035f2d1c525cfb689c300c32c5ce&t=20211121070252",
     "wikiUrl": "https://wikiwiki.jp/kancolle/昭南",
     "stages": [
       {
@@ -5851,7 +5909,7 @@
     "hiragana": "まつわ",
     "type": "海防艦",
     "class": "択捉型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/松輪/::ref/松輪_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%9D%BE%E8%BC%AA%E6%94%B9/::ref/335c.png.webp?rev=9f6721a5115bc62b84d9ed7c8ba485af&t=20181004091455",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%9D%BE%E8%BC%AA",
     "stages": [
       {
@@ -5868,7 +5926,7 @@
     "hiragana": "いしがき",
     "type": "海防艦",
     "class": "占守型 4番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/石垣/::ref/石垣_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%9F%B3%E5%9E%A3%E6%94%B9/::ref/385b.jpg.webp?rev=f804c2ee07b6a275d416931bf8fddb58&t=20190524194940",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%9F%B3%E5%9E%A3",
     "stages": [
       {
@@ -5885,11 +5943,11 @@
     "hiragana": "ふかえ",
     "type": "海防艦",
     "class": "択捉型 10番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/福江/::ref/福江_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A6%8F%E6%B1%9F%E6%94%B9/::ref/365b_2nd.jpg.webp?rev=d0de9809d79a45b8aa0cf3c9c511ab09&t=20181006194740",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A6%8F%E6%B1%9F",
     "stages": [
       {
-        "level": 37,
+        "level": 48,
         "name": "福江改",
         "type": "海防艦",
         "class": "択捉型 10番艦",
@@ -5902,7 +5960,7 @@
     "hiragana": "いなぎ",
     "type": "海防艦",
     "class": "鵜来型 2番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A8%B2%E6%9C%A8%E6%94%B9%E4%BA%8C/::ref/579.png.webp?rev=c66e71b87bd2a6b2871e479aa47c6d2c&t=20240529202704",
     "wikiUrl": "https://wikiwiki.jp/kancolle/稲木",
     "stages": [
       {
@@ -5925,14 +5983,14 @@
   },
   {
     "name": "第三〇号海防艦",
-    "hiragana": "だいさんじゅうごうかいぼうかん",
+    "hiragana": "だいさんじゅうごう",
     "type": "海防艦",
     "class": "丁型海防艦 15番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/第三〇号海防艦/::ref/第三〇号海防艦_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%AC%AC%E4%B8%89%E3%80%87%E5%8F%B7%E6%B5%B7%E9%98%B2%E8%89%A6%E6%94%B9/::ref/438b.png.webp?rev=1166c15464997c8e2a76260a73f47412&t=20210906083550",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%AC%AC%E4%B8%89%E3%80%87%E5%8F%B7%E6%B5%B7%E9%98%B2%E8%89%A6",
     "stages": [
       {
-        "level": 40,
+        "level": 35,
         "name": "第三〇号海防艦改",
         "type": "海防艦",
         "class": "丁型海防艦 15番艦",
@@ -5942,14 +6000,14 @@
   },
   {
     "name": "第四号海防艦",
-    "hiragana": "だいよんごうかいぼうかん",
+    "hiragana": "だいよんごう",
     "type": "海防艦",
     "class": "丁型海防艦 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/第四号海防艦/::ref/第四号海防艦_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%AC%AC%E5%9B%9B%E5%8F%B7%E6%B5%B7%E9%98%B2%E8%89%A6%E6%94%B9/::ref/437b.png.webp?rev=dd0b01feb7617956e17109e22c6bc715&t=20200627191245",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%AC%AC%E5%9B%9B%E5%8F%B7%E6%B5%B7%E9%98%B2%E8%89%A6",
     "stages": [
       {
-        "level": 40,
+        "level": 35,
         "name": "第四号海防艦改",
         "type": "海防艦",
         "class": "丁型海防艦 2番艦",
@@ -5961,8 +6019,8 @@
     "name": "能美",
     "hiragana": "のうみ",
     "type": "海防艦",
-    "class": "御蔵型 2番艦",
-    "imageUrl": "",
+    "class": "御蔵型 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%83%BD%E7%BE%8E%E6%94%B9/::ref/509.png.webp?rev=dff2659674847e62301ee5c7b7b41879&t=20230329073217",
     "wikiUrl": "https://wikiwiki.jp/kancolle/能美",
     "stages": [
       {
@@ -5978,7 +6036,7 @@
     "hiragana": "うくる",
     "type": "海防艦",
     "class": "鵜来型 1番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%B5%9C%E6%9D%A5%E6%94%B9/::ref/526.png.webp?rev=963e7e3c8a12e8d76452bdbc7d70d720&t=20220828194222",
     "wikiUrl": "https://wikiwiki.jp/kancolle/鵜来",
     "stages": [
       {
@@ -5994,7 +6052,7 @@
     "hiragana": "アイツヴォル",
     "type": "海防戦艦",
     "class": "Norge級 2番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Eidsvold%E6%94%B9/::ref/599b.png.webp?rev=b4468ff6f24f1fbb43ca41242febbc4c&t=20251101074447",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Eidsvold",
     "stages": [
       {
@@ -6010,7 +6068,7 @@
     "hiragana": "ノルゲ",
     "type": "海防戦艦",
     "class": "Norge級 1番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Norge%E6%94%B9/::ref/598b.png.webp?rev=4f88834bf9b7348f7038b163716be643&t=20251031204654",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Norge",
     "stages": [
       {
@@ -6026,14 +6084,17 @@
     "hiragana": "トンブリ",
     "type": "海防戦艦",
     "class": "Thonburi級 1番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Thonburi%E6%94%B9/::ref/578.png.webp?rev=0869b0aa75745c8dac0f24809446161d&t=20251228193913",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Thonburi",
     "stages": [
       {
         "level": 40,
         "name": "Thonburi改",
         "type": "海防戦艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 20
+        }
       }
     ]
   },
@@ -6041,8 +6102,8 @@
     "name": "C.Cappellini",
     "hiragana": "コマンダンテ・カッペリーニ",
     "type": "潜水艦",
-    "class": "Archimede級",
-    "imageUrl": "",
+    "class": "Marcello級 10番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A503/::ref/540.png.webp?rev=d09a26b563f5e021560145609997a9b3&t=20230828190150",
     "wikiUrl": "https://wikiwiki.jp/kancolle/C.Cappellini",
     "stages": [
       {
@@ -6070,7 +6131,7 @@
     "hiragana": "デイス",
     "type": "潜水艦",
     "class": "Gato級",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Leonardo%20da%20Vinci/::ref/607.png.webp?rev=2789202d6d083bb7a16e4afef1cbccbd&t=20251114210402",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Dace",
     "stages": [
       {
@@ -6092,7 +6153,7 @@
     "hiragana": "ドラム",
     "type": "潜水艦",
     "class": "Gato級",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Drum%E6%94%B9/::ref/492b.png.webp?rev=0f1ca5064442337040923b503bfc28de&t=20240302061933",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Drum",
     "stages": [
       {
@@ -6107,8 +6168,8 @@
     "name": "Luigi Torelli",
     "hiragana": "ルイージ・トレッリ",
     "type": "潜水艦",
-    "class": "Guglielmo Marconi級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Luigi%20Torelli/::ref/luigi torelli_card.jpg",
+    "class": "Guglielmo Marconi級 4番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A504/::ref/330_2nd.jpg.webp?rev=80d55e2545f5f057aec93eb9c20aceb9&t=20180917164916",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Luigi%20Torelli",
     "stages": [
       {
@@ -6135,12 +6196,12 @@
     "name": "Salmon",
     "hiragana": "サーモン",
     "type": "潜水艦",
-    "class": "Salmon級 1番艦",
-    "imageUrl": "",
+    "class": "Salmon級",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Salmon%E6%94%B9/::ref/496.png.webp?rev=fd8bf71e6c39b9a4bc8488f01f0288ac&t=20230816051907",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Salmon",
     "stages": [
       {
-        "level": 50,
+        "level": 45,
         "name": "Salmon改",
         "type": "潜水艦",
         "resources": {}
@@ -6152,7 +6213,7 @@
     "hiragana": "スキャンプ",
     "type": "潜水艦",
     "class": "Gato級",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Scamp%E6%94%B9/::ref/493b.png.webp?rev=bffc593e1805f4e495872ef83c449351&t=20211121172046",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Scamp",
     "stages": [
       {
@@ -6167,20 +6228,22 @@
     "name": "U-511",
     "hiragana": "ユー511",
     "type": "潜水艦",
-    "class": "U-boat IXC型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/U-511/::ref/u-511_card.jpg",
+    "class": "UボートIXC型",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%91%82500/::ref/236_2nd.jpg.webp?rev=626962345e19c53b452674e204271c7a&t=20180913114124",
     "wikiUrl": "https://wikiwiki.jp/kancolle/U-511",
     "stages": [
       {
         "level": 35,
         "name": "U-511改",
         "type": "潜水艦",
+        "class": "UボートIXC型",
         "resources": {}
       },
       {
         "level": 55,
         "name": "呂500",
         "type": "潜水艦",
+        "class": "呂号潜水艦",
         "resources": {}
       }
     ]
@@ -6190,7 +6253,7 @@
     "hiragana": "ワフー",
     "type": "潜水艦",
     "class": "Gato級",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Wahoo%E6%94%B9/::ref/589.png.webp?rev=b0374ef679f2449f5b1ef00a8374fb66&t=20250310203431",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Wahoo",
     "stages": [
       {
@@ -6206,7 +6269,7 @@
     "hiragana": "まるゆ",
     "type": "潜水艦",
     "class": "三式潜航輸送艇",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/まるゆ/::ref/まるゆ_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E3%81%BE%E3%82%8B%E3%82%86%E6%94%B9/::ref/163b_2nd.jpg.webp?rev=54f649238a901c687d8119156139553b&t=20180930222252",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E3%81%BE%E3%82%8B%E3%82%86",
     "stages": [
       {
@@ -6222,15 +6285,15 @@
     "name": "伊168",
     "hiragana": "い168",
     "type": "潜水艦",
-    "class": "海大VI型a 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊168/::ref/伊168_card.jpg",
+    "class": "海大VI型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A168%E6%94%B9/::ref/126b_2nd.jpg.webp?rev=a16f2e23377249542e78043a696238aa&t=20180929130114",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A168",
     "stages": [
       {
         "level": 50,
         "name": "伊168改",
         "type": "潜水艦",
-        "class": "海大VI型a 1番艦",
+        "class": "海大VI型 1番艦",
         "resources": {}
       }
     ]
@@ -6240,7 +6303,7 @@
     "hiragana": "い19",
     "type": "潜水艦",
     "class": "巡潜乙型 3番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊19/::ref/伊19_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A19%E6%94%B9/::ref/123b_2nd.jpg.webp?rev=be9f067e56e515abc7e0e62041cbcea5&t=20180929125932",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A19",
     "stages": [
       {
@@ -6257,7 +6320,7 @@
     "hiragana": "い201",
     "type": "潜水艦",
     "class": "潜高型 1番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A201%E6%94%B9/::ref/481b.png.webp?rev=a1b156bcf2e8cddd55fa613c9b7dd528&t=20220529044643",
     "wikiUrl": "https://wikiwiki.jp/kancolle/伊201",
     "stages": [
       {
@@ -6272,8 +6335,8 @@
     "name": "伊203",
     "hiragana": "い203",
     "type": "潜水艦",
-    "class": "潜高型 2番艦",
-    "imageUrl": "",
+    "class": "潜高型 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A203%E6%94%B9/::ref/487.png.webp?rev=d8feaaef3d3c7b031dbcaec0c5971f81&t=20210510222348",
     "wikiUrl": "https://wikiwiki.jp/kancolle/伊203",
     "stages": [
       {
@@ -6304,15 +6367,15 @@
   {
     "name": "伊36",
     "hiragana": "い36",
-    "type": "潜水艦",
+    "type": "潜水空母",
     "class": "巡潜乙型改二 1番艦",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A36%E6%94%B9/::ref/576.png.webp?rev=dc02cac03720a59bf9ae9da88cd6dab1&t=20240302203725",
     "wikiUrl": "https://wikiwiki.jp/kancolle/伊36",
     "stages": [
       {
         "level": 50,
         "name": "伊36改",
-        "type": "潜水艦",
+        "type": "潜水空母",
         "resources": {}
       }
     ]
@@ -6320,9 +6383,9 @@
   {
     "name": "伊41",
     "hiragana": "い41",
-    "type": "潜水艦",
-    "class": "巡潜乙型改二 2番艦",
-    "imageUrl": "",
+    "type": "潜水空母",
+    "class": "巡潜乙型改一 2番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A41%E6%94%B9/::ref/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%20%281%29.png.webp?rev=1cb5594a8f308a7b3c7a0bb2573b5d25&t=20240306191319",
     "wikiUrl": "https://wikiwiki.jp/kancolle/伊41",
     "stages": [
       {
@@ -6337,15 +6400,15 @@
     "name": "伊47",
     "hiragana": "い47",
     "type": "潜水艦",
-    "class": "巡潜丙型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊47/::ref/伊47_card.jpg",
+    "class": "巡潜丙型 7番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A47/::ref/436.png.webp?rev=9be41a513860710e3dcd397660895489&t=20200627102517",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A47",
     "stages": [
       {
         "level": 45,
         "name": "伊47改",
         "type": "潜水艦",
-        "class": "巡潜丙型 1番艦",
+        "class": "巡潜丙型 7番艦",
         "resources": {}
       }
     ]
@@ -6354,15 +6417,15 @@
     "name": "伊58",
     "hiragana": "い58",
     "type": "潜水艦",
-    "class": "巡潜乙型改二 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊58/::ref/伊58_card.jpg",
+    "class": "巡潜乙型改二 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A58%E6%94%B9/::ref/127b_2nd.jpg.webp?rev=2167dc7bcec4dadb96893d0d20a23c3b&t=20180930081819",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A58",
     "stages": [
       {
         "level": 50,
         "name": "伊58改",
         "type": "潜水空母",
-        "class": "巡潜乙型改二 1番艦",
+        "class": "巡潜乙型改二 3番艦",
         "resources": {}
       }
     ]
@@ -6372,7 +6435,7 @@
     "hiragana": "い8",
     "type": "潜水艦",
     "class": "巡潜3型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊8/::ref/伊8_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A8%E6%94%B9/::ref/128b_2nd.jpg.webp?rev=5116188353c50a7269f5802dccb5a9ad&t=20180930083033",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A8",
     "stages": [
       {
@@ -6389,14 +6452,14 @@
     "hiragana": "い13",
     "type": "潜水空母",
     "class": "巡潜甲型改二 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊13/::ref/伊13_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A13%E6%94%B9/::ref/294b_2nd.jpg.webp?rev=37573ff39c525e48d5bce395b36f365e&t=20181005142901",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A13",
     "stages": [
       {
         "level": 45,
         "name": "伊13改",
         "type": "潜水空母",
-        "class": "伊13型 1番艦",
+        "class": "巡潜甲型改二 1番艦",
         "resources": {}
       }
     ]
@@ -6406,14 +6469,14 @@
     "hiragana": "い14",
     "type": "潜水空母",
     "class": "巡潜甲型改二 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊14/::ref/伊14_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A14%E6%94%B9/::ref/295b_2nd.jpg.webp?rev=c14cdcab6fa7da2c61bf7c8c5c161329&t=20181005143007",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A14",
     "stages": [
       {
         "level": 45,
         "name": "伊14改",
         "type": "潜水空母",
-        "class": "伊13型 2番艦",
+        "class": "巡潜甲型改二 2番艦",
         "resources": {}
       }
     ]
@@ -6422,15 +6485,15 @@
     "name": "伊400",
     "hiragana": "い400",
     "type": "潜水空母",
-    "class": "伊400型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊400/::ref/伊400_card.jpg",
+    "class": "潜特型(伊400型潜水艦)",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A400%E6%94%B9/::ref/293b_2nd.jpg.webp?rev=6b56d70526cb4b922ee74ea64cc824d2&t=20181005142709",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A400",
     "stages": [
       {
-        "level": 35,
+        "level": 37,
         "name": "伊400改",
         "type": "潜水空母",
-        "class": "伊400型 1番艦",
+        "class": "潜特型(伊400型潜水艦)",
         "resources": {}
       }
     ]
@@ -6439,15 +6502,15 @@
     "name": "伊401",
     "hiragana": "い401",
     "type": "潜水空母",
-    "class": "伊400型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/伊401/::ref/伊401_card.jpg",
+    "class": "潜特型(伊400型潜水艦)",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E4%BC%8A401%E6%94%B9/::ref/155b_2nd.jpg.webp?rev=cd9c281764b9a2885e297292f95b0081&t=20180930221931",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E4%BC%8A401",
     "stages": [
       {
         "level": 35,
         "name": "伊401改",
         "type": "潜水空母",
-        "class": "伊400型 2番艦",
+        "class": "潜特型(伊400型潜水艦)",
         "resources": {}
       }
     ]
@@ -6457,13 +6520,14 @@
     "hiragana": "たいげい",
     "type": "潜水母艦",
     "class": "大鯨型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/大鯨/::ref/大鯨_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%BE%8D%E9%B3%B3%E6%94%B9%E4%BA%8C/::ref/488.jpg.webp?rev=ab979dee575859fa36acdff2a06d4ac9&t=20210422213403",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%A4%A7%E9%AF%A8",
     "stages": [
       {
         "level": 25,
         "name": "龍鳳",
         "type": "軽空母",
+        "class": "龍鳳型 1番艦",
         "resources": {
           "改装設計図": 1
         }
@@ -6472,22 +6536,28 @@
         "level": 50,
         "name": "龍鳳改",
         "type": "軽空母",
+        "class": "龍鳳型 1番艦",
         "resources": {}
       },
       {
         "level": 80,
         "name": "龍鳳改二戊",
         "type": "軽空母",
+        "class": "改龍鳳型",
         "resources": {
           "改装設計図": 1,
-          "試製甲板カタパルト": 1
+          "試製甲板カタパルト": 1,
+          "開発資材": 20
         }
       },
       {
-        "level": 82,
+        "level": 88,
         "name": "龍鳳改二",
         "type": "軽空母",
-        "resources": {}
+        "class": "改龍鳳型",
+        "resources": {
+          "高速建造材": 20
+        }
       }
     ]
   },
@@ -6495,8 +6565,8 @@
     "name": "平安丸",
     "hiragana": "へいあんまる",
     "type": "潜水母艦",
-    "class": "平安丸型",
-    "imageUrl": "",
+    "class": "改氷川丸級 3番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%B9%B3%E5%AE%89%E4%B8%B8%E6%94%B9/::ref/549.png.webp?rev=b88b1e48b4ec84b0cce8bdc1be189e9d&t=20240304055921",
     "wikiUrl": "https://wikiwiki.jp/kancolle/平安丸",
     "stages": [
       {
@@ -6512,11 +6582,11 @@
     "hiragana": "じんげい",
     "type": "潜水母艦",
     "class": "迅鯨型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/迅鯨/::ref/迅鯨_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E8%BF%85%E9%AF%A8%E6%94%B9/::ref/434b.png.webp?rev=9b97b163502067f4b484cb2aa89ad42b&t=20200628091611",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E8%BF%85%E9%AF%A8",
     "stages": [
       {
-        "level": 40,
+        "level": 45,
         "name": "迅鯨改",
         "type": "潜水母艦",
         "class": "迅鯨型 1番艦",
@@ -6529,11 +6599,11 @@
     "hiragana": "ちょうげい",
     "type": "潜水母艦",
     "class": "迅鯨型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/長鯨/::ref/長鯨_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%95%B7%E9%AF%A8%E6%94%B9/::ref/440.png.webp?rev=9e2441cc9688900111ca55a7339fa705&t=20210821091643",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%95%B7%E9%AF%A8",
     "stages": [
       {
-        "level": 40,
+        "level": 47,
         "name": "長鯨改",
         "type": "潜水母艦",
         "class": "迅鯨型 2番艦",
@@ -6545,15 +6615,15 @@
     "name": "Commandant Teste",
     "hiragana": "コマンダン・テスト",
     "type": "水上機母艦",
-    "class": "Commandant Teste級 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Commandant%20Teste/::ref/commandant teste_card.jpg",
+    "class": "C.Teste級 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/Commandant%20Teste%E6%94%B9/::ref/291b_2nd.jpg.webp?rev=df61184586757a8babf9ca2f16bebc2a&t=20181005121925",
     "wikiUrl": "https://wikiwiki.jp/kancolle/Commandant%20Teste",
     "stages": [
       {
         "level": 40,
         "name": "Commandant Teste改",
         "type": "水上機母艦",
-        "class": "Commandant Teste級 1番艦",
+        "class": "C.Teste級 1番艦",
         "resources": {}
       }
     ]
@@ -6563,7 +6633,7 @@
     "hiragana": "ちよだ",
     "type": "水上機母艦",
     "class": "千歳型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/千代田/::ref/千代田_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%8D%83%E4%BB%A3%E7%94%B0%E8%88%AA%E6%94%B9%E4%BA%8C/::ref/122_2nd.jpg.webp?rev=894bec9f9ff2189834fafc2015c821bb&t=20180907150944",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8D%83%E4%BB%A3%E7%94%B0",
     "stages": [
       {
@@ -6584,21 +6654,21 @@
         "level": 15,
         "name": "千代田航",
         "type": "軽空母",
-        "class": "千代田型 1番艦",
+        "class": "千歳型 2番艦",
         "resources": {}
       },
       {
         "level": 35,
         "name": "千代田航改",
         "type": "軽空母",
-        "class": "千代田型 1番艦",
+        "class": "千歳型 2番艦",
         "resources": {}
       },
       {
         "level": 50,
         "name": "千代田航改二",
         "type": "軽空母",
-        "class": "千代田型 1番艦",
+        "class": "千歳型 2番艦",
         "resources": {}
       }
     ]
@@ -6608,7 +6678,7 @@
     "hiragana": "ちとせ",
     "type": "水上機母艦",
     "class": "千歳型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/千歳/::ref/千歳_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%8D%83%E6%AD%B3%E8%88%AA%E6%94%B9%E4%BA%8C/::ref/121_2nd.jpg.webp?rev=ceb73b29ebaea28c88d3cdcb4467860a&t=20180907150809",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%8D%83%E6%AD%B3",
     "stages": [
       {
@@ -6653,7 +6723,7 @@
     "hiragana": "にっしん",
     "type": "水上機母艦",
     "class": "日進型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/日進/::ref/日進_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%97%A5%E9%80%B2%E7%94%B2/::ref/386.jpg?rev=4bd0992c736e648f218633ff27204143&t=20181229063903",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%97%A5%E9%80%B2",
     "stages": [
       {
@@ -6675,7 +6745,7 @@
     "hiragana": "みずほ",
     "type": "水上機母艦",
     "class": "瑞穂型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/瑞穂/::ref/瑞穂_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%91%9E%E7%A9%82%E6%94%B9/::ref/251b_2nd.jpg.webp?rev=437432630513afb3116c135d60a885f9&t=20181004045625",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%91%9E%E7%A9%82",
     "stages": [
       {
@@ -6692,7 +6762,7 @@
     "hiragana": "あきつしま",
     "type": "水上機母艦",
     "class": "秋津洲型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/秋津洲/::ref/秋津洲_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A7%8B%E6%B4%A5%E6%B4%B2%E6%94%B9/::ref/250_2nd.jpg.webp?rev=585eac7f0a19c3ec74a7be4db006139d&t=20180914125430",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A7%8B%E6%B4%A5%E6%B4%B2",
     "stages": [
       {
@@ -6708,15 +6778,15 @@
     "name": "あきつ丸",
     "hiragana": "あきつまる",
     "type": "揚陸艦",
-    "class": "あきつ丸型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/あきつ丸/::ref/あきつ丸_card.jpg",
+    "class": "特種船丙型",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E3%81%82%E3%81%8D%E3%81%A4%E4%B8%B8%E6%94%B9/::ref/166_2nd.jpg.webp?rev=3dd8fcc173ffa9ec25196962781392a9&t=20180909123627",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E3%81%82%E3%81%8D%E3%81%A4%E4%B8%B8",
     "stages": [
       {
         "level": 25,
         "name": "あきつ丸改",
         "type": "揚陸艦",
-        "class": "あきつ丸型 1番艦",
+        "class": "特種船丙型",
         "resources": {}
       }
     ]
@@ -6725,15 +6795,18 @@
     "name": "熊野丸",
     "hiragana": "くまのまる",
     "type": "揚陸艦",
-    "class": "熊野丸型",
-    "imageUrl": "",
+    "class": "特種船M丙型",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%86%8A%E9%87%8E%E4%B8%B8%E6%94%B9/::ref/548.png.webp?rev=d8b47825df2a3c5d2346e9b68d2ad5b7&t=20230310051336",
     "wikiUrl": "https://wikiwiki.jp/kancolle/熊野丸",
     "stages": [
       {
         "level": 50,
         "name": "熊野丸改",
         "type": "揚陸艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 18,
+          "開発資材": 22
+        }
       }
     ]
   },
@@ -6741,32 +6814,36 @@
     "name": "神州丸",
     "hiragana": "しんしゅうまる",
     "type": "揚陸艦",
-    "class": "神州丸型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/神州丸/::ref/神州丸_card.jpg",
+    "class": "陸軍特種船(R1)",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%A5%9E%E5%B7%9E%E4%B8%B8%E6%94%B9/::ref/426.png.webp?rev=850be6748a1fe41577115ced68290112&t=20191201095038",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E7%A5%9E%E5%B7%9E%E4%B8%B8",
     "stages": [
       {
         "level": 48,
         "name": "神州丸改",
         "type": "揚陸艦",
-        "class": "神州丸型 1番艦",
+        "class": "陸軍特種船(R1)",
         "resources": {}
       }
     ]
   },
   {
     "name": "第百一号輸送艦",
-    "hiragana": "だいひゃくいちごうゆそうかん",
+    "hiragana": "だいひゃくいちごう",
     "type": "戦車揚陸艦",
-    "class": "第一号型輸送艦",
-    "imageUrl": "",
+    "class": "二等輸送艦 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E7%AC%AC%E7%99%BE%E4%B8%80%E5%8F%B7%E8%BC%B8%E9%80%81%E8%89%A6%E6%94%B9/::ref/545b.png.webp?rev=10e92d65af9203ea345393d14ebfb898&t=20230406034128",
     "wikiUrl": "https://wikiwiki.jp/kancolle/第百一号輸送艦",
     "stages": [
       {
         "level": 50,
         "name": "第百一号輸送艦改",
         "type": "戦車揚陸艦",
-        "resources": {}
+        "class": "二等輸送艦 1番艦",
+        "resources": {
+          "高速建造材": 11,
+          "開発資材": 9
+        }
       }
     ]
   },
@@ -6774,15 +6851,15 @@
     "name": "速吸",
     "hiragana": "はやすい",
     "type": "補給艦",
-    "class": "風早型 2番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/速吸/::ref/速吸_card.jpg",
+    "class": "改風早型 1番艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%80%9F%E5%90%B8%E6%94%B9/::ref/260b_2nd.jpg.webp?rev=96e4e8e4e469af4a5ed82ab713543800&t=20181004154457",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E9%80%9F%E5%90%B8",
     "stages": [
       {
         "level": 25,
         "name": "速吸改",
         "type": "補給艦",
-        "class": "風早型 2番艦",
+        "class": "改風早型 1番艦",
         "resources": {}
       }
     ]
@@ -6792,7 +6869,7 @@
     "hiragana": "あかし",
     "type": "工作艦",
     "class": "明石型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/明石/::ref/明石_card.jpg",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E6%98%8E%E7%9F%B3%E6%94%B9/::ref/187_2nd.jpg.webp?rev=347d2f353970d5f163eee2a5c993209d&t=20180910184928",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E6%98%8E%E7%9F%B3",
     "stages": [
       {
@@ -6809,14 +6886,17 @@
     "hiragana": "おおどまり",
     "type": "砕氷艦",
     "class": "大泊型",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%A4%A7%E6%B3%8A%E6%94%B9/::ref/600.png.webp?rev=513475bd9fc6f649e242b91e51e6f315&t=20250312235827",
     "wikiUrl": "https://wikiwiki.jp/kancolle/大泊",
     "stages": [
       {
         "level": 55,
         "name": "大泊改",
         "type": "砕氷艦",
-        "resources": {}
+        "resources": {
+          "高速建造材": 8,
+          "開発資材": 12
+        }
       }
     ]
   },
@@ -6824,21 +6904,26 @@
     "name": "南海",
     "hiragana": "なんかい",
     "type": "雑役船",
-    "class": "南海型",
-    "imageUrl": "",
+    "class": "冷凍船",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E9%87%8E%E5%9F%BC%E6%94%B9/::ref/602.png.webp?rev=69708d08bfc1755b1dcd33c9a45f8ab7&t=20251112175246",
     "wikiUrl": "https://wikiwiki.jp/kancolle/南海",
     "stages": [
       {
         "level": 16,
         "name": "野埼",
         "type": "給糧艦",
+        "class": "野埼型",
         "resources": {}
       },
       {
         "level": 60,
         "name": "野埼改",
         "type": "給糧艦",
-        "resources": {}
+        "class": "野埼型",
+        "resources": {
+          "高速建造材": 7,
+          "開発資材": 9
+        }
       }
     ]
   },
@@ -6932,23 +7017,29 @@
     "name": "宗谷",
     "hiragana": "そうや",
     "type": "特務艦",
-    "class": "宗谷型 1番艦",
-    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/宗谷/::ref/宗谷_card.jpg",
+    "class": "耐氷型雑用運送艦",
+    "imageUrl": "https://cdn.wikiwiki.jp/to/w/kancolle/%E5%AE%97%E8%B0%B7%28%E5%8D%97%E6%A5%B5%E8%A6%B3%E6%B8%AC%E8%88%B9%29/::ref/450.png.webp?rev=f6137ff514d347afed1eb0b678ee8714&t=20210529160746",
     "wikiUrl": "https://wikiwiki.jp/kancolle/%E5%AE%97%E8%B0%B7",
     "stages": [
       {
-        "level": 25,
+        "level": 60,
         "name": "宗谷(灯台補給船)",
         "type": "灯台補給船",
-        "class": "宗谷型 1番艦",
-        "resources": {}
+        "class": "LL01",
+        "resources": {
+          "高速建造材": 5,
+          "開発資材": 5
+        }
       },
       {
-        "level": 35,
+        "level": 60,
         "name": "宗谷(南極観測船)",
         "type": "南極観測船",
-        "class": "宗谷型 1番艦",
-        "resources": {}
+        "class": "PL107",
+        "resources": {
+          "高速建造材": 10,
+          "開発資材": 20
+        }
       }
     ]
   },

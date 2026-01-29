@@ -4,11 +4,16 @@ import { toRomaji } from 'wanakana';
 
 
 
-// Pre-calculate Romaji for performance
-const shipsWithRomaji = rawShipsData.map(ship => ({
-    ...ship,
-    romaji: ship.hiragana ? toRomaji(ship.hiragana) : ''
-}));
+// Helper to add Romaji to ship data
+export const enrichShipData = (ships) => {
+    return ships.map(ship => ({
+        ...ship,
+        romaji: ship.hiragana ? toRomaji(ship.hiragana) : ''
+    }));
+};
+
+// Pre-calculate Romaji for performance (using the helper)
+const shipsWithRomaji = enrichShipData(rawShipsData);
 
 export const getAllShips = () => {
     return shipsWithRomaji;
@@ -84,7 +89,6 @@ export const matchesSearch = (ship, query) => {
     // Name, Hiragana, Romaji, Class, Type
     if (ship.name.toLowerCase().includes(q)) return true;
     if (ship.hiragana?.includes(q)) return true;
-    if (ship.romaji?.includes(q)) return true; // Romaji check
     if (ship.class.toLowerCase().includes(q)) return true;
     if (ship.type.toLowerCase().includes(q)) return true;
 
