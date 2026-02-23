@@ -1196,8 +1196,8 @@
       {
         "level": 98,
         "name": "飛龍改三",
-        "type": "正規空母",
-        "class": "飛龍型 1番艦",
+        "type": "航空母艦",
+        "class": "重近代化改装飛龍型",
         "resources": {
           "改装設計図": 1,
           "戦闘詳報": 1,
@@ -2196,7 +2196,7 @@
         "resources": {}
       },
       {
-        "level": 55,
+        "level": 85,
         "name": "Gotland andra",
         "type": "軽(航空)巡洋艦",
         "class": "Gotland級 1番艦",
